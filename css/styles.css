@@ -71,6 +71,9 @@ nav {
 
 .hamburger {
     display: none;
+    flex-direction: column;
+    gap: 4px;
+    padding: 8px;
 }
 
 .logo {
@@ -242,10 +245,15 @@ footer p {
         font-size: 2.5rem;
     }
 
+    nav {
+        position: relative;
+    }
+
     .hamburger {
-        display: block;
+        display: flex;
         cursor: pointer;
         z-index: 1001;
+        position: relative;
     }
 
     .hamburger span {
@@ -253,7 +261,6 @@ footer p {
         width: 25px;
         height: 3px;
         background-color: var(--text-color);
-        margin: 5px 0;
         transition: all 0.3s ease;
     }
 
