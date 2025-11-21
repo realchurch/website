@@ -69,6 +69,10 @@ nav {
     align-items: center;
 }
 
+.hamburger {
+    display: none;
+}
+
 .logo {
     font-family: var(--font-heading);
     font-size: 1.5rem;
@@ -238,9 +242,60 @@ footer p {
         font-size: 2.5rem;
     }
 
+    .hamburger {
+        display: block;
+        cursor: pointer;
+        z-index: 1001;
+    }
+
+    .hamburger span {
+        display: block;
+        width: 25px;
+        height: 3px;
+        background-color: var(--text-color);
+        margin: 5px 0;
+        transition: all 0.3s ease;
+    }
+
+    /* Hamburger Animation */
+    .hamburger.active span:nth-child(1) {
+        transform: rotate(45deg) translate(5px, 5px);
+    }
+
+    .hamburger.active span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .hamburger.active span:nth-child(3) {
+        transform: rotate(-45deg) translate(7px, -6px);
+    }
+
     .nav-links {
-        display: none;
-        /* Mobile menu to be implemented */
+        position: fixed;
+        top: 0;
+        right: -100%;
+        height: 100vh;
+        width: 70%;
+        background-color: var(--bg-color);
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transition: right 0.3s ease;
+        box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+        z-index: 1000;
+        padding: 2rem;
+    }
+
+    .nav-links.active {
+        right: 0;
+    }
+
+    .nav-links li {
+        margin: 1.5rem 0;
+    }
+
+    .nav-links a {
+        font-size: 1.5rem;
     }
 }
 
