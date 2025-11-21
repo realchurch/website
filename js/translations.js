@@ -41,7 +41,7 @@ const translations = {
         "about.bio.p2": "He has served as an Air Force chaplain, representative of the Ohio Korean Student Mission, and adjunct professor at Sungkyul University and Seoul Theological University. He is currently the senior pastor of Peace Church (평화성결교회).",
         "about.bio.p3": "His books include <em>David Before the Gray Rhino</em> (회색 코뿔소 앞에 선 다윗), <em>Heaven Curation</em> (천국 큐레이팅), <em>Cancer Patient Care Ministry</em> (암환자 돌봄사역), <em>Disability-Friendly Church</em> (장애 친화적 교회), <em>Suicide Blocked by God</em> (하나님이 막으시는 자살), <em>Senior Communication</em> (노년 커뮤니케이션), <em>The Table</em> (The Table-성경의 테이블), and <em>Death Preparation</em> (죽음예비학).",
         "about.contact": "Contact",
-        "about.contact.desc": "For speaking inquiries or to say hello, please email:",
+        "about.contact.desc": "For speaking inquiries or questions, please email:",
 
         // Full Article Pages
         "article.back": "← Back to Articles",
@@ -100,7 +100,7 @@ const translations = {
         "about.bio.p2": "공군 군목, 오하이오 한인학생선교회 대표, 성결대학교·서울신학대학교 외래교수를 역임했으며, 현재 평화성결교회 담임목사로 섬기고 있다.",
         "about.bio.p3": "저서로는 <em>회색 코뿔소 앞에 선 다윗</em>, <em>천국 큐레이팅</em>, <em>암환자 돌봄사역</em>, <em>장애 친화적 교회</em>, <em>하나님이 막으시는 자살</em>, <em>노년 커뮤니케이션</em>, <em>The Table-성경의 테이블</em>, <em>죽음예비학</em> 등이 있다.",
         "about.contact": "연락처",
-        "about.contact.desc": "강연 문의나 인사는 아래 이메일로 보내주세요:",
+        "about.contact.desc": "강연 문의나 질문은 아래 이메일로 보내주세요:",
 
         // Full Article Pages
         "article.back": "← 칼럼 목록으로",
