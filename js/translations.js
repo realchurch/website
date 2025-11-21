@@ -14,8 +14,8 @@ const translations = {
         "book2.desc": "A journey through biblical understanding of heaven - what's there, what's not, and why it matters.",
         "book3.title": "Cancer Patient Care Ministry",
         "book3.desc": "A comprehensive guide for churches to support and care for cancer patients and their families.",
-        "book4.title": "Dementia-Friendly Church",
-        "book4.desc": "Building congregations that embrace and support those living with dementia.",
+        "book4.title": "Disability-Friendly Church",
+        "book4.desc": "Building congregations that embrace and support those living with disabilities.",
         "btn.learn_more": "Learn More",
         "footer.rights": "&copy; 2025 Rev. Choi Jong-in. All rights reserved.",
 
@@ -39,7 +39,7 @@ const translations = {
         "about.hero.title": "About Rev. Choi Jong-in",
         "about.bio.p1": "Rev. Choi Jong-in holds a Master's degree in Journalism from Chung-Ang University, a Master of Divinity and a Doctor of Theology from Seoul Theological University, and a Doctor of Missiology from United Theological Seminary in the USA.",
         "about.bio.p2": "He has served as an Air Force chaplain, representative of the Ohio Korean Student Mission, and adjunct professor at Sungkyul University and Seoul Theological University. He is currently the senior pastor of Peace Church (평화성결교회).",
-        "about.bio.p3": "His books include <em>David Before the Gray Rhino</em> (회색 코뿔소 앞에 선 다윗), <em>Heaven Curation</em> (천국 큐레이팅), <em>Cancer Patient Care Ministry</em> (암환자 돌봄사역), <em>Dementia-Friendly Church</em> (치매 친화적 교회), <em>Suicide Blocked by God</em> (하나님이 막으시는 자살), <em>Senior Communication</em> (노년 커뮤니케이션), <em>The Table</em> (The Table-성경의 테이블), and <em>Death Preparation</em> (죽음예비학).",
+        "about.bio.p3": "His books include <em>David Before the Gray Rhino</em> (회색 코뿔소 앞에 선 다윗), <em>Heaven Curation</em> (천국 큐레이팅), <em>Cancer Patient Care Ministry</em> (암환자 돌봄사역), <em>Disability-Friendly Church</em> (장애 친화적 교회), <em>Suicide Blocked by God</em> (하나님이 막으시는 자살), <em>Senior Communication</em> (노년 커뮤니케이션), <em>The Table</em> (The Table-성경의 테이블), and <em>Death Preparation</em> (죽음예비학).",
         "about.contact": "Contact",
         "about.contact.desc": "For speaking inquiries or to say hello, please email:",
 
@@ -73,8 +73,8 @@ const translations = {
         "book2.desc": "천국에 대한 성경적 이해 - 천국에 있는 것, 없는 것, 그리고 그 의미.",
         "book3.title": "암환자 돌봄사역",
         "book3.desc": "암환자와 그 가족을 돌보는 교회의 포괄적인 돌봄 사역 가이드.",
-        "book4.title": "치매 친화적 교회",
-        "book4.desc": "치매를 앓고 있는 이들을 포용하고 지원하는 교회 공동체 만들기.",
+        "book4.title": "장애 친화적 교회",
+        "book4.desc": "장애를 가진 이들을 포용하고 지원하는 교회 공동체 만들기.",
         "btn.learn_more": "더 보기",
         "footer.rights": "&copy; 2025 최종인 목사. All rights reserved.",
 
@@ -98,7 +98,7 @@ const translations = {
         "about.hero.title": "최종인 목사 소개",
         "about.bio.p1": "중앙대학교 언론학 석사, 서울신학대학교 목회학 석사, 신학 박사, 미국 United 신학대학원 선교학 박사를 이수했다.",
         "about.bio.p2": "공군 군목, 오하이오 한인학생선교회 대표, 성결대학교·서울신학대학교 외래교수를 역임했으며, 현재 평화성결교회 담임목사로 섬기고 있다.",
-        "about.bio.p3": "저서로는 <em>회색 코뿔소 앞에 선 다윗</em>, <em>천국 큐레이팅</em>, <em>암환자 돌봄사역</em>, <em>치매 친화적 교회</em>, <em>하나님이 막으시는 자살</em>, <em>노년 커뮤니케이션</em>, <em>The Table-성경의 테이블</em>, <em>죽음예비학</em> 등이 있다.",
+        "about.bio.p3": "저서로는 <em>회색 코뿔소 앞에 선 다윗</em>, <em>천국 큐레이팅</em>, <em>암환자 돌봄사역</em>, <em>장애 친화적 교회</em>, <em>하나님이 막으시는 자살</em>, <em>노년 커뮤니케이션</em>, <em>The Table-성경의 테이블</em>, <em>죽음예비학</em> 등이 있다.",
         "about.contact": "연락처",
         "about.contact.desc": "강연 문의나 인사는 아래 이메일로 보내주세요:",
 
