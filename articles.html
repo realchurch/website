@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rev. Choi Jong-in | 최종인 목사</title>
+    <meta name="description" content="Articles and reflections by Rev. Choi Jong-in on faith and ministry.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        .article-list {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .article-item {
+            margin-bottom: 4rem;
+            border-bottom: 1px solid rgba(74, 59, 50, 0.1);
+            padding-bottom: 2rem;
+        }
+
+        .article-item:last-child {
+            border-bottom: none;
+        }
+
+        .article-date {
+            font-size: 0.9rem;
+            color: #888;
+            margin-bottom: 0.5rem;
+            display: block;
+        }
+
+        .article-title {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        .article-excerpt {
+            font-size: 1.1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .read-more {
+            color: var(--accent-color);
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .read-more:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">Rev. [Name]</div>
+                <ul class="nav-links">
+                    <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+                    <li><a href="books.html" data-i18n="nav.books">Books</a></li>
+                    <li><a href="articles.html" class="active" data-i18n="nav.articles">Articles</a></li>
+                    <li><a href="about.html" data-i18n="nav.about">About</a></li>
+                    <li><a href="#" id="lang-toggle">한국어</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero" style="padding-bottom: 2rem;">
+            <div class="container">
+                <h1 data-i18n="articles.hero.title">Articles & Reflections</h1>
+                <p data-i18n="articles.hero.desc">Thoughts on theology, culture, and the Christian life.</p>
+            </div>
+        </section>
+
+        <section style="padding: 4rem 0;">
+            <div class="container">
+                <div class="article-list">
+                    <!-- Article 1 -->
+                    <article class="article-item">
+                        <span class="article-date">May 20, 2022</span>
+                        <h2 class="article-title"><a href="article-beings-in-heaven.html" data-i18n="article1.title">The
+                                Importance of Sabbath
+                                Rest</a></h2>
+                        <p class="article-excerpt" data-i18n="article1.excerpt">In a world that never stops, finding
+                            time to rest is an act of resistance and faith. Why we need Sabbath more than ever.</p>
+                        <a href="article-beings-in-heaven.html" class="read-more" data-i18n="article.read_more">Read
+                            Full Article &rarr;</a>
+                    </article>
+
+                    <!-- Article 2 -->
+                    <article class="article-item">
+                        <span class="article-date">March 23, 2023</span>
+                        <h2 class="article-title"><a href="article-caregiving-war.html"
+                                data-i18n="article2.title">Community in a Digital Age</a>
+                        </h2>
+                        <p class="article-excerpt" data-i18n="article2.excerpt">How technology connects us and separates
+                            us, and what the church can do to foster true belonging.</p>
+                        <a href="article-caregiving-war.html" class="read-more" data-i18n="article.read_more">Read Full
+                            Article &rarr;</a>
+                    </article>
+
+                    <!-- Article 3 -->
+                    <article class="article-item">
+                        <span class="article-date"></span>
+                        <h2 class="article-title"><a href="article-gray-rhino-moon.html"
+                                data-i18n="article3.title">Reading the Bible with Fresh
+                                Eyes</a></h2>
+                        <p class="article-excerpt" data-i18n="article3.excerpt">Approaching familiar texts with
+                            curiosity and openness can lead to profound new insights.</p>
+                        <a href="article-gray-rhino-moon.html" class="read-more" data-i18n="article.read_more">Read Full
+                            Article &rarr;</a>
+                    </article>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p data-i18n="footer.rights">&copy; 2025 Rev. [Name]. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="js/translations.js"></script>
+    <script src="js/main.js"></script>
+</body>
+
+</html>

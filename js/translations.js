@@ -1,0 +1,120 @@
+const translations = {
+    en: {
+        "nav.home": "Home",
+        "nav.books": "Books",
+        "nav.articles": "Articles",
+        "nav.about": "About",
+        "hero.title": "Sharing Faith,<br>Wisdom & Hope",
+        "hero.subtitle": "Welcome to my digital study. Here you'll find my books, articles, and reflections on a life of ministry.",
+        "hero.btn": "View My Books",
+        "featured.title": "Featured Works",
+        "book1.title": "David Before the Gray Rhino",
+        "book1.desc": "Navigating modern crises with David's wisdom - exploring the 'gray rhinos' of contemporary society.",
+        "book2.title": "Heaven Curation",
+        "book2.desc": "A journey through biblical understanding of heaven - what's there, what's not, and why it matters.",
+        "book3.title": "Cancer Patient Care Ministry",
+        "book3.desc": "A comprehensive guide for churches to support and care for cancer patients and their families.",
+        "book4.title": "Dementia-Friendly Church",
+        "book4.desc": "Building congregations that embrace and support those living with dementia.",
+        "btn.learn_more": "Learn More",
+        "footer.rights": "&copy; 2025 Rev. Choi Jong-in. All rights reserved.",
+
+        // Books Page
+        "books.hero.title": "Published Works",
+        "books.hero.desc": "Books on theology, ministry, and caring for God's people.",
+        "btn.buy_now": "Buy Now",
+
+        // Articles Page
+        "articles.hero.title": "Articles & Reflections",
+        "articles.hero.desc": "Thoughts on faith, ministry, and Christian life.",
+        "article.read_more": "Read Full Article &rarr;",
+        "article1.title": "Beings in Heaven",
+        "article1.excerpt": "Exploring the biblical understanding of who and what exists in heaven - from angels to the redeemed.",
+        "article2.title": "The Caregiving War",
+        "article2.excerpt": "Addressing Korea's aging society and the church's vital role in supporting caregivers and families.",
+        "article3.title": "Gray Rhino Series: The Moon Ik-jeom Project",
+        "article3.excerpt": "Lessons from history on preparing for predictable crises and transforming challenges into opportunities.",
+
+        // About Page
+        "about.hero.title": "About Rev. Choi Jong-in",
+        "about.bio.p1": "Rev. Choi Jong-in holds a Master's degree in Journalism from Chung-Ang University, a Master of Divinity and a Doctor of Theology from Seoul Theological University, and a Doctor of Missiology from United Theological Seminary in the USA.",
+        "about.bio.p2": "He has served as an Air Force chaplain, representative of the Ohio Korean Student Mission, and adjunct professor at Sungkyul University and Seoul Theological University. He is currently the senior pastor of Peace Church (평화성결교회).",
+        "about.bio.p3": "His books include <em>David Before the Gray Rhino</em> (회색 코뿔소 앞에 선 다윗), <em>Heaven Curation</em> (천국 큐레이팅), <em>Cancer Patient Care Ministry</em> (암환자 돌봄사역), <em>Dementia-Friendly Church</em> (치매 친화적 교회), <em>Suicide Blocked by God</em> (하나님이 막으시는 자살), <em>Senior Communication</em> (노년 커뮤니케이션), <em>The Table</em> (The Table-성경의 테이블), and <em>Death Preparation</em> (죽음예비학).",
+        "about.contact": "Contact",
+        "about.contact.desc": "For speaking inquiries or to say hello, please email:",
+
+        // Full Article Pages
+        "article.back": "← Back to Articles",
+        "articlefull1.title": "Beings in Heaven",
+        "articlefull1.author": "By Rev. Choi Jong-in",
+        "articlefull1.date": "May 20, 2022",
+        "articlefull1.content": "<p>When we think about heaven, we often wonder: who is there? What beings inhabit this eternal realm? Through Scripture, particularly the book of Revelation, we gain insights into the inhabitants of heaven.</p><h2>God on the Throne</h2><p>At the center of heaven sits God Himself on His throne. The book of Revelation describes lightning, rumblings, and peals of thunder coming from the throne, revealing the majesty and power of the Almighty. This is the heart of heaven - the presence of God in all His glory.</p><h2>The Holy Spirit</h2><p>The seven spirits of God, representing the fullness and perfection of the Holy Spirit's ministry, are present in heaven. These seven lamps burning before the throne symbolize the complete work of the Spirit, illuminating all aspects of God's presence and purpose.</p><h2>The Twenty-Four Elders</h2><p>Around God's throne are twenty-four thrones, and seated on them are twenty-four elders clothed in white garments with golden crowns. These elders represent the fullness of God's redeemed people, worshiping Him continually.</p><h2>The Angels</h2><p>Angels play crucial roles in heaven. They serve as intermediaries, worship in the heavenly realm, deliver God's messages, and govern elements like water, fire, and wind. They execute God's salvation and judgment, carrying out His divine will throughout creation.</p><h2>Those Written in the Lamb's Book of Life</h2><p>Revelation 21:27 makes it clear: \"Nothing impure will ever enter it, nor will anyone who does what is shameful or deceitful, but only those whose names are written in the Lamb's book of life.\" Heaven's citizens are those who have been redeemed through faith in Christ.</p><h2>A Place Without Evil</h2><p>Heaven is characterized not only by who is there, but also by who is <em>not</em> there. No evil person will be found in heaven. No one will harm another or act wickedly. Instead, all will help and serve one another in perfect love.</p><h2>The Centrality of Christ</h2><p>As the great preacher Spurgeon once said, heaven without Christ would be like a day without the sun, a sea without water, or a night sky without stars. Christ is the reason heaven is heaven. He is the Lamb who was slain, worthy of all praise and honor forever.</p><p>Understanding who inhabits heaven helps us grasp what awaits us and motivates us to live lives worthy of such a calling. May we long for that day when we join the heavenly chorus in worship before the throne of God!</p>",
+        "articlefull2.title": "The Caregiving War",
+        "articlefull2.author": "By Rev. Choi Jong-in",
+        "articlefull2.date": "March 24, 2023",
+        "articlefull2.content": "<p>Korean society is entering what I call the \"caregiving society.\" With rapid aging and increased life expectancy, every elderly household is now burdened with caregiving responsibilities. This article explores why the Korean church must pay attention to this growing crisis.</p><h2>The Coming Caregiving Crisis</h2><p>As Korea transitions into a super-aged society, caregiving has become more than a family matter—it's evolving into a full-scale \"caregiving war.\" Medical advances have brought us into an age of longevity, but many elderly illnesses require long-term care, creating what I call \"endless diseases of longevity.\"</p><p>This burden falls not only on the elderly themselves but heavily on their families. Dual-income couples often have no choice but to outsource parent care, but even this solution has its limits. The strain creates family conflicts and spreads into broader social problems.</p><h2>The Reality of Longevity</h2><p>Extended lifespans are not always a blessing. When longevity comes with chronic illness and dependency, it can become a source of suffering rather than joy. We must acknowledge this reality honestly and prepare accordingly.</p><h2>The National and Social Burden</h2><p>The responsibilities that society and the state must shoulder have grown tremendously. Healthcare costs, long-term care insurance, and support systems for caregivers all require significant resources. But beyond policy and budgets, we need communities of compassion and practical support.</p><h2>The Church's Role</h2><p>This is where the Korean church must step in. Caregiving ministry—caring for both the elderly and their caregivers—should be a priority. The church can provide:<ul><li>Respite care programs for exhausted family caregivers</li><li>Training and support groups for those caring for loved ones</li><li>Spiritual counseling and prayer support</li><li>Practical help through volunteers and community networks</li><li>Advocacy for better caregiving policies and resources</li></ul></p><h2>A Ministry of Blessing</h2><p>In my book <em>The Blessing of Caregiving</em> (『간병의 축복』), I explore how caregiving, despite its challenges, can become a ministry of love and blessing. When the church embraces this calling, we demonstrate Christ's compassion in tangible ways.</p><p>The \"caregiving war\" ahead will intensify. But it also presents the church with an opportunity to shine Christ's light in the midst of suffering, to support the vulnerable, and to model the kind of community God intended—one where we bear one another's burdens and so fulfill the law of Christ.</p><p>Will the Korean church rise to meet this challenge? The time to act is now.</p>",
+        "articlefull3.title": "Gray Rhino Series: The Moon Ik-jeom Project",
+        "articlefull3.author": "By Rev. Choi Jong-in",
+        "articlefull3.date": "From \"David Before the Gray Rhino\"",
+        "articlefull3.content": "<p>What do cotton seeds and modern entrepreneurship have in common? More than you might think. In Chapter 10 of my book <em>David Before the Gray Rhino</em>, I explore the \"Moon Ik-jeom Project\"—a historical case study with profound lessons for today's business leaders and Christians navigating an uncertain world.</p><h2>Understanding the Gray Rhino</h2><p>The term \"gray rhino,\" coined by Michele Wucker at the 2013 Davos Forum, describes highly probable, high-impact threats that we choose to ignore or downplay. Unlike \"black swans\" (unpredictable surprises), gray rhinos are visible and approaching—yet we often fail to prepare for them.</p><p>The Fourth Industrial Revolution, demographic shifts, climate change, and pandemics like COVID-19 are all gray rhinos. We see them coming, but do we respond appropriately?</p><h2>Moon Ik-jeom: Korea's First Entrepreneur</h2><p>In the late Goryeo period, Moon Ik-jeom (문익점) traveled to Yuan China as a diplomat. When he returned, he secretly brought back cotton seeds hidden in his brush handle—a bold and risky move that would transform Korean society.</p><p>Before cotton, Koreans relied on hemp and silk for clothing. Cotton was revolutionary: warmer, more durable, and accessible to common people. Moon Ik-jeom didn't just import seeds; he:<ul><li>Established the foundation for Korea's cotton industry</li><li>Developed new weaving tools and techniques</li><li>Made quality clothing available to all social classes</li><li>Created an entirely new economic sector</li></ul></p><p>I argue that Moon Ik-jeom was Korea's first true entrepreneur—someone who identified a societal need, took risks to address it, and created lasting value through innovation.</p><h2>Lessons for Christian Entrepreneurs</h2><p>My book <em>David Before the Gray Rhino</em> presents 33 core entrepreneurial principles for Christian business leaders navigating the massive changes of our era. The Moon Ik-jeom Project illustrates several key points:</p><h3>1. See What Others Miss</h3><p>Moon Ik-jeom recognized the transformative potential of cotton when others saw just a plant. Christian entrepreneurs must cultivate discernment to identify coming changes and opportunities.</p><h3>2. Take Calculated Risks</h3><p>Smuggling cotton seeds was dangerous, but Moon calculated that the potential benefit outweighed the risk. We must be willing to step out in faith when God opens doors.</p><h3>3. Think Long-Term</h3><p>Moon didn't just plant seeds for himself—he established an industry that would serve generations. Christian business should create lasting value, not just quick profits.</p><h3>4. Serve the Common Good</h3><p>Cotton clothing became accessible to everyone, not just the elite. Businesses operating \"in Jesus' name\" should prioritize service and social benefit alongside profit.</p><h3>5. Embrace Innovation</h3><p>Moon developed new tools and techniques. We must be willing to adapt, learn, and innovate to meet the challenges of our rapidly changing world.</p><h2>Facing Today's Gray Rhinos</h2><p>Just as Moon Ik-jeom prepared Korea for a textile revolution, Christian entrepreneurs today must prepare for the gray rhinos charging toward us: technological disruption, climate change, demographic shifts, and more.</p><p>The question isn't whether these changes are coming—they are. The question is: Will we board the ark before the flood, or will we be swept away?</p><p>The Moon Ik-jeom Project teaches us that one person, acting with vision and courage, can transform an entire society. What cotton seeds might God be calling you to plant today?</p>"
+    },
+    ko: {
+        "nav.home": "홈",
+        "nav.books": "저서",
+        "nav.articles": "칼럼",
+        "nav.about": "소개",
+        "hero.title": "믿음, 지혜,<br>그리고 소망을 나누며",
+        "hero.subtitle": "저의 디지털 서재에 오신 것을 환영합니다. 이곳에서 저의 저서와 칼럼, 그리고 목회 인생의 묵상들을 나누고자 합니다.",
+        "hero.btn": "저서 보기",
+        "featured.title": "주요 저서",
+        "book1.title": "회색 코뿔소 앞에 선 다윗",
+        "book1.desc": "다윗의 지혜로 현대 사회의 위기 상황을 극복하는 방안을 모색합니다.",
+        "book2.title": "천국 큐레이팅",
+        "book2.desc": "천국에 대한 성경적 이해 - 천국에 있는 것, 없는 것, 그리고 그 의미.",
+        "book3.title": "암환자 돌봄사역",
+        "book3.desc": "암환자와 그 가족을 돌보는 교회의 포괄적인 돌봄 사역 가이드.",
+        "book4.title": "치매 친화적 교회",
+        "book4.desc": "치매를 앓고 있는 이들을 포용하고 지원하는 교회 공동체 만들기.",
+        "btn.learn_more": "더 보기",
+        "footer.rights": "&copy; 2025 최종인 목사. All rights reserved.",
+
+        // Books Page
+        "books.hero.title": "출간 도서",
+        "books.hero.desc": "신학, 목회, 그리고 하나님의 백성을 돌보는 사역에 관한 책들.",
+        "btn.buy_now": "구매하기",
+
+        // Articles Page
+        "articles.hero.title": "칼럼 & 묵상",
+        "articles.hero.desc": "신앙, 목회, 그리고 그리스도인의 삶에 대한 생각들.",
+        "article.read_more": "전체 읽기 &rarr;",
+        "article1.title": "천국에 있는 존재들",
+        "article1.excerpt": "천국에 누가 그리고 무엇이 존재하는지에 대한 성경적 이해 - 천사부터 구원받은 자들까지.",
+        "article2.title": "간병 전쟁",
+        "article2.excerpt": "한국 사회의 고령화와 간병인과 가족을 지원하는 교회의 중요한 역할.",
+        "article3.title": "회색 코뿔소 시리즈: 문익점 프로젝트",
+        "article3.excerpt": "예측 가능한 위기에 대비하고 도전을 기회로 바꾸는 역사의 교훈.",
+
+        // About Page
+        "about.hero.title": "최종인 목사 소개",
+        "about.bio.p1": "중앙대학교 언론학 석사, 서울신학대학교 목회학 석사, 신학 박사, 미국 United 신학대학원 선교학 박사를 이수했다.",
+        "about.bio.p2": "공군 군목, 오하이오 한인학생선교회 대표, 성결대학교·서울신학대학교 외래교수를 역임했으며, 현재 평화성결교회 담임목사로 섬기고 있다.",
+        "about.bio.p3": "저서로는 <em>회색 코뿔소 앞에 선 다윗</em>, <em>천국 큐레이팅</em>, <em>암환자 돌봄사역</em>, <em>치매 친화적 교회</em>, <em>하나님이 막으시는 자살</em>, <em>노년 커뮤니케이션</em>, <em>The Table-성경의 테이블</em>, <em>죽음예비학</em> 등이 있다.",
+        "about.contact": "연락처",
+        "about.contact.desc": "강연 문의나 인사는 아래 이메일로 보내주세요:",
+
+        // Full Article Pages
+        "article.back": "← 칼럼 목록으로",
+        "articlefull1.title": "천국에 있는 존재들",
+        "articlefull1.author": "최종인 목사",
+        "articlefull1.date": "2022년 5월 20일",
+        "articlefull2.title": "간병 전쟁",
+        "articlefull2.author": "최종인 목사",
+        "articlefull2.date": "2023년 3월 24일",
+        "articlefull3.title": "회색 코뿔소 시리즈: 문익점 프로젝트",
+        "articlefull3.author": "최종인 목사",
+        "articlefull3.date": "「회색 코뿔소 앞에 선 다윗」 중에서",
+        "articlefull1.content": "<p>천국에 대해 생각할 때, 우리는 종종 궁금해합니다: 천국에는 누가 있을까? 어떤 존재들이 이 영원한 영역에 거하고 있을까? 성경, 특히 요한계시록을 통해 우리는 천국의 거주자들에 대한 통찰을 얻게 됩니다.</p><h2>보좌에 앉으신 하나님</h2><p>천국의 중심에는 하나님 자신이 그의 보좌에 앉아 계십니다. 요한계시록은 보좌로부터 번개와 음성과 우렛소리가 나는 것을 묘사하며, 전능하신 분의 위엄과 능력을 드러냅니다. 이것이 천국의 핵심입니다 - 모든 영광 가운데 계신 하나님의 임재입니다.</p><h2>성령</h2><p>성령의 사역의 충만함과 완전함을 나타내는 하나님의 일곱 영이 천국에 계십니다. 보좌 앞에서 타고 있는 이 일곱 등불은 성령의 완전한 사역을 상징하며, 하나님의 임재와 목적의 모든 면을 비춥니다.</p><h2>스물네 장로</h2><p>하나님의 보좌 주위에 스물네 보좌가 있고, 그 위에 흰 옷을 입고 금관을 쓴 스물네 장로들이 앉아 있습니다. 이 장로들은 하나님의 구속받은 백성의 충만함을 나타내며, 끊임없이 하나님을 예배합니다.</p><h2>천사들</h2><p>천사들은 천국에서 중요한 역할을 합니다. 그들은 중재자 역할을 하고, 하늘 영역에서 예배하며, 하나님의 메시지를 전하고, 물, 불, 바람과 같은 요소들을 다스립니다. 그들은 하나님의 구원과 심판을 실행하며, 창조 전체에 걸쳐 그분의 신성한 뜻을 수행합니다.</p><h2>어린양의 생명책에 기록된 자들</h2><p>요한계시록 21:27은 분명히 말합니다: \"무엇이든지 속된 것이나 가증한 일 또는 거짓말하는 자는 결코 그리로 들어가지 못하되 오직 어린 양의 생명책에 기록된 자들만 들어가리라.\" 천국의 시민들은 그리스도를 믿는 믿음을 통해 구속받은 자들입니다.</p><h2>악이 없는 곳</h2><p>천국은 누가 있는지뿐만 아니라, 누가 <em>없는지</em>로도 특징지어집니다. 천국에서는 악한 사람을 찾을 수 없습니다. 아무도 다른 사람을 해치거나 악하게 행동하지 않습니다. 대신, 모든 이가 완전한 사랑 가운데 서로 돕고 섬길 것입니다.</p><h2>그리스도의 중심성</h2><p>위대한 설교자 스펄전이 말했듯이, 그리스도가 없는 천국은 해가 없는 낮, 물이 없는 바다, 별이 없는 밤하늘과 같을 것입니다. 그리스도는 천국을 천국 되게 하는 이유입니다. 그분은 죽임을 당하신 어린 양이시며, 영원토록 모든 찬양과 영광을 받기에 합당하신 분입니다.</p><p>천국에 누가 거하는지를 이해하는 것은 우리를 기다리고 있는 것이 무엇인지 파악하는 데 도움이 되며, 그러한 부르심에 합당한 삶을 살도록 우리를 동기부여합니다. 하나님의 보좌 앞에서 예배하는 천상의 합창에 우리가 합류하는 그날을 사모하기를 바랍니다!</p>",
+        "articlefull2.content": "<p>한국 사회는 제가 '간병 사회'라고 부르는 사회로 진입하고 있습니다. 급속한 고령화와 평균 수명 증가로 인해, 모든 노인 가정이 이제 간병의 부담을 지고 있습니다. 이 글은 한국 교회가 왜 이 증가하는 위기에 주목해야 하는지를 탐구합니다.</p><h2>다가오는 간병 위기</h2><p>한국이 초고령 사회로 전환하면서, 간병은 가족 문제 이상이 되었습니다—그것은 전면적인 '간병 전쟁'으로 진화하고 있습니다. 의학의 발전이 우리를 장수 시대로 이끌었지만, 많은 노인 질환은 장기적인 돌봄을 필요로 하며, 제가 '끝이 보이지 않는 장수 병'이라고 부르는 것을 만들어냅니다.</p><p>이 부담은 노인들 자신뿐만 아니라 그들의 가족에게도 무겁게 떨어집니다. 맞벌이 부부들은 종종 부모 간병을 외부에 맡길 수밖에 없지만, 이 해결책도 한계가 있습니다. 이러한 부담은 가족 갈등을 만들고 더 넓은 사회 문제로 확산됩니다.</p><h2>장수의 현실</h2><p>연장된 수명이 항상 축복만은 아닙니다. 장수가 만성 질환과 의존성을 동반할 때, 그것은 기쁨이 아닌 고통의 원천이 될 수 있습니다. 우리는 이 현실을 정직하게 인정하고 그에 따라 준비해야 합니다.</p><h2>국가와 사회의 부담</h2><p>사회와 국가가 어깨에 져야 할 책임은 엄청나게 증가했습니다. 의료 비용, 장기 요양 보험, 그리고 간병인을 위한 지원 시스템 모두 상당한 자원을 필요로 합니다. 하지만 정책과 예산을 넘어서, 우리는 연민과 실질적인 지원의 공동체가 필요합니다.</p><h2>교회의 역할</h2><p>여기가 바로 한국 교회가 개입해야 할 곳입니다. 간병 사역—노인과 그들의 간병인 모두를 돌보는 것—이 우선순위가 되어야 합니다. 교회는 다음을 제공할 수 있습니다: <ul><li>지친 가족 간병인을 위한 휴식 돌봄 프로그램</li><li>사랑하는 사람을 돌보는 이들을 위한 교육 및 지원 그룹</li><li>영적 상담과 기도 지원</li><li>자원봉사자와 지역사회 네트워크를 통한 실질적인 도움</li><li>더 나은 간병 정책과 자원에 대한 옹호</li></ul></p><h2>축복의 사역</h2><p>제 책 <em>간병의 축복</em>에서, 저는 간병이 그 도전에도 불구하고 어떻게 사랑과 축복의 사역이 될 수 있는지 탐구합니다. 교회가 이 부르심을 받아들일 때, 우리는 실질적인 방법으로 그리스도의 연민을 보여줍니다.</p><p>앞으로 '간병 전쟁'은 더욱 격렬해질 것입니다. 하지만 그것은 또한 교회에게 고통 가운데 그리스도의 빛을 비추고, 연약한 자들을 돌보며, 하나님이 의도하신 종류의 공동체—서로의 짐을 지며 그리스도의 법을 성취하는 공동체—를 모델링할 기회를 제공합니다.</p><p>한국 교회는 이 도전에 맞설 것입니까? 행동할 때가 바로 지금입니다.</p>",
+        "articlefull3.content": "<p>목화씨와 현대 기업가 정신은 무엇이 공통점이 있을까요? 생각보다 많습니다. 제 책 <em>회색 코뿔소 앞에 선 다윗</em>의 10장에서, 저는 '문익점 프로젝트'를 탐구합니다—오늘날의 비즈니스 리더들과 불확실한 세상을 항해하는 그리스도인들을 위한 깊은 교훈이 담긴 역사적 사례 연구입니다.</p><h2>회색 코뿔소 이해하기</h2><p>'회색 코뿔소'라는 용어는 2013년 다보스 포럼에서 미셸 부커가 만든 것으로, 우리가 무시하거나 경시하는 매우 가능성 높고 영향력 큰 위협을 설명합니다. '검은 백조'(예측 불가능한 놀라움)와 달리, 회색 코뿔소는 보이고 접근하고 있습니다—하지만 우리는 종종 그것들에 대비하지 못합니다.</p><p>4차 산업혁명, 인구 변화, 기후 변화, 그리고 COVID-19와 같은 팬데믹은 모두 회색 코뿔소입니다. 우리는 그것들이 다가오는 것을 보지만, 적절히 대응하고 있을까요?</p><h2>문익점: 한국의 첫 번째 기업가</h2><p>고려 말기에 문익점은 외교관으로 원나라를 방문했습니다. 그가 돌아올 때, 그는 붓대 속에 숨긴 목화씨를 비밀리에 가져왔습니다—한국 사회를 변혁시킬 대담하고 위험한 행동이었습니다.</p><p>목화 이전에 한국인들은 삼베와 비단에 의존했습니다. 목화는 혁명적이었습니다: 더 따뜻하고, 더 내구성이 있으며, 일반 사람들에게 접근 가능했습니다. 문익점은 단순히 씨앗을 수입한 것이 아니라: <ul><li>한국의 목화 산업의 기초를 확립했습니다</li><li>새로운 직조 도구와 기술을 개발했습니다</li><li>모든 사회 계층에 양질의 의류를 제공했습니다</li><li>완전히 새로운 경제 부문을 창출했습니다</li></ul></p><p>저는 문익점이 한국의 진정한 첫 번째 기업가였다고 주장합니다—사회적 필요를 확인하고, 그것을 해결하기 위해 위험을 감수하며, 혁신을 통해 지속 가능한 가치를 창출한 사람입니다.</p><h2>그리스도인 기업가를 위한 교훈</h2><p>제 책 <em>회색 코뿔소 앞에 선 다윗</em>은 우리 시대의 거대한 변화를 헤쳐 나가는 그리스도인 비즈니스 리더를 위한 33가지 핵심 기업가 정신 원칙을 제시합니다. 문익점 프로젝트는 몇 가지 핵심 사항을 보여줍니다:</p><h3>1. 다른 사람이 놓친 것을 보라</h3><p>문익점은 다른 사람들이 단지 식물로 본 목화의 변혁적 잠재력을 인식했습니다. 그리스도인 기업가는 다가오는 변화와 기회를 식별하기 위해 분별력을 키워야 합니다.</p><h3>2. 계산된 위험을 감수하라</h3><p>목화씨를 밀수하는 것은 위험했지만, 문익점은 잠재적 이익이 위험을 능가한다고 계산했습니다. 우리는 하나님이 문을 여시면 믿음으로 나아갈 의지가 있어야 합니다.</p><h3>3. 장기적으로 생각하라</h3><p>문익점은 자신만을 위해 씨앗을 심은 것이 아니라—여러 세대를 섬길 산업을 확립했습니다. 그리스도인의 사업은 빠른 이익이 아닌 지속 가능한 가치를 창출해야 합니다.</p><h3>4. 공공선을 섬기라</h3><p>목화 의류는 엘리트뿐만 아니라 모든 사람에게 접근 가능해졌습니다. '예수의 이름으로' 운영되는 기업은 이익과 함께 서비스와 사회적 혜택을 우선시해야 합니다.</p><h3>5. 혁신을 포용하라</h3><p>문익점은 새로운 도구와 기술을 개발했습니다. 우리는 급변하는 세상의 도전에 대응하기 위해 적응하고, 배우고, 혁신할 의지가 있어야 합니다.</p><h2>오늘날의 회색 코뿔소에 대응하기</h2><p>문익점이 한국을 섬유 혁명에 대비시킨 것처럼, 오늘날의 그리스도인 기업가들은 우리를 향해 돌진하는 회색 코뿔소들에 대비해야 합니다: 기술 파괴, 기후 변화, 인구 변화 등.</p><p>질문은 이러한 변화가 올 것인가가 아닙니다—그것들은 오고 있습니다. 질문은: 우리가 홍수가 오기 전에 방주에 오를 것인가, 아니면 쓸려갈 것인가?</p><p>문익점 프로젝트는 한 사람이 비전과 용기를 가지고 행동하면 사회 전체를 변혁시킬 수 있다는 것을 가르쳐줍니다. 오늘 하나님께서 여러분에게 심으라고 부르시는 목화씨는 무엇일까요?</p>"
+    }
+};
