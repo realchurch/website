@@ -34,6 +34,8 @@ const translations = {
         "article2.excerpt": "Addressing Korea's aging society and the church's vital role in supporting caregivers and families.",
         "article3.title": "Gray Rhino Series: The Moon Ik-jeom Project",
         "article3.excerpt": "Lessons from history on preparing for predictable crises and transforming challenges into opportunities.",
+        "article_9_blessings.title": "9 Blessings Needed in Old Age",
+        "article_9_blessings.excerpt": "Spending a healthy old age is everyone's dream. However, the reality of old age is that it is not as healthy as one wishes. The reality is that 9 out of 10 elderly people are sick...",
 
         // About Page
         "about.hero.title": "About Rev. Choi Jong-in",
@@ -93,6 +95,8 @@ const translations = {
         "article2.excerpt": "한국 사회의 고령화와 간병인과 가족을 지원하는 교회의 중요한 역할.",
         "article3.title": "회색 코뿔소 시리즈: 문익점 프로젝트",
         "article3.excerpt": "예측 가능한 위기에 대비하고 도전을 기회로 바꾸는 역사의 교훈.",
+        "article_9_blessings.title": "노년에 필요한 9가지 축복",
+        "article_9_blessings.excerpt": "건강한 노년을 보내는 것은 모든 이의 꿈입니다. 그런데도 마음처럼 건강하지 못한 것이 노년의 현실입니다. 노인 10명 중 9명은 아픈 것이 현실입니다...",
 
         // About Page
         "about.hero.title": "최종인 목사 소개",
