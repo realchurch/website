@@ -49,5 +49,138 @@ export const articles = [
             date: "From \"David Before the Gray Rhino\"",
             content: "<p>What do cotton seeds and modern entrepreneurship have in common? More than you might think. In Chapter 10 of my book <em>David Before the Gray Rhino</em>, I explore the \"Moon Ik-jeom Project\"—a historical case study with profound lessons for today's business leaders and Christians navigating an uncertain world.</p><h2>Understanding the Gray Rhino</h2><p>The term \"gray rhino,\" coined by Michele Wucker at the 2013 Davos Forum, describes highly probable, high-impact threats that we choose to ignore or downplay. Unlike \"black swans\" (unpredictable surprises), gray rhinos are visible and approaching—yet we often fail to prepare for them.</p><p>The Fourth Industrial Revolution, demographic shifts, climate change, and pandemics like COVID-19 are all gray rhinos. We see them coming, but do we respond appropriately?</p><h2>Moon Ik-jeom: Korea's First Entrepreneur</h2><p>In the late Goryeo period, Moon Ik-jeom (문익점) traveled to Yuan China as a diplomat. When he returned, he secretly brought back cotton seeds hidden in his brush handle—a bold and risky move that would transform Korean society.</p><p>Before cotton, Koreans relied on hemp and silk for clothing. Cotton was revolutionary: warmer, more durable, and accessible to common people. Moon Ik-jeom didn't just import seeds; he:<ul><li>Established the foundation for Korea's cotton industry</li><li>Developed new weaving tools and techniques</li><li>Made quality clothing available to all social classes</li><li>Created an entirely new economic sector</li></ul></p><p>I argue that Moon Ik-jeom was Korea's first true entrepreneur—someone who identified a societal need, took risks to address it, and created lasting value through innovation.</p><h2>Lessons for Christian Entrepreneurs</h2><p>My book <em>David Before the Gray Rhino</em> presents 33 core entrepreneurial principles for Christian business leaders navigating the massive changes of our era. The Moon Ik-jeom Project illustrates several key points:</p><h3>1. See What Others Miss</h3><p>Moon Ik-jeom recognized the transformative potential of cotton when others saw just a plant. Christian entrepreneurs must cultivate discernment to identify coming changes and opportunities.</p><h3>2. Take Calculated Risks</h3><p>Smuggling cotton seeds was dangerous, but Moon calculated that the potential benefit outweighed the risk. We must be willing to step out in faith when God opens doors.</p><h3>3. Think Long-Term</h3><p>Moon didn't just plant seeds for himself—he established an industry that would serve generations. Christian business should create lasting value, not just quick profits.</p><h3>4. Serve the Common Good</h3><p>Cotton clothing became accessible to everyone, not just the elite. Businesses operating \"in Jesus' name\" should prioritize service and social benefit alongside profit.</p><h3>5. Embrace Innovation</h3><p>Moon developed new tools and techniques. We must be willing to adapt, learn, and innovate to meet the challenges of our rapidly changing world.</p><h2>Facing Today's Gray Rhinos</h2><p>Just as Moon Ik-jeom prepared Korea for a textile revolution, Christian entrepreneurs today must prepare for the gray rhinos charging toward us: technological disruption, climate change, demographic shifts, and more.</p><p>The question isn't whether these changes are coming—they are. The question is: Will we board the ark before the flood, or will we be swept away?</p><p>The Moon Ik-jeom Project teaches us that one person, acting with vision and courage, can transform an entire society. What cotton seeds might God be calling you to plant today?</p>"
         }
+    },
+    {
+        id: "article4",
+        ko: {
+            title: "노년에 필요한 축복 9가지",
+            excerpt: "노년의 축복을 받으면 건강하고 행복한 노년을 보낼 수 있습니다. 노년에 필요한 9가지 축복을 소개합니다.",
+            author: "최종인 목사",
+            date: "2024년 11월 25일",
+            content: `<p>저는 오래전부터 노인목회에 관심이 많았습니다. 그래서 다른 교회보다 노인 사역을 많이 했습니다. 노년학회, 노인선교단체, 지역의 치매 예방센터, 노인자살예방교육 등에 회원으로, 이사로 참여하고 있습니다. 평화교회의 노인 사역은 세 가지 방향으로 진행됩니다.</p>
+<p>첫째는 교회 안의 노인 사역입니다. 치매 예방, 실버사역, 사별자 도움, 액티브 시니어 활동, 노인성경공부, 기도사역, 독거노인 심방, 노년기관 활동 지원입니다.</p>
+<p>둘째는 지역을 대상으로 실버대학, 경로당선교예배, 교회 절기 노인초청 섬김입니다.</p>
+<p>셋째는 요양원이나 요양병원 선교입니다. 그리고 미래에는 &lt;노인 그룹홈&gt;을 만들어 성도들끼리 노년을 함께 보내도록 하는 것이 꿈입니다. 노년에는 ‘Aging in Place’라고 해서 익숙한 거주하던 지역의 자택에서 노년을 보내는 것이 최상입니다만, 필연적으로 누구나 거치는 ‘노년의 이동’이 있습니다. 처음에는 아파트나 주택에서 지냅니다.</p>
+<p>그러다 활동력이 떨어지고 간병을 도울 가족이 없으면 요양시설로 갑니다. 운 좋으면 경치 좋고, 친구 좋고, 지원인력이 많이 요양원에 갑니다만, 때로는 쓸쓸하게 요양시설에서 약 주사를 맞으며 보내게 됩니다. 세 번째는 대학병원이나 중형병원의 노인 병동으로, 혹은 중환자실로 이동합니다. 그곳에서 때가 되면 가족을 불러 임종을 보게 하고 운명하는 것이 노년의 이동입니다. 노년에는 지역사회 거주가 최상입니다.</p>
+<p>그 기간을 할수만 있으면 늘려야 합니다. 요양시설에는 되도록 짧게 거주하는 것이 좋습니다. 중환자실은 안가야 합니다. 노년의 축복을 받으면 가능합니다. &lt;노년에 필요한 축복 9가지&gt;를 소개합니다. 노년기에 이른 분들은 필독을 권합니다. 가정에 부모님이 계신 분들도 읽기를 권합니다. 현재 노인이신 성도들은 모두 빠짐없이 노년의 축복을 받아야 합니다. 제가 섬기는 평화교회의 성도들이 노년에 축복이 있기를 소망합니다.</p>
+<p>평생 교단을 섬겼던 원로 장로님과 원로 목사님들에게 노년의 축복이 있으시기를 바랍니다. 이 책은 충남 부여 성흥교회에서 가을에 부흥회를 하게 되어 성흥교회 성도들과 농촌교회에서 노년을 보내는 성도들을 생각하고 원고를 모아 집필하였습니다. 제게는 교단의 어떤 목회자보다 노년에 관한 자료가 많다고 자부합니다. 되도록 새로 나온 자료들, 주로 영문자료이긴 하지만, 노년에 관심이 있으신 분들은 제게 요청하시면 언제든지 제공합니다(commission@naver.com).</p>
+
+<h3>1. 건강 축복</h3>
+<p>건강한 노년을 보내는 것은 모든 이의 꿈입니다. 그런데도 마음처럼 건강하지 못한 것이 노년의 현실입니다. 노인 10명 중 9명은 아픈 것이 현실입니다. 기대수명은 82.4세이지만, 건강수명은 64.9세에 그칩니다. 노인들 가운데 만성질환을 2개 이상 갖고 있는 사람은 73%입니다. 3개 이상도 51%나 됩니다. 아프다보니 노인들은 자주 병원을 방문하게 됩니다.</p>
+<p>실제로 한 달동안 병의원 등 의료기관을 이용한 노인은 77.4%나 되었습니다. 문제는 노인이 되기 전부터 아프기 시작해서 20년, 혹은 30년 이상 병원을 출입해야 하고, 약을 먹으면서 고통과 함께 노년을 보내는 것입니다. 연간 한 사람당 의료비로 2020년에는 459만 원이 들어가는데, 2030년에는 760만 원이 들어간다는 통계가 있습니다.</p>
+<p>병 때문에 교회에 나오지 못하고, 질병으로 장애를 갖게 되면 사역을 감당할 수 없습니다. 노인 의료지 증가는 노후의 가계 경제에 커다란 짐이 됩니다. 노화에 따른 급격한 건강악화를 막기 위해서는 결국 개인의 노력도 좋지만, 노년의 축복 가운데 가장 중요한 건강 축복을 받아야 합니다. 요한 사도의 축복처럼 강건함의 축복을 받기를 기도합니다. “사랑하는 자여 네 영혼이 잘됨 같이 네가 범사에 잘되고 강건하기를 내가 간구하노라”(요삼 1:2).</p>
+
+<h3>2. 일터 축복</h3>
+<p>노인에게도 일이 필요합니다. 소득 보충에 도움이 되기 때문입니다. 그러나 노인의 일자리는 단지 경제적인 이유만이 아닙니다. 노년을 보내면서 사회적 역할과 가치를 확인해 주기 때문에 필요합니다. 일을 통해 노인들은 자신의 존재와 삶의 의미를 확인할 수 있습니다.</p>
+<p>일하면서 부가적으로 얻는 건강도 감사한 일입니다. 신체적 정신적 건강이 증진됩니다. 일을 통해 인간관계가 호전되고, 우울증이 개선됩니다. 일없이 외롭게 늙어가는 것보다 일을 통해 사회의 한 모퉁이를 담당하는 것은 노인의 자존감 유지에도 큰 도움이 됩니다. 노인의 일자리는 가정에도, 국가에도 노인 부양에 대한 경제적, 사회적 부담을 줄일 수 있습니다. 성경에는 노인이 되어도 여전히 일하는 사람들이 많이 소개되고 있습니다. 모세는 80이 되었으나 호렙산의 목자였습니다.</p>
+<p>다니엘은 80이 넘어도 총리로 왕들과 나라들을 섬겼습니다. 갈렙은 85세나 되었는데 싸우겠다고 개척지를 달라고 요청했습니다. 사가랴는 나이 많아 늙었으나 제사장으로 성전에서 섬기다 아들 세례 요한을 얻었습니다. 미래사회에서는 다양한 노하우를 가진 노인들이 각자의 자리를 지키면서 공익적인 일에 나서게 될 것입니다. 특히 교회의 노인들은 기회만 제공된다면 봉사와 일을 통해 세대 격차를 줄이고 사회 통합의 주인공들이 되실 것입니다.</p>
+
+<h3>3. 가정 축복</h3>
+<p>노인의 삶에서 가정은 매우 중요한 역할을 합니다. 앞에서 나이가 들어도 살던 지역에서 지속적으로 머무는 ‘Aging in Place’를 소개했습니다만, 노인은 다른 장소에서보다 집에서 편안함, 독립성, 친숙함을 느낍니다. 가정은 노인에게 전반적인 삶의 질 향상에 기여합니다. 노인에게 가정이란 먹고 자는 장소를 넘어서 심리적인 안정감과 편안함을 주는 장소가 됩니다.</p>
+<p>노인들은 집과 관련된 추억을 소중히 간직하고 정서적 안녕을 유지할 수 있습니다. 노인에게 가정이 있다는 것은 가족 간 유대감이 강화되고, 가족이 자연스럽게 모이는 장소가 됩니다. 성경에는 모범적인 가정이 많이 소개되고 있습니다.</p>
+<p>책에서는 고넬료의 가정을 소개했습니다. 성경은 그의 가정이 온전히 하나님을 경외하고 백성을 많이 구제했으며, 하나님께 항상 기도하는 가정이라고 소개합니다. 로마인이면서 하나님을 경외한다는 것이 놀랍습니다. 지금 한국 사회는 가정이 붕괴되고 있습니다. 이혼 가정이 늘고, 문제 가정이 늘어나고 있습니다.</p>
+<p>역기능적 가정이 곳곳에서 나타납니다. 특히 노인이 되어 혼자 사는 독거가정이 늘고 있습니다. 건강하고 경제적 여력이 있다면 모를까 교회 주변에서 혼자 지내는 노인들 대부분이 빈곤합니다. 노인이 되어도 독립적으로 살고 싶어하는 경향이 있지만, 노인만으로 구성된 가구는 외부와 적절한 교류가 이루어지지 않는다면 사회적 고립의 위험이 높아질 수밖에 없습니다.</p>
+<p>가정은 모든 세대에게 안전하고 평안한 울타리가 되어주지만, 특히 노인들에게는 건강과 행복감에 밀접한 영향을 줍니다. 가정이 건강할 때 노인들도 평안한 것입니다. 그래서 노년에는 가정의 축복이 더욱 필요합니다.</p>
+
+<h3>4. 재정 축복</h3>
+<p>노인에게 경제적 자원 부족은 노인문제 중 하나입니다. 노인에게 경제적 능력이 없다면 건강 치료나 돌봄을 받기 어렵습니다. 노인과 주변과 소외와 고립도 심화될 수 있습니다. 그런데 현실은 65세 이상 노년을 대상으로 한 설문에 의하면 10명 중 3명 만이 경제적으로 독립하고 안정된 노후를 보내고 있다고 합니다.</p>
+<p>노인 10명 중 7은 만성질환을 갖고 삽니다. 노년에 만족스럽게 사는 데 필요한 건강과 재정 상태가 좋지 못한 것입니다. 노년에 얼마나 돈이 필요하겠어? 하는 사람은 노년 준비에 실패한 사람입니다. 나라의 노인들을 위한 예산은 매년 기하급수적으로 늘어나고 있습니다. 훗날을 걱정할 정도입니다, 나라에만 의존하는 것은 위험합니다.</p>
+<p>그래서 당연히 노년에도 재정이 중요합니다. 의식주 뿐만 아니라 사회생활을 유지할 때도 재정은 필요합니다. 저는 &lt;성경이 말하는 부자의 조건&gt;이라는 책을 쓰기도 했습니다. 그 가운데 다윗왕을 도와준 바르실래처럼, 사랑하는 노년의 성도들이 재정 축복을 받고 넉넉하게 살아야 합니다.</p>
+<p>노인이 되어도 구제하고 섬기려면 재정이 필요합니다. 말로 사람을 도울 수도 있으나 때론 물질이 요긴합니다. 무엇보다 노인이 되어도 경제적 자립을 유지할 있다면 그 사람의 품위와 인격을 지켜 주게 됩니다. 노인 성도들은 재정 축복을 위해 기도해야 합니다.</p>
+
+<h3>5. 신앙 축복</h3>
+<p>노년의 때에 종교를 갖는 것은 ‘성공적 노화’를 이루는 필수 조건입니다. 믿음 생활은 주관적 안녕감을 강화해 줍니다. 우울증을 저하시켜 줍니다. 사망률이나 질병 이환율을 감소하는 경향이 있습니다. 노후의 신체적, 정신적 건강의 유지 및 증진에 도움이 됩니다.</p>
+<p>신앙생활을 하는 노인은 그렇지 않은 노인들보다 훨씬 행복감이 높고 안정감을 느끼게 됩니다. 노년기에는 당연히 믿음으로 살아야 합니다. 노인들은 재정적 문제의 악화는 물론 육체적 건강의 저하 그리고 친지, 자녀, 배우자의 질병 및 사망과 같은 곤혹스런 생애 사건들을 많이 경험할 확률이 높습니다.</p>
+<p>노인들이 이러한 생애 사건들로부터 받는 심리적 충격은 여느 연령층의 사람들보다 더 심각할 수 밖에 없습니다. 이럴 때 신앙은 생애중 겪는 사건의 의미를 종교적으로 해석함으로써 충격을 완화시켜 주기도 합니다.</p>
+<p>목회데이터연구소에 따르면, 노인의 59.8%가 종교가 있는 것으로 나타났습니다. 종교별로는 개신교가 24.3%로 가장 많고, 불교가 23.8%, 가톨릭이 10.8% 순입니다. 교회의 노인들은 신앙하면서 교제하는 교우관계가 성공적인 노후를 보내는 필수 요소입니다. 신앙 축복을 받아 친교적 그물망을 더 견고히 해야 하겠습니다.</p>
+
+<h3>6. 친구 축복</h3>
+<p>사회적 관계가 행복과 긴밀한 관계가 있다는 증거가 늘어나고 있습니다. 사회적 관계에서 즐기고 만족을 느끼는 노인은 그렇지 않은 노인들보다 행복한 노년을 보낼 수 있습니다. 좋은 친구가 있으면 행복감이 증가하고, 스트레스가 줄고, 자신에 대해 기분이 좋아집니다.</p>
+<p>질병이나 이혼, 사별 같은 트라우마에 대처하는 데 도움이 됩니다. 전문가들은 은퇴와 같은 인생 전환의 시기에 사회적 지지가 있으면 적응이 쉬어진다고 조언합니다. 친구와 함께 노년을 보내면 외로움과 불안이 사라지고 낙천적인 생각하기 쉽습니다.</p>
+<p>신앙하는 노인들에게는 어떤 친구가 좋은 친구가 될까요? 다니엘의 세 친구처럼 오래된 친구입니다. 뜻을 같이하는 친구입니다. 함께 기도하는 친구입니다. 함께 시험을 견디는 친구입니다.</p>
+
+<h3>7. 장막 축복</h3>
+<p>노인에게 어디서 지내는가는 매우 중요합니다. 노인이 되어 거처가 불안정하고 머물 곳이 없다면 매우 처량할 것입니다. 노인들의 장막으로는, 자기 집이나 자녀 집일 수 있습니다. 시니어 커뮤니티가 있는 장소라면 감사할 것입니다.</p>
+<p>우리나라의 경우 일본이나 호주, 영국처럼 노안 공동시설은 거부하는 노인들이 많습니다. 요양원도 옵션이 들어갑니다. 무조건 요양시설을 거부할 필요는 없습니다. 때에 따라 주택보다 장점이 많기 때문입니다. 저는 책자에서 창세기 18장에 나오는 아브라함의 장막을 소개했습니다. 왕래하는 사람이 있습니다.</p>
+<p>환대를 실천합니다. 건강한 식탁이 있습니다. 돕는 이가 있습니다. 무엇보다 부부가 함께 늙어가면서 장막에 함께 거주합니다. 천사가 아브라함에게 묻습니다. “네 아내 사라가 어디 있느냐?” 아브라함이 대답합니다. “장막에 있나이다”</p>
+
+<h3>8. 지혜 축복</h3>
+<p>저는 틈나는 대로 성도들에게 ‘분별력’의 지혜가 필요하다고 강조합니다. 명확한 판단을 내리는 능력입니다. 노인들을 대상으로 하는 범죄도 많고, 분별력이 사라질 때 존엄한 노후를 갖기 어렵습니다. 특히 노인성 치매는 많은 노인에게 공포의 대상입니다.</p>
+<p>지혜가 사라지지 않도록, 지혜가 더 많아지도록 노년에는 지혜의 축복이 절대 필요합니다. 삶에서 부딪히는 상황에서 분별력이 필요합니다. 소비사회입니다. 건강하게 소비하려면 분별력과 지혜가 필요합니다. 정보화 시대입니다, 마구잡이식 정보를 취하는 것이 아니라 합리적이고 바르게 정보를 받아야 합니다. 분별력은 노인에게 더욱 필요합니다. 말할 때, 사람을 대할 때, 병원을 선택할 때 등 분별력이 필요할때는 매우 많습니다.</p>
+
+<h3>9. 천국 축복</h3>
+<p>인생 마무리는 매우 중요합니다. 저는 오래전부터 &lt;죽음예비학교&gt;를 진행해 왔습니다. 이사할 준비 하듯 천국 이사 준비가 필요합니다. 누구나 인생 마지막이 있습니다. 죽음의 장소도 중요합니다. 노인에게는 천국 소망이 필요합니다. 제가 쓴 &lt;천국 큐레이팅&gt; 일독을 권합니다. 천국을 아주 쉽게 설명했습니다. 평화교회는 노인사역에 열심히 있다고 말씀드리고 싶습니다. 그런데 노인들을 만나면 항상 권하는 것이 있습니다.</p>
+<p>함께 천국에 가자고 권합니다. 요양병원에서, 경로당에서, 절기에 찾아오는 노인들에게 늘 권하고 있습니다. 인생 마지막에 천국 축복을 받아야 하지 않겠습니까? 매주 고령성도들을 만나시는 목회자들께 권합니다. 노년에 필요한 축복을 증거하십시오.</p>
+<p>자료는 차고 넘칩니다. 유튜브를 보면 노인문제를 얼마든지 배울 수 있습니다. 목사가 성도들에게 베풀 수 있는 최고의 것은 축복입니다. 그러므로 노년의 축복 9가지를 선포하시고 축복이 임하도록 강력하게 기도하십시오.</p>
+
+<div class="article-footer-note">
+    <p><strong>최종인 목사</strong></p>
+</div>`
+        },
+        en: {
+            title: "9 Blessings Needed in Old Age",
+            excerpt: "Receiving the blessings of old age allows for a healthy and happy later life. Introducing 9 blessings needed in old age.",
+            author: "Rev. Choi Jong-in",
+            date: "November 25, 2024",
+            content: `<p>I have long been interested in ministry for the elderly. So, I have done more ministry for the elderly than other churches. I participate as a member or director in the Gerontological Society, elderly mission organizations, local dementia prevention centers, and suicide prevention education for the elderly. Peace Church's ministry for the elderly proceeds in three directions.</p>
+<p>First is the ministry for the elderly within the church. Dementia prevention, silver ministry, help for the bereaved, active senior activities, Bible study for the elderly, prayer ministry, visiting the elderly living alone, and supporting activities of elderly institutions.</p>
+<p>Second is the Silver College for the community, senior center mission worship, and inviting the elderly to serve during church seasons.</p>
+<p>Third is mission for nursing homes or nursing hospitals. And in the future, my dream is to create a "Senior Group Home" so that saints can spend their old age together. It is best to spend old age in one's own home in a familiar area, called 'Aging in Place', but inevitably everyone goes through 'Movement in Old Age'. At first, they live in an apartment or house.</p>
+<p>Then, when their activity level drops and there is no family to help with caregiving, they go to a nursing facility. If lucky, they go to a nursing home with good scenery, good friends, and many support staff, but sometimes they spend their time lonely in a nursing facility getting injections. The third is moving to a geriatric ward in a university hospital or medium-sized hospital, or to an intensive care unit. It is the movement of old age to call family members to see their deathbed and pass away there when the time comes. Living in the local community is best in old age.</p>
+<p>We must extend that period if possible. It is better to stay in a nursing facility for as short a time as possible. We should not go to the intensive care unit. It is possible if we receive the blessings of old age. I introduce &lt;9 Blessings Needed in Old Age&gt;. I recommend reading this to those who have reached old age. I also recommend reading it to those who have parents at home. Saints who are currently elderly must receive all the blessings of old age without exception. I hope that the saints of Peace Church, which I serve, will have blessings in their old age.</p>
+<p>I hope that the elder elders and elder pastors who have served the denomination all their lives will have blessings in their old age. This book was written by collecting manuscripts thinking of the saints of Seongheung Church and the saints spending their old age in rural churches as I held a revival meeting at Seongheung Church in Buyeo, Chungnam in the fall. I pride myself on having more materials on old age than any other pastor in the denomination. Although they are mostly new materials, mainly in English, if you are interested in old age, please request them from me and I will provide them at any time (commission@naver.com).</p>
+
+<h3>1. Blessing of Health</h3>
+<p>Spending a healthy old age is everyone's dream. However, the reality of old age is that it is not as healthy as one wishes. The reality is that 9 out of 10 elderly people are sick. Life expectancy is 82.4 years, but healthy life expectancy is only 64.9 years. 73% of the elderly have 2 or more chronic diseases. 51% have 3 or more. Because they are sick, the elderly frequently visit hospitals.</p>
+<p>In fact, 77.4% of the elderly used medical institutions such as clinics and hospitals for a month. The problem is that they start getting sick before they become elderly and have to go to the hospital for 20 or 30 years or more, and spend their old age in pain while taking medicine. There is a statistic that medical expenses per person per year were 4.59 million won in 2020, but will be 7.6 million won in 2030.</p>
+<p>If you cannot come to church because of illness, and if you have a disability due to illness, you cannot handle the ministry. The increase in elderly medical expenses becomes a huge burden on the household economy in old age. In order to prevent rapid health deterioration due to aging, individual efforts are good, but you must receive the blessing of health, which is the most important among the blessings of old age. I pray that you will receive the blessing of good health like the blessing of the Apostle John. "Beloved, I pray that you may prosper in all things and be in health, just as your soul prospers" (3 John 1:2).</p>
+
+<h3>2. Blessing of Work</h3>
+<p>The elderly also need work. This is because it helps supplement income. However, jobs for the elderly are not just for economic reasons. It is necessary because it confirms social roles and values while spending old age. Through work, the elderly can confirm their existence and the meaning of life.</p>
+<p>The health gained additionally while working is also something to be thankful for. Physical and mental health is improved. Human relationships improve through work, and depression improves. Taking charge of a corner of society through work rather than aging lonely without work is also a great help in maintaining the self-esteem of the elderly. Jobs for the elderly can reduce the economic and social burden of supporting the elderly for both families and the country. The Bible introduces many people who still work even when they are old. Moses was a shepherd on Mount Horeb even when he was 80.</p>
+<p>Daniel served kings and nations as a prime minister even when he was over 80. Caleb was 85 years old, but he asked for a pioneer land saying he would fight. Zechariah was old and advanced in years, but he served in the temple as a priest and got a son, John the Baptist. In the future society, the elderly with various know-how will keep their positions and step forward for public interest work. In particular, if opportunities are provided, the elderly in the church will reduce the generation gap through service and work and become the protagonists of social integration.</p>
+
+<h3>3. Blessing of Family</h3>
+<p>Family plays a very important role in the life of the elderly. I introduced 'Aging in Place', where one stays continuously in the area where one lived even as one gets older, but the elderly feel comfort, independence, and familiarity at home more than in other places. Family contributes to the improvement of the overall quality of life for the elderly. For the elderly, home becomes a place that gives psychological stability and comfort beyond a place to eat and sleep.</p>
+<p>The elderly can cherish memories related to home and maintain emotional well-being. For the elderly to have a family means that family bonds are strengthened and it becomes a place where family naturally gathers. The Bible introduces many exemplary families.</p>
+<p>In the book, I introduced the family of Cornelius. The Bible introduces his family as a family that feared God completely, gave much alms to the people, and prayed to God always. It is surprising that a Roman feared God. Now, families are collapsing in Korean society. Divorced families are increasing, and problem families are increasing.</p>
+<p>Dysfunctional families appear everywhere. In particular, single-person households living alone as they become elderly are increasing. Unless they are healthy and have economic leeway, most of the elderly living alone around the church are poor. Although there is a tendency to want to live independently even when they become elderly, households consisting only of the elderly inevitably have a high risk of social isolation if appropriate exchanges with the outside do not take place.</p>
+<p>Family becomes a safe and peaceful fence for all generations, but it has a close influence on health and happiness, especially for the elderly. When the family is healthy, the elderly are also at peace. Therefore, the blessing of family is even more necessary in old age.</p>
+
+<h3>4. Blessing of Finances</h3>
+<p>Lack of economic resources for the elderly is one of the problems of the elderly. If the elderly do not have economic ability, it is difficult to receive health treatment or care. Alienation and isolation from the elderly and their surroundings can also deepen. However, the reality is that according to a survey of the elderly aged 65 and over, only 3 out of 10 are spending their old age economically independent and stable.</p>
+<p>7 out of 10 elderly people live with chronic diseases. The health and financial status required to live satisfactorily in old age are not good. A person who says, "How much money would be needed in old age?" is a person who has failed to prepare for old age. The country's budget for the elderly is increasing exponentially every year. It is enough to worry about the future, relying only on the country is dangerous.</p>
+<p>So naturally, finances are important in old age as well. Finances are needed not only for food, clothing, and shelter but also when maintaining social life. I also wrote a book called &lt;Conditions of the Rich According to the Bible&gt;. Like Barzillai who helped King David among them, beloved elderly saints must receive financial blessings and live abundantly.</p>
+<p>Even if you become an old man, you need finances to relieve and serve. You can help people with words, but sometimes material things are essential. Above all, if you can maintain economic independence even when you become an old man, it protects the person's dignity and character. Elderly saints must pray for financial blessings.</p>
+
+<h3>5. Blessing of Faith</h3>
+<p>Having a religion in old age is a prerequisite for achieving 'successful aging'. Faith life strengthens subjective well-being. It lowers depression. It tends to reduce mortality or disease morbidity. It helps maintain and promote physical and mental health in old age.</p>
+<p>Elderly people who live a life of faith feel much higher happiness and stability than those who do not. In old age, you must naturally live by faith. The elderly are likely to experience many perplexing life events such as deterioration of financial problems as well as decline in physical health and illness and death of relatives, children, and spouses.</p>
+<p>The psychological shock that the elderly receive from these life events is inevitably more serious than people of any other age group. At this time, faith also mitigates the shock by interpreting the meaning of events experienced during life religiously.</p>
+<p>According to Ministry Data Research, 59.8% of the elderly appeared to have a religion. By religion, Protestantism is the most with 24.3%, followed by Buddhism with 23.8% and Catholicism with 10.8%. For the elderly in the church, the fellowship relationship of fellowship while having faith is an essential element for spending a successful old age. We must receive the blessing of faith and solidify the fellowship network more.</p>
+
+<h3>6. Blessing of Friends</h3>
+<p>Evidence is increasing that social relationships are closely related to happiness. Elderly people who enjoy and feel satisfied in social relationships can spend a happier old age than those who do not. Having good friends increases happiness, reduces stress, and makes you feel good about yourself.</p>
+<p>It helps to cope with trauma such as illness, divorce, or bereavement. Experts advise that adaptation becomes easier if there is social support during a period of life transition such as retirement. If you spend your old age with friends, loneliness and anxiety disappear and it is easy to think optimistically.</p>
+<p>What kind of friends would be good friends for elderly people who have faith? Like Daniel's three friends, they are old friends. They are friends who share the same will. They are friends who pray together. They are friends who endure trials together.</p>
+
+<h3>7. Blessing of Dwelling</h3>
+<p>Where one stays is very important for the elderly. If one becomes an old man and the dwelling is unstable and there is no place to stay, it will be very miserable. As a dwelling for the elderly, it can be one's own house or a child's house. It would be grateful if it is a place with a senior community.</p>
+<p>In the case of Korea, unlike Japan, Australia, or the UK, there are many elderly people who refuse communal facilities for the elderly. Nursing homes are also an option. There is no need to unconditionally refuse nursing facilities. Because sometimes there are more advantages than houses. In the booklet, I introduced Abraham's tent in Genesis 18. There are people coming and going.</p>
+<p>Hospitality is practiced. There is a healthy table. There is a helper. Above all, the couple lives together in the tent as they grow old together. The angel asks Abraham. "Where is your wife Sarah?" Abraham answers. "She is in the tent."</p>
+
+<h3>8. Blessing of Wisdom</h3>
+<p>I emphasize to the saints whenever I have time that the wisdom of 'discernment' is needed. It is the ability to make clear judgments. There are many crimes targeting the elderly, and it is difficult to have a dignified old age when discernment disappears. In particular, senile dementia is an object of fear for many elderly people.</p>
+<p>The blessing of wisdom is absolutely necessary in old age so that wisdom does not disappear and wisdom increases. Discernment is needed in situations encountered in life. It is a consumption society. To consume healthily, discernment and wisdom are needed. It is the information age, we must receive information rationally and correctly, not taking information indiscriminately. Discernment is even more necessary for the elderly. There are very many times when discernment is needed, such as when speaking, dealing with people, choosing a hospital, etc.</p>
+
+<h3>9. Blessing of Heaven</h3>
+<p>Finishing life is very important. I have been conducting &lt;Death Preparation School&gt; for a long time. Just as you prepare to move, you need to prepare to move to heaven. Everyone has the end of life. The place of death is also important. The elderly need the hope of heaven. I recommend reading &lt;Heaven Curating&gt; which I wrote. I explained heaven very easily. I want to say that Peace Church is working hard on ministry for the elderly. But there is something I always recommend when I meet the elderly.</p>
+<p>I recommend going to heaven together. I always recommend it to the elderly who visit nursing hospitals, senior centers, and during seasons. Shouldn't we receive the blessing of heaven at the end of life? I recommend it to pastors who meet elderly saints every week. Testify to the blessings needed in old age.</p>
+<p>Materials are overflowing. If you look at YouTube, you can learn as much as you want about elderly issues. The best thing a pastor can give to saints is blessing. Therefore, proclaim the 9 blessings of old age and pray powerfully for the blessings to come.</p>
+
+<div class="article-footer-note">
+    <p><strong>Rev. Choi Jong-in</strong></p>
+</div>`
+        }
     }
 ];
