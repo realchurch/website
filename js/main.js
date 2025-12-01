@@ -1,7 +1,12 @@
 import translations from './translations-manager.js';
+import { initArticleLoader } from './article-loader.js';
 
 // Main JavaScript file
 document.addEventListener('DOMContentLoaded', () => {
+    // Initialize Article Loader if we are on articles page or article detail page
+    // We can just run it, it checks for elements
+    initArticleLoader();
+
     const langToggle = document.getElementById('lang-toggle');
     const currentLang = localStorage.getItem('preferredLang') || 'en';
 
