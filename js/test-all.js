@@ -1,0 +1,10 @@
+console.log('Test All loaded');
+import { ui } from './data/ui.js';
+console.log('UI imported');
+import { books } from './data/books.js';
+console.log('Books imported');
+import { articles } from './data/articles.js';
+console.log('Articles imported');
+import { about } from './data/about.js';
+console.log('About imported');
+document.body.style.backgroundColor = 'green';

@@ -1,3 +1,4 @@
+console.log('UI.js loading...');
 export const ui = {
     nav: {
         home: { en: "Home", ko: "홈" },
@@ -7,9 +8,9 @@ export const ui = {
     },
     hero: {
         title: { en: "Sharing Faith,<br>Wisdom & Hope", ko: "믿음, 지혜,<br>그리고 소망을 나누며" },
-        subtitle: { 
-            en: "Welcome to my digital study. Here you'll find my books, articles, and reflections on a life of ministry.", 
-            ko: "저의 디지털 서재에 오신 것을 환영합니다. 이곳에서 저의 저서와 칼럼, 그리고 목회 인생의 묵상들을 나누고자 합니다." 
+        subtitle: {
+            en: "Welcome to my digital study. Here you'll find my books, articles, and reflections on a life of ministry.",
+            ko: "저의 디지털 서재에 오신 것을 환영합니다. 이곳에서 저의 저서와 칼럼, 그리고 목회 인생의 묵상들을 나누고자 합니다."
         },
         btn: { en: "View My Books", ko: "저서 보기" }
     },

@@ -1,7 +1,14 @@
+console.log('TranslationsManager loading...');
 import { ui } from './data/ui.js';
+console.log('UI imported');
 import { books } from './data/books.js';
-import { articles } from './data/articles.js';
+console.log('Books imported');
+// import { articles as part1 } from './data/articles-part1.js';
+// import { articles as part2 } from './data/articles-part2.js';
+// const articles = [...part1, ...part2];
+// console.log('Articles imported (parts combined)');
 import { about } from './data/about.js';
+console.log('About imported');
 
 const translations = {
     en: {},
@@ -61,50 +68,51 @@ set('en', 'about.contact.desc', ui.about_page.contact_desc.en);
 set('ko', 'about.contact.desc', ui.about_page.contact_desc.ko);
 
 
-// 2. Books Data
+// 2. Books
 books.forEach((book, index) => {
-    const key = `book${index + 1}`; // book1, book2...
-    // If ID is different, we might want to use ID, but existing HTML uses book1, book2
-    // Let's assume the order in the array matches book1, book2...
-    // Or we can use book.id if it matches "book1"
-
-    const id = book.id; // "book1"
-
+    const id = book.id;
     set('en', `${id}.title`, book.en.title);
     set('ko', `${id}.title`, book.ko.title);
-
-    set('en', `${id}.desc`, book.en.desc);
-    set('ko', `${id}.desc`, book.ko.desc);
+    set('en', `${id}.description`, book.en.description);
+    set('ko', `${id}.description`, book.ko.description);
 });
 
-// 3. Articles Data
-articles.forEach((article, index) => {
-    const id = article.id; // "article1"
+// 3. Articles
+function registerArticles(articles) {
+    console.log('Registering articles in translations...');
+    articles.forEach((article, index) => {
+        const id = article.id; // "article1"
 
-    // Summary (for list page)
-    set('en', `${id}.title`, article.en.title);
-    set('ko', `${id}.title`, article.ko.title);
+        // Summary (for list)
+        set('en', `${id}.title`, article.en.title);
+        set('ko', `${id}.title`, article.ko.title);
 
-    set('en', `${id}.excerpt`, article.en.excerpt);
-    set('ko', `${id}.excerpt`, article.ko.excerpt);
+        set('en', `${id}.excerpt`, article.en.excerpt);
+        set('ko', `${id}.excerpt`, article.ko.excerpt);
 
-    // Full Content (for detail page)
-    // The existing keys are articlefull1.title, articlefull1.content, etc.
-    // We need to map article1 -> articlefull1
-    const fullId = id.replace('article', 'articlefull');
+        set('en', `${id}.author`, article.en.author);
+        set('ko', `${id}.author`, article.ko.author);
 
-    set('en', `${fullId}.title`, article.en.title);
-    set('ko', `${fullId}.title`, article.ko.title);
+        set('en', `${id}.date`, article.en.date);
+        set('ko', `${id}.date`, article.ko.date);
 
-    set('en', `${fullId}.author`, article.en.author);
-    set('ko', `${fullId}.author`, article.ko.author);
+        // Full Content (for detail)
+        const fullId = id.replace('article', 'articlefull');
 
-    set('en', `${fullId}.date`, article.en.date);
-    set('ko', `${fullId}.date`, article.ko.date);
+        set('en', `${fullId}.title`, article.en.title);
+        set('ko', `${fullId}.title`, article.ko.title);
 
-    set('en', `${fullId}.content`, article.en.content);
-    set('ko', `${fullId}.content`, article.ko.content);
-});
+        set('en', `${fullId}.author`, article.en.author);
+        set('ko', `${fullId}.author`, article.ko.author);
+
+        set('en', `${fullId}.date`, article.en.date);
+        set('ko', `${fullId}.date`, article.ko.date);
+
+        set('en', `${fullId}.content`, article.en.content);
+        set('ko', `${fullId}.content`, article.ko.content);
+    });
+    console.log('Articles registered.');
+}
 
 // 4. About Bio
 set('en', 'about.bio.p1', about.bio.p1.en);
@@ -114,4 +122,5 @@ set('ko', 'about.bio.p2', about.bio.p2.ko);
 set('en', 'about.bio.p3', about.bio.p3.en);
 set('ko', 'about.bio.p3', about.bio.p3.ko);
 
+export { registerArticles };
 export default translations;

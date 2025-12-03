@@ -141,7 +141,11 @@
         </div>
     </footer>
 
-    <script type="module" src="js/main.js"></script>
+    <script>
+        console.log('Inline script running');
+        document.body.style.border = '10px solid blue';
+    </script>
+    <script type="module" src="js/main.js?v=6"></script>
 </body>
 
 </html>
