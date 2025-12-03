@@ -1,7 +1,23 @@
-import translations from './translations-manager.js';
+console.log('Main.js starting...');
+import translations, { registerArticles } from './translations-manager.js?v=6';
+console.log('Translations imported in Main.js');
+import { initArticleLoader } from './article-loader.js?v=6';
+import { articleService } from './article-service.js?v=6';
+
+// Load articles asynchronously
+articleService.loadArticles().then(articles => {
+    registerArticles(articles);
+    initArticleLoader(articles);
+}).catch(error => {
+    console.error('Failed to load articles:', error);
+});
 
 // Main JavaScript file
 document.addEventListener('DOMContentLoaded', () => {
+    // Initialize Article Loader if we are on articles page or article detail page
+    // We can just run it, it checks for elements
+    // initArticleLoader(); // This is now handled by the async article loading flow
+
     const langToggle = document.getElementById('lang-toggle');
     const currentLang = localStorage.getItem('preferredLang') || 'en';
 

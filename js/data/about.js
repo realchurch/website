@@ -1,3 +1,4 @@
+console.log('About.js loading...');
 export const about = {
     bio: {
         p1: {

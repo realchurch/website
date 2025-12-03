@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Article | Rev. Choi Jong-in</title>
+    <meta name="description" content="Article by Rev. Choi Jong-in">
+    <meta name="author" content="Rev. Choi Jong-in">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="favicon.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        .article-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 4rem 1rem;
+        }
+
+        .article-header {
+            text-align: center;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid rgba(74, 59, 50, 0.1);
+        }
+
+        .article-title {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            line-height: 1.2;
+        }
+
+        .article-meta {
+            color: #888;
+            font-style: italic;
+            font-family: 'Lora', serif;
+        }
+
+        .article-content {
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: #333;
+        }
+
+        .article-content p {
+            margin-bottom: 1.5rem;
+        }
+
+        .article-content h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.8rem;
+            margin-top: 2.5rem;
+            margin-bottom: 1rem;
+            color: var(--primary-color);
+        }
+
+        .article-content ul,
+        .article-content ol {
+            margin-bottom: 1.5rem;
+            padding-left: 2rem;
+        }
+
+        .article-content li {
+            margin-bottom: 0.5rem;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 2rem;
+            color: var(--accent-color);
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+
+        .article-footer-note {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid #eee;
+            font-style: italic;
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">Rev. Choi Jong-in</div>
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <ul class="nav-links">
+                    <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+                    <li><a href="books.html" data-i18n="nav.books">Books</a></li>
+                    <li><a href="articles.html" class="active" data-i18n="nav.articles">Articles</a></li>
+                    <li><a href="about.html" data-i18n="nav.about">About</a></li>
+                    <li><a href="#" id="lang-toggle">한국어</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <article class="article-container">
+            <a href="articles.html" class="back-link" data-i18n="article.back">← Back to Articles</a>
+
+            <header class="article-header">
+                <h1 class="article-title" id="article-title">Loading...</h1>
+                <div class="article-meta">
+                    <span id="article-date"></span> | <span id="article-author">Rev. Choi Jong-in</span>
+                </div>
+            </header>
+
+            <div class="article-content" id="article-content">
+                <!-- Content will be injected here -->
+                <div style="text-align: center; color: #888;">
+                    <p>Loading article content...</p>
+                </div>
+            </div>
+        </article>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p data-i18n="footer.rights">&copy; 2025 Rev. Choi Jong-in. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        console.log('Inline script running');
+        document.body.style.border = '10px solid blue';
+    </script>
+    <script type="module" src="js/main.js?v=6"></script>
+</body>
+
+</html>

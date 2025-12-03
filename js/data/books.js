@@ -1,3 +1,4 @@
+console.log('Books.js loading...');
 export const books = [
     {
         id: "book1",

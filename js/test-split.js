@@ -1,0 +1,12 @@
+console.log('Test Split loaded');
+import { ui } from './data/ui.js';
+console.log('UI imported');
+import { books } from './data/books.js';
+console.log('Books imported');
+import { articles as articles1 } from './data/articles-part1.js';
+console.log('Articles 1 imported');
+import { articles as articles2 } from './data/articles-part2.js';
+console.log('Articles 2 imported');
+import { about } from './data/about.js';
+console.log('About imported');
+document.body.style.backgroundColor = 'green';
