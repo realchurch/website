@@ -168,7 +168,7 @@ export const articles = [
             excerpt: "성공적인 노화(Successful Aging)를 위한 커뮤니케이션의 역할과 중요성.",
             author: "최종인 목사",
             date: "2021년 4월 23일",
-            content: `< p > 최근 노년 대상 연구자나 노년 대상의 상업적 프로페셔널뿐 아니라 많은 사람들이 '성공적 노화'에 주목하고 있다.전통적으로 성공적 노화(sucesful aging)란 생물학적 측면에서 주로 건강과 수명문제에 기초하여 정의됨으로써 일상생활 활동이나 신체적 수행정도를 중요시하였다.그러나 고령화가 깊어지면서 세월이 흐르는 대로 그냥 나이 먹는 것이 아니라 보다 성숙하고 지혜롭게 늙어가자는 주장이다.신체적 노화보다는 심리적 측면을 중요시하고 인지적 기능의 최적화와 지각된 통제력, 지각된 자기 효능감, 생활만족도 등으로 성공적 노화를 이해하기 시작했다.성공적 노화를 풀어서 설명한다면, 개인이 나이 들어감에 따라 변화하는 육체적, 사회·심리적, 환경적 상황에 스스로가 성공적으로 잘 적응해가면서 주어진 발달과업을 성취하는 것으로 육체적인 건강의 쇠퇴에도 불구하고 사회·심리적 건강과 삶의 만족이 높은 상태를 의미한다.과거 노년 세대 보다 베이비부머 세대의 신세대 노년들은 성공적 노화를 꿈꾸며 더욱 관심을 기울이고 있다.</p >
+            content: `<p> 최근 노년 대상 연구자나 노년 대상의 상업적 프로페셔널뿐 아니라 많은 사람들이 '성공적 노화'에 주목하고 있다.전통적으로 성공적 노화(sucesful aging)란 생물학적 측면에서 주로 건강과 수명문제에 기초하여 정의됨으로써 일상생활 활동이나 신체적 수행정도를 중요시하였다.그러나 고령화가 깊어지면서 세월이 흐르는 대로 그냥 나이 먹는 것이 아니라 보다 성숙하고 지혜롭게 늙어가자는 주장이다.신체적 노화보다는 심리적 측면을 중요시하고 인지적 기능의 최적화와 지각된 통제력, 지각된 자기 효능감, 생활만족도 등으로 성공적 노화를 이해하기 시작했다.성공적 노화를 풀어서 설명한다면, 개인이 나이 들어감에 따라 변화하는 육체적, 사회·심리적, 환경적 상황에 스스로가 성공적으로 잘 적응해가면서 주어진 발달과업을 성취하는 것으로 육체적인 건강의 쇠퇴에도 불구하고 사회·심리적 건강과 삶의 만족이 높은 상태를 의미한다.과거 노년 세대 보다 베이비부머 세대의 신세대 노년들은 성공적 노화를 꿈꾸며 더욱 관심을 기울이고 있다.</p>
 <p>성공적 노화의 조건으로 몇 가지를 제시하는 연구들이 있었다. 예를 들면, 노년에 갖는 여가활동이 성공적 노화를 돕는다는 주장, 노년 스스로의 높은 자존감이 노화를 성공적으로 이끈다는 주장, 가족들이 성공적 노화에 미치는 영향, 노년의 학습 몰입이 성공적인 노화를 이끈다는 주장이 있다. 한편 사회적 활동이나 신체 활동이 성공적 노화에 도움이 된다고 한다. 노년이 되어도 여가활동 및 사회적 관계를 통한 활동을 하고 또한 신체 활동 역시 계속하는 노년들이 그렇지 않은 노년들보다 성공적으로 늙는다는 말이다.</p>
 <p>나는 성공적 노화를 바라보는 새로운 시선으로 '노년의 커뮤니케이션' 을 들고 싶다. 노년기에는 커뮤니케이션이 매우 중요하다. 몇 가지 이유가 있다.</p>
 <p>첫째는 지속이론(Continuity Theory)때문이다. 지속이론이란 개인의 성향과 함께 중년기에 수행했던 역할을 비슷하게 노년기에도 수행하는 것이 노년의 삶의 질을 향상시키고 삶의 만족도를 높일 수 있다는 것이다. 에릭슨(Erikson)의 경우에는 인간의 발달 단계가 결정되어 있다고 했으나 사실은 발달의 결과는 예측하기 힘들고 성인의 발달은 계속되는 경우가 많다. 그래서 현재의 중년층은 계속 커뮤니케이션 활동으로 라이프 스타일을 유지하는 것이 성숙한 노화에 도움이 될 수 있다.</p>
@@ -184,7 +184,7 @@ export const articles = [
             excerpt: "The role and importance of communication for Successful Aging.",
             author: "Rev. Choi Jong-in",
             date: "April 23, 2021",
-            content: `< p > Recently, not only researchers targeting the elderly or commercial professionals targeting the elderly, but also many people are paying attention to 'successful aging'.Traditionally, successful aging has been defined mainly based on health and lifespan issues in biological aspects, emphasizing daily living activities or physical performance levels.However, as aging deepens, the argument is to age more maturely and wisely rather than just getting older as time goes by.They began to understand successful aging with optimization of cognitive function, perceived control, perceived self - efficacy, and life satisfaction, emphasizing psychological aspects rather than physical aging.To explain successful aging in detail, it means a state where an individual successfully adapts to changing physical, socio - psychological, and environmental situations as they age and achieves given developmental tasks, resulting in high socio - psychological health and life satisfaction despite the decline in physical health.The new generation of the elderly in the baby boomer generation is paying more attention to dreaming of successful aging than the past elderly generation.</p >
+            content: `<p> Recently, not only researchers targeting the elderly or commercial professionals targeting the elderly, but also many people are paying attention to 'successful aging'.Traditionally, successful aging has been defined mainly based on health and lifespan issues in biological aspects, emphasizing daily living activities or physical performance levels.However, as aging deepens, the argument is to age more maturely and wisely rather than just getting older as time goes by.They began to understand successful aging with optimization of cognitive function, perceived control, perceived self - efficacy, and life satisfaction, emphasizing psychological aspects rather than physical aging.To explain successful aging in detail, it means a state where an individual successfully adapts to changing physical, socio - psychological, and environmental situations as they age and achieves given developmental tasks, resulting in high socio - psychological health and life satisfaction despite the decline in physical health.The new generation of the elderly in the baby boomer generation is paying more attention to dreaming of successful aging than the past elderly generation.</p>
 <p>There have been studies suggesting several conditions for successful aging. For example, there are claims that leisure activities in old age help successful aging, claims that high self-esteem of the elderly leads to successful aging, the influence of family on successful aging, and claims that learning immersion in old age leads to successful aging. On the other hand, it is said that social activities or physical activities help successful aging. It means that elderly people who engage in leisure activities and activities through social relationships and continue physical activities even in old age age more successfully than those who do not.</p>
 <p>I would like to cite 'communication of the elderly' as a new perspective on successful aging. Communication is very important in old age. There are several reasons.</p>
 <p>First, it is because of the Continuity Theory. Continuity theory states that performing roles similar to those performed in middle age along with individual tendencies in old age can improve the quality of life and increase life satisfaction in old age. In the case of Erikson, it was said that the developmental stages of humans are determined, but in fact, the results of development are difficult to predict and adult development often continues. So, for the current middle-aged group, maintaining a lifestyle through continuous communication activities can help mature aging.</p>
@@ -203,7 +203,7 @@ export const articles = [
             excerpt: "노년기에 겪는 분노의 원인을 이해하고 건강하게 다스리는 소통법.",
             author: "최종인 목사",
             date: "2021년 7월 2일",
-            content: `< p > 최근 들어 평균수명의 연장으로 100세 시대가 되어 전 인구 가운데 노년층 인구 비율이 급증하면서 노년 문제도 심심치 않게 뉴스에 등장하고 있다.많은 노년 문제들이 제기되지만, 문제는 노년들의 정서가 예전과 달리 매우 공격적이고 파괴적으로 진행된다는 점이 우려된다.사회 부조리에 대한 분노도 있고, 경제 사회적으로 소외됨에 대한 분노도 있지만, 소소하게 보이는 일상에서의 분노 표출은 주변의 따가운 눈초리를 받게 된다.남성 노년들의 경우 소외감이나 역할 감소에서 오는 정서적 소외감이 분노로 나타나기도 하고, 여성 노년들은 폐경이후 급격한 호르몬의 변화를 경험하면서 다양한 심리적 변화를 경험하면서 분노가 깊어진다.</p >
+            content: `<p> 최근 들어 평균수명의 연장으로 100세 시대가 되어 전 인구 가운데 노년층 인구 비율이 급증하면서 노년 문제도 심심치 않게 뉴스에 등장하고 있다.많은 노년 문제들이 제기되지만, 문제는 노년들의 정서가 예전과 달리 매우 공격적이고 파괴적으로 진행된다는 점이 우려된다.사회 부조리에 대한 분노도 있고, 경제 사회적으로 소외됨에 대한 분노도 있지만, 소소하게 보이는 일상에서의 분노 표출은 주변의 따가운 눈초리를 받게 된다.남성 노년들의 경우 소외감이나 역할 감소에서 오는 정서적 소외감이 분노로 나타나기도 하고, 여성 노년들은 폐경이후 급격한 호르몬의 변화를 경험하면서 다양한 심리적 변화를 경험하면서 분노가 깊어진다.</p>
 <p>최광현은 노년기 분노의 원인을 몇 가지로 정리했다. 첫째는 경제적 어려움 때문이라는 것이다. 경제적 어려움으로 인한 분노는 모든 세대에게 작용하지만 특히 노년 세대에게 더 큰 문제로 다가온다. 노년이 되어 젊은 시절보다 더 심각한 경제적 어려움을 겪는 노년들은 분노의 감정을 쉽게 느낄 수 있다.</p>
 <p>둘째로 건강상의 문제 때문이다. 노년이 되면 일차적, 이차적 노화과정을 거치면서 신체적으로나 심리적, 사회적 기능이 떨어지게 되고, 이에 여러 가지 건강문제를 수반하게 된다. 65세 이상 남성노년의 경우 만성질환 유병률은 84.4%이지만, 여성 노년의 경우엔 95%로 높게 나타난다. 따라서 여성 노년의 건강문제가 더욱 심각한 편이다. 노년들은 신체적 질병과 동시에 높은 의료비용 지출로 인한 어려움까지 겪게 된다. 건강문제는 작은 일에도 분노 감정을 일으킬 수 있어 주의해야 한다.</p>
 <p>셋째로 사회와 교회 안에서의 역할 상실 때문이다. 노년기를 지나면서 역할과 지위가 크게 변화하면서 노년들은 새롭게 사회와 교회 안에서 적응해야 하는 어려움을 겪게 된다. 이로 인해 사회적 활동이 줄어들면서 소외감, 상실감, 무력감 등을 느끼게 된다. 이런 사회적 특성은 노년 세대들로 하여금 심리적으로는 고독감을, 사회적으로는 박탈감을 느끼게 되어 노년 자신의 위치를 더욱 불안하게 만든다. 특히 역할 상실은 교회 안에서도 쉽게 느끼게 되는 감정이 되면서 노년 세대들의 불안이나 심리적 소외감들이 분노를 만들 수 있다.</p>
@@ -218,7 +218,7 @@ export const articles = [
             excerpt: "Understanding the causes of anger in old age and communication methods to manage it healthily.",
             author: "Rev. Choi Jong-in",
             date: "July 2, 2021",
-            content: `< p > Recently, with the extension of the average life expectancy and the arrival of the 100 - year - old era, the proportion of the elderly population among the total population has surged, and elderly issues are frequently appearing in the news.Many elderly issues are raised, but the concern is that the emotions of the elderly are progressing very aggressively and destructively unlike in the past.There is anger about social injustice and anger about being alienated economically and socially, but the expression of anger in daily life, which seems trivial, receives harsh stares from the surroundings.In the case of male seniors, emotional alienation resulting from alienation or reduced roles appears as anger, and female seniors experience various psychological changes as they experience rapid hormonal changes after menopause, and their anger deepens.</p >
+            content: `<p> Recently, with the extension of the average life expectancy and the arrival of the 100 - year - old era, the proportion of the elderly population among the total population has surged, and elderly issues are frequently appearing in the news.Many elderly issues are raised, but the concern is that the emotions of the elderly are progressing very aggressively and destructively unlike in the past.There is anger about social injustice and anger about being alienated economically and socially, but the expression of anger in daily life, which seems trivial, receives harsh stares from the surroundings.In the case of male seniors, emotional alienation resulting from alienation or reduced roles appears as anger, and female seniors experience various psychological changes as they experience rapid hormonal changes after menopause, and their anger deepens.</p>
 <p>Choi Kwang-hyun summarized the causes of anger in old age into several categories. First, it is due to economic difficulties. Anger caused by economic difficulties affects all generations, but it comes as a bigger problem especially for the elderly generation. Elderly people who experience more serious economic difficulties than when they were young can easily feel feelings of anger.</p>
 <p>Second, it is due to health problems. When one becomes old, one goes through primary and secondary aging processes, and physical, psychological, and social functions decline, which entails various health problems. In the case of male seniors aged 65 and over, the prevalence of chronic diseases is 84.4%, but in the case of female seniors, it is as high as 95%. Therefore, the health problems of female seniors are more serious. Elderly people experience difficulties due to high medical expenses along with physical diseases. Health problems should be noted as they can cause feelings of anger even over small things.</p>
 <p>Third, it is due to the loss of roles in society and the church. As they pass through old age, their roles and status change significantly, and the elderly experience difficulties in adapting anew within society and the church. As a result, social activities decrease, and they feel alienation, loss, and helplessness. These social characteristics make the elderly generation feel loneliness psychologically and deprivation socially, making their position more unstable. In particular, loss of roles becomes an emotion that is easily felt even in the church, and the anxiety or psychological alienation of the elderly generation can create anger.</p>
@@ -236,7 +236,7 @@ export const articles = [
             excerpt: "노년기에 젊은 세대와 소통하기 위한 실질적인 노력과 태도 변화.",
             author: "최종인 목사",
             date: "2021년 6월 25일",
-            content: `< p > 노년들은 뇌세포와 여러 가지 육체적 기능의 노화로 자신의 의지와 상관없이 젊은 세대에게 비호감으로 비출 수 있다.그러나 노화 때문에 발생하는 제반 문제들을 고령자들이 스스로 이해하고 인지한다면 부정적 커뮤니케이션을 상당 부분 완화시킬 수 있다.가정에서나 교회와 주변 이웃들과의 관계에서 적절하게 어울려 살아갈 수 있는 지혜이기도 하다.물론 젊은 세대들도 노년층의 비호감적인 모습이나 행동을 노화 때문이라는 사실을 이해하고 수용한다면 서로 부담을 크게 주지 않고 살아갈 수 있다.특히 노년들은 효과적인 커뮤니케이션은 옵션이 아니라 필수적 조건임을 알고 노력해야 한다.</p >
+            content: `<p> 노년들은 뇌세포와 여러 가지 육체적 기능의 노화로 자신의 의지와 상관없이 젊은 세대에게 비호감으로 비출 수 있다.그러나 노화 때문에 발생하는 제반 문제들을 고령자들이 스스로 이해하고 인지한다면 부정적 커뮤니케이션을 상당 부분 완화시킬 수 있다.가정에서나 교회와 주변 이웃들과의 관계에서 적절하게 어울려 살아갈 수 있는 지혜이기도 하다.물론 젊은 세대들도 노년층의 비호감적인 모습이나 행동을 노화 때문이라는 사실을 이해하고 수용한다면 서로 부담을 크게 주지 않고 살아갈 수 있다.특히 노년들은 효과적인 커뮤니케이션은 옵션이 아니라 필수적 조건임을 알고 노력해야 한다.</p>
 <p>얼굴 표정 관리가 필요하다. 노화할수록 무표정해지며, 얼굴에 주름살이 늘어 가면 젊은 세대들에게 비호감을 줄 수 있다. 그러나 주름 잡힌 얼굴에도 미소를 띤다면 좋은 모습으로 비쳐지게도 된다. 다른 세대의 대상들을 만날 때 경직된 표정이나 자세를 피해야 한다. 고정관념은 상대 커뮤니케이션에서 잔소리와 불만을 줄여야 한다. 노화 현상중의 하나로 노년층은 현 사회가 돌아가는 모습과 젊은이들의 행동에 대해, 정부나 사회의 정책에 대해, 가정에서 자녀들의 행동을 보면서 불만족스럽기에 못 마땅하게 여기게 되고, 많은 잔소리를 하게 된다. 그러나 잔소리나 불만은 결국 젊은 세대들에게 좋은 반응을 기대하기 어렵다. 오히려 반감을 사게 되고 거리를 더욱 멀어지게 만든다. 때문에 가급적 불만을 갖기 말고 있는 그대로 긍정적으로 받아들이도록 노력해야 한다. 잔소리는 커뮤니케이션 과정에서 의도적인 메시지를 방해하고 혼란스럽게 하며, 때로는 왜곡시키는 장애요소가 된다. 수신자의 감정과 태도에 부정적인 영향을 준다. 이를 제거하는 것이 효과적인 커뮤니케이션에 필수적이다.</p>
 <p>선의의 피드백이 중요하다. 커뮤니케이션에서 일어나는 많은 문제들은 오해와 부정확성, 부정적 피드백 등에서 발생한다. 피드백이란 상대 메시지에 대한 수신자의 반응이다. 사람간의 커뮤니케이션은 자연발생적인 것이 아니라 의도된 것이라는 점에서 송신자의 의도대로 전달되었는가? 확인하는 과정이 피드백이다. 상대는 자신의 메시지에 대한 피드백을 원하는 경우가 많다. 그런데 때로 고령자들은 사소한 오해나 부정확한 수신으로 부정적인 피드백을 발사하는 경우가 있다. 사소한 일에 화를 내거나 부정적인 반응을 보이게 된다. 특히 커뮤니케이션에서 가장 악영향을 주는 것은 화를 내는 행동이다. 노화 현상으로 참을성이 줄어들고 조급해 지기는 하지만, 가급적 참고 화를 내지 않도록 노력해야 한다. 사람마다 차이가 있지만, 대부분의 사람들은 화를 낸 이후 부정적 여운이 10시간 이상 지속된다고 보고되고 있다. 사실은 화를 낸다고 달라지는 것은 없다. 상대와의 관계만 악화될 뿐이다.</p>
 <p>노년이 되어 화를 참지 못한다면 사회성 지수가 매우 낮아지게 된다. 커지는 말소리를 조심해야 한다. 청각 장애로 인해 노년들의 경우 자연히 말소리가 커지고 퉁명해 질 수 있다. 고령자의 말투 때문에 젊은이들이 대화에 끼어주지 않으려 한다. 말을 할 때는 부드럽고, 친절하게, 약한 높은 소리로 빠르게 말해서 상대에게 고령자라는 인상보다 편안하게 대화할 상대라는 인상을 주도록 노력해야 한다. 예전과 비교해서 현대인들은 오래 기다릴 줄 모르고 급하게 반응한다. 특히 청년층은 매우 신속하게 커뮤니케이션하기를 원한다. 긴 단어의 열거보다는 줄임말로, 긴 시간 다큐보다는 짧은 미디어 클립으로 의사를 표현한다. 노년들의 반응이 자신의 생각과 같지 않다고 여기면 가차 없이 무시하거나 형식적인 대화에 그치고 만다.</p>
@@ -248,7 +248,7 @@ export const articles = [
             excerpt: "Practical efforts and attitude changes for communicating with the younger generation in old age.",
             author: "Rev. Choi Jong-in",
             date: "June 25, 2021",
-            content: `< p > Due to the aging of brain cells and various physical functions, the elderly may appear unfavorable to the younger generation regardless of their will.However, if the elderly understand and recognize the various problems caused by aging themselves, negative communication can be significantly alleviated.It is also wisdom to live in harmony in relationships with family, church, and neighbors.Of course, if the younger generation also understands and accepts the fact that the unfavorable appearance or behavior of the elderly is due to aging, they can live without burdening each other significantly.In particular, the elderly should know that effective communication is not an option but a necessary condition and strive for it.</p >
+            content: `<p> Due to the aging of brain cells and various physical functions, the elderly may appear unfavorable to the younger generation regardless of their will.However, if the elderly understand and recognize the various problems caused by aging themselves, negative communication can be significantly alleviated.It is also wisdom to live in harmony in relationships with family, church, and neighbors.Of course, if the younger generation also understands and accepts the fact that the unfavorable appearance or behavior of the elderly is due to aging, they can live without burdening each other significantly.In particular, the elderly should know that effective communication is not an option but a necessary condition and strive for it.</p>
 <p>Facial expression management is necessary. As you age, you become expressionless, and increasing wrinkles on your face can give an unfavorable impression to the younger generation. However, even a wrinkled face can be seen in a good light if it has a smile. When meeting people of other generations, avoid rigid expressions or postures. Stereotypes should reduce nagging and complaints in communication with others. As one of the aging phenomena, the elderly tend to be dissatisfied and disapprove of the current state of society, the behavior of young people, government or social policies, and the behavior of their children at home, leading to a lot of nagging. However, nagging or complaints are unlikely to expect a good response from the younger generation. Rather, it causes antipathy and widens the distance. Therefore, try not to have complaints as much as possible and accept things positively as they are. Nagging interferes with, confuses, and sometimes distorts intentional messages in the communication process. It has a negative impact on the receiver's emotions and attitudes. Eliminating this is essential for effective communication.</p>
 <p>Goodwill feedback is important. Many problems in communication arise from misunderstandings, inaccuracies, and negative feedback. Feedback is the receiver's reaction to the other person's message. Since human communication is intentional rather than spontaneous, the process of checking whether it was delivered as intended by the sender is feedback. The other person often wants feedback on their message. However, sometimes the elderly launch negative feedback due to minor misunderstandings or inaccurate reception. They get angry or show negative reactions to trivial things. In particular, the most detrimental behavior in communication is getting angry. Although patience decreases and impatience increases due to aging, try to be patient and not get angry as much as possible. Although there are individual differences, it is reported that for most people, negative lingering effects last for more than 10 hours after getting angry. In fact, nothing changes by getting angry. It only worsens the relationship with the other person.</p>
 <p>If you cannot control your anger in old age, your sociality index will become very low. Be careful of loud voices. Due to hearing impairment, the elderly naturally tend to speak louder and become blunt. Young people try not to include them in conversations because of the elderly's tone of voice. When speaking, try to speak softly, kindly, and quickly with a slightly high pitch to give the impression of being a comfortable conversation partner rather than an elderly person. Compared to the past, modern people do not know how to wait long and react urgently. In particular, the younger generation wants to communicate very quickly. They express their intentions with abbreviations rather than listing long words, and with short media clips rather than long documentaries. If they think the elderly's reaction is not the same as their thoughts, they mercilessly ignore it or stop at formal conversation.</p>
@@ -264,7 +264,7 @@ export const articles = [
             excerpt: "교회 안에서의 예배가 세상 속에서의 삶의 예배로 이어져야 함을 강조.",
             author: "최종인 목사",
             date: "2021년 3월 19일",
-            content: `< p > 성경적인 예배</p >
+            content: `<p> 성경적인 예배</p>
 <p>신학적으로 예배를 정립했다면, 우리 예배의 모범은 어디서 찾을 것인가? 교파의 헌장이나 헌법에서 찾는 것이 아니라 성경에서 찾아야 한다. 어차피 헌장이나, 헌법, 교리 등은 모두 성경을 기초로 사람들이 만든 것이다. 교파별로 예배가 상이하고, 다른 주장을 한다 해도 가장 기본은 성경이다. 가장 성경적이며, 복음주의적인 예배는 어떤 것인가?</p>
 <p>첫째, 하나님이 예배하도록 우리를 부르신 것이다. 우리가 예배하는 이유는 하나님이 그리스도 예수 안에서 우리를 선택하셨고, 구원하셨으며, 자기 백성으로 삼으셨기 때문이다. 하나님이 우리를 선택하신 이유는 다만 구원으로 부르신 것이 아니다. 또한 우리 자신의 만족이나 행복을 위해서가 아니다. 성경은 하나님께서 당신에게 예배하도록 자기 백성을 선택하셨다고 말한다(시 10:1-3). 하나님의 선택의 목적은 “예배를 위해서”이다. 기독교에서 선택 교리는 무익하거나 사변적인 교리가 아니라 예배의 원동력이 된다. 사람들이 교회에 들어와 구원의 과정을 배우고, 구원의 전 과정을 알고 나면, 하나님이 우리를 부르셨다는 그 영광스러움을 깨닫는 다면 그는 하나님께 감사하면서 범사에 그분께 영광을 돌리며 영과 진리로 예배하는 자가 될 것이다.</p>
 <p>둘째, 예배의 대상은 하나님이시다. 하나님께서 하신 모든 일이 우리 예배의 근거가 된다. 주님의 말씀처럼 참으로 예배하는 자들은 “아버지”께 예배한다(요 4:23). 윌리엄 보에케스타인이 유명한 말을 남겼다. “참된 예배자는 ‘하나님 콤플렉스’를 가진 사람이다”. 하나님을 예배한다는 것은 삼위 하나님을 섬긴다는 말이다. 바울 사도 역시, “그로 말미암아 우리 둘이 한 성령 안에서 아버지께 나아감을 얻게 하려 하심이라”(엡 2:18)라고 했다. 여기서 예배는 아들 예수를 통하여, 성령 안에서, 아버지께 나가는 것이라고 했다. 레이번(Robert Rayburn) 역시 이렇게 말한바 있다. “올바른 예배는 예배자를 즐겁게 하는 것이 아니다. 경건한 신자들이 우주의 주권자이신 하나님께 합당한 경배와 찬양과 존귀와 복종을 바치고, 그 분이 말씀과 성례를 통해 제공하시는 영적 양식을 받는 것이다”. 레이번의 지적처럼 예배자를 즐겁게 하는 것이 아님에도 현대 예배를 보면, 예배 인도자들이 회중들의 눈치를 보면서 집례하고 있다. 성경적인 예배는 교회가 예배자들에게 무언가를 주는 것이 아니다. 예배자들이 하나님께 드리는 것이다(시 16:12, 13).</p>
@@ -280,7 +280,7 @@ export const articles = [
             excerpt: "Emphasizing that worship in the church should lead to worship in life in the world.",
             author: "Rev. Choi Jong-in",
             date: "March 19, 2021",
-            content: `< p > Biblical Worship</p >
+            content: `<p> Biblical Worship</p>
 <p>If we have established worship theologically, where should we find the model for our worship? We should not find it in the charter or constitution of a denomination, but in the Bible. After all, charters, constitutions, and doctrines are all made by people based on the Bible. Even if worship differs by denomination and they make different claims, the most basic thing is the Bible. What is the most biblical and evangelical worship?</p>
 <p>First, God has called us to worship. The reason we worship is that God chose us in Christ Jesus, saved us, and made us His people. The reason God chose us is not just to call us to salvation. Also, it is not for our own satisfaction or happiness. The Bible says that God chose His people to worship Him (Psalm 10:1-3). The purpose of God's election is "for worship." In Christianity, the doctrine of election is not a useless or speculative doctrine, but the driving force of worship. If people come into the church, learn the process of salvation, know the entire process of salvation, and realize the glory that God has called us, they will become those who worship in spirit and truth, giving glory to Him in everything while thanking God.</p>
 <p>Second, the object of worship is God. Everything God has done becomes the basis of our worship. As the Lord said, true worshipers worship the "Father" (John 4:23). William Boekestein left a famous saying. "A true worshiper is a person with a 'God complex'." Worshiping God means serving the Triune God. The Apostle Paul also said, "For through him we both have access to the Father by one Spirit" (Ephesians 2:18). Here, worship is said to be going to the Father through the Son Jesus, in the Holy Spirit. Robert Rayburn also said this. "Right worship is not to please the worshiper. It is for godly believers to offer worthy worship, praise, honor, and obedience to God, the Sovereign of the universe, and to receive the spiritual food He provides through the Word and Sacraments." As Rayburn pointed out, although it is not to please the worshiper, looking at modern worship, worship leaders are officiating while being conscious of the congregation. Biblical worship is not the church giving something to the worshipers. It is the worshipers offering to God (Psalm 16:12, 13).</p>
@@ -299,7 +299,7 @@ export const articles = [
             excerpt: "교회 울타리를 넘어 세상의 필요를 채우고 섬기는 예배의 확장.",
             author: "최종인 목사",
             date: "2021년 2월 26일",
-            content: `< p > 코로나19가 주는 충격이 엄청나다.물론 대상들 마다 다르겠지만, 코로나 때문에 가장 큰 충격을 받은 것은 바로 예배일 것이다.작은 교회들은 물론이고 큰 교회들도 영상예배에 대해 이해가 많지 않은 가운데 갑자기 영상예배로 전환하면서 많은 혼란과 시행착오를 거쳤다.봄 심방을 취소하거나, 전화로 심방을 대신하기도 하고, 교회학교의 경우는 더욱 혼란스러웠다.온라인을 통한 교사들 미팅이나 교육, 영상자료 제공으로 주일예배를 대신했지만, 성도들의 만족도는 그리 높지 않다.문제는 이 같은 상황이 금방 종료될 것이 아니라 길어진다는데 있다.우리는 이제 먼 미래가 아니라 당장 매주 드리는 예배에 대해 보다 심각하게 생각할 때이다.그동안은 특별한 생각을 하지 않고 거의 무의식적으로 예배를 준비하여 드렸다면, 지금은 주말이 되면, 이번 주는 무사히 예배할 수 있을까 걱정하게 된다.당장 나부터도 주말에 확진자가 얼마나 되나 확인하면서 주일을 준비하게 된다.</p >
+            content: `<p> 코로나19가 주는 충격이 엄청나다.물론 대상들 마다 다르겠지만, 코로나 때문에 가장 큰 충격을 받은 것은 바로 예배일 것이다.작은 교회들은 물론이고 큰 교회들도 영상예배에 대해 이해가 많지 않은 가운데 갑자기 영상예배로 전환하면서 많은 혼란과 시행착오를 거쳤다.봄 심방을 취소하거나, 전화로 심방을 대신하기도 하고, 교회학교의 경우는 더욱 혼란스러웠다.온라인을 통한 교사들 미팅이나 교육, 영상자료 제공으로 주일예배를 대신했지만, 성도들의 만족도는 그리 높지 않다.문제는 이 같은 상황이 금방 종료될 것이 아니라 길어진다는데 있다.우리는 이제 먼 미래가 아니라 당장 매주 드리는 예배에 대해 보다 심각하게 생각할 때이다.그동안은 특별한 생각을 하지 않고 거의 무의식적으로 예배를 준비하여 드렸다면, 지금은 주말이 되면, 이번 주는 무사히 예배할 수 있을까 걱정하게 된다.당장 나부터도 주말에 확진자가 얼마나 되나 확인하면서 주일을 준비하게 된다.</p>
 <p>예배의 문제</p>
 <p>본래 종교개혁자들은 초기 기독교의 예배 전통을 회복하는 운동을 전개하면서 중세교회가 초기교회의 예배 전통을 왜곡, 굴절, 변질시키거나 첨삭한 것들을 복원하는 노력을 했다. 그래서 종교개혁의 중요한 과제는 예배개혁을 통한 신앙개혁이었다. 개혁자들이 초기교회 때부터 전승된 예배유산을 보전하고 회복하려는 노력을 하는 중에 과격한 개혁자들에 의해서 예전적인 예배전통을 약화시킨 경향도 나타났다. 그리하여 프로테스탄트교회는 개혁의 강조점에 따라서 예배의식이 달라지고, 여러 교파의 생성으로 예배의 통일성을 유지하지 못하고 다양한 예배형식이 나타나게 되었다. 개혁파 교회는 초기교회의 예배전통을 회복해나감으로 가톨릭교회가 굴절시키거나 변형시킨 것을 다시 바로잡는 예배회복운동을 치열하게 전개해왔다.</p>
 <p>송인웅 목사는 예배에 대한 개혁자들의 공로를 몇 가지 소개했다. 특별히 공헌한 것은 예배 중에 가장 중요한 말씀(복음)을 회복한 것이요, 둘째는 구경꾼으로 만들어버린 회중을 찾아서 예배의 중심에 앉힌 것이요, 셋째는 제사상으로 만들어버린 성찬상을 하나님 백성의 잔칫상으로 회복한 것이며, 넷째는 사제들의 전유물이 되어버린 예배 프로그램을 “회중의 예배”(of Laos), “회중을 위한 예배”(for Laos)로 회복시켰다는 것이다.</p>
@@ -311,7 +311,7 @@ export const articles = [
             excerpt: "Expansion of worship to fill the needs of the world and serve beyond the church fence.",
             author: "Rev. Choi Jong-in",
             date: "February 26, 2021",
-            content: `< p > The shock of COVID - 19 is enormous.Of course, it varies by target, but the biggest shock from COVID - 19 must be worship.Not only small churches but also large churches went through a lot of confusion and trial and error as they suddenly switched to video worship without much understanding of video worship.Spring visitations were canceled or replaced by phone calls, and the case of church schools was even more confusing.Sunday worship was replaced by online teacher meetings, education, and provision of video materials, but the satisfaction of the saints is not very high.The problem is that this situation will not end soon but will be prolonged.We must now think more seriously about the worship we offer every week, not in the distant future.If we prepared and offered worship almost unconsciously without special thoughts in the past, now when the weekend comes, we worry about whether we can worship safely this week.Even I prepare for Sunday while checking how many confirmed cases there are on the weekend.</p >
+            content: `<p> The shock of COVID - 19 is enormous.Of course, it varies by target, but the biggest shock from COVID - 19 must be worship.Not only small churches but also large churches went through a lot of confusion and trial and error as they suddenly switched to video worship without much understanding of video worship.Spring visitations were canceled or replaced by phone calls, and the case of church schools was even more confusing.Sunday worship was replaced by online teacher meetings, education, and provision of video materials, but the satisfaction of the saints is not very high.The problem is that this situation will not end soon but will be prolonged.We must now think more seriously about the worship we offer every week, not in the distant future.If we prepared and offered worship almost unconsciously without special thoughts in the past, now when the weekend comes, we worry about whether we can worship safely this week.Even I prepare for Sunday while checking how many confirmed cases there are on the weekend.</p>
 <p>The Problem of Worship</p>
 <p>Originally, the Reformers made efforts to restore what the medieval church distorted, refracted, degenerated, or added to the worship tradition of the early church while developing a movement to restore the worship tradition of early Christianity. Therefore, an important task of the Reformation was faith reform through worship reform. While the Reformers tried to preserve and restore the worship heritage handed down from the early church, there was also a tendency to weaken the liturgical worship tradition by radical reformers. Thus, the Protestant church's worship rituals changed according to the emphasis of the reform, and due to the creation of various denominations, the unity of worship could not be maintained, and various worship forms appeared. The Reformed church has fiercely developed a worship restoration movement to correct what the Catholic church refracted or transformed by restoring the worship tradition of the early church.</p>
 <p>Rev. Song In-woong introduced several contributions of the Reformers to worship. The special contributions are: first, restoring the most important Word (Gospel) during worship; second, finding the congregation who had been made into spectators and seating them in the center of worship; third, restoring the communion table, which had been made into a sacrificial table, to a feast table for God's people; and fourth, restoring the worship program, which had become the exclusive property of priests, to "worship of the congregation" (of Laos) and "worship for the congregation" (for Laos).</p>
@@ -326,7 +326,7 @@ export const articles = [
             excerpt: "주일예배의 중요성을 재확인하고 주중의 삶으로 이어지는 예배의 연속성.",
             author: "최종인 목사",
             date: "2021년 1월 15일",
-            content: `< p > 주일예배의 회복</p >
+            content: `<p> 주일예배의 회복</p>
 <p>주일예배는 매우 중요하다고 했다. 그렇다면, 주일예배의 회복을 위해 무엇을 먼저 해야 하는가?</p>
 <p>첫째, 앞으로는 설교 중심의 예배에서 탈피해야 된다고 본다. 개신교 예배에서의 설교가 차지하는 위치를 부정할 수 있는 사람은 없다. 하지만 지나친 설교 중심의 예배는 “설교가 바로 예배이다”라는 그릇된 예배관을 심어 줄 수 있다. 예배에 대해 단순한 이해 구조를 가지고 있는 사람은 설교를 통해서만 예배의 은혜를 경험할 수 있다고 생각하는 경향이 있다. 설교를 통해서 은혜를 체험하면 예배를 통해서 은혜를 경험하였다고 생각하지만, 그 반대의 경우에는 예배를 통해서 하나님의 은혜를 체험하지 못했다고 판단한다.</p>
 <p>그러나 예배는 통전적 이해에 기초해야 된다. 예배를 구성하는 다양한 요소들이 종합적으로 조화를 이루며, 모든 요소들을 통해서 예배자들은 성령의 역사를 경험할 수 있어야 된다. 기본적으로 예배는 은혜의 통로이다. 예배의 다양한 순서와 요소들, 즉 기도, 찬양, 성경봉독과 같은 직접적인 언어적 요소들 뿐 아니라 상징과 침묵과 같은 비음성적인 요소들을 통해서도 하나님의 은혜를 경험할 수 있다. 설교는 그날의 예배를 구성하는 여러 요소 가운데 하나이다. 비록 개신교 예배에서 가장 중요한 위치를 차지하고는 있지만, 다른 예배를 구성하는 요소들이 설교에 의해서 그 중요성이 감해져서는 안 된다. 오히려 예배에서 설교만을 지나치게 강조할 경우 다양한 예배의 역기능이 나타날 수 있다. 목사 한 사람이 지나치게 중심이 되는 예배, 배움과 가르침 중심의 지성적이며 이성적인 예배는 예배자들을 수동적으로 만드는 예배가 될 가능성이 매우 높다. 미래에는 설교가 차지하는 비율이 줄어들 것이다.</p>
@@ -347,7 +347,7 @@ export const articles = [
             excerpt: "Reaffirming the importance of Sunday worship and the continuity of worship leading into weekday life.",
             author: "Rev. Choi Jong-in",
             date: "January 15, 2021",
-            content: `< p > Restoration of Sunday Worship</p >
+            content: `<p> Restoration of Sunday Worship</p>
 <p>It has been said that Sunday worship is very important. Then, what should be done first for the restoration of Sunday worship?</p>
 <p>First, I believe we must move away from sermon-centered worship in the future. No one can deny the position that sermons occupy in Protestant worship. However, excessive sermon-centered worship can implant a wrong view of worship that "sermon is worship." People with a simple understanding structure of worship tend to think that they can experience the grace of worship only through sermons. If they experience grace through the sermon, they think they have experienced grace through worship, but in the opposite case, they judge that they have not experienced God's grace through worship.</p>
 <p>However, worship must be based on a holistic understanding. The various elements that make up worship must be comprehensively harmonized, and worshipers must be able to experience the work of the Holy Spirit through all elements. Basically, worship is a channel of grace. God's grace can be experienced not only through direct linguistic elements such as prayer, praise, and scripture reading, which are various orders and elements of worship, but also through non-verbal elements such as symbols and silence. The sermon is one of several elements that make up that day's worship. Although it occupies the most important position in Protestant worship, the importance of other elements that make up worship should not be diminished by the sermon. Rather, if only the sermon is emphasized excessively in worship, various dysfunctions of worship may appear. Worship where one pastor is excessively central, and intellectual and rational worship centered on learning and teaching, is very likely to become worship that makes worshipers passive. In the future, the proportion of sermons will decrease.</p>
@@ -371,7 +371,7 @@ export const articles = [
             excerpt: "개인주의를 넘어 공동체로서의 정체성을 확인하는 주일예배의 가치.",
             author: "최종인 목사",
             date: "2021년 1월 8일",
-            content: `< p > 주일예배의 기원</p >
+            content: `<p> 주일예배의 기원</p>
 <p>일요일이 어떻게 그리스도인들의 예배하는 날로 정착되었을까? 초기기독교 공동체는 유대교와 그 문화에 매우 깊이 연결되어 있었다. 초대교회 공동체는 유대교의 전통 속에서 모임을 이어갔지만, 예수의 부활과 승천 사건 이후로 그 모임에 새로운 전기를 마련하기 시작하였다. 그리스도인들은 주님의 부활을 기념하여 모이기 시작하였고, 그 날을 한 주간의 첫 날로 기록하고 있다. 신약성서에는 3곳의 본문에서 주일에 초기 그리스도인들의 모임을 가졌던 것에 대한 기록을 찾을 수 있다. 그 주간의 첫날에 예배를 위해서 드로아에 함께 모였던 바울과 그의 무리들은 주일을 지내고도 더 머물러 날이 늦도록 설교하였다. 성경은 “떡을 떼려” 이들이 모인 것으로 기록하고 있다(행 20:7-12). ‘매주 첫날에’(고전 16:2), 그리고 ‘주의 날’(계 1:10)은 모두 성경이 기록하고 있는 주일의 의미였다. 기본적으로 안식일과는 그 개념과 실제에 있어서 구별하려는 노력을 하였다.</p>
 <p>초기의 유대교 그리스도인들은 유대인들의 전통에 따라 주일을 안식일로 지켰으며, 그 주일은 종말론적 성격이 강한 안식일의 개념이었을 것이다. 하지만 바울의 영향 하에 있었던 이방 그리스도인들은 유대인들의 율법으로부터 자유로워서 안식일을 지켜야 된다는 어떠한 의무감도 없었기에, 예배를 위한 요일을 안식일로부터 일요일로 옮기는 것에 전혀 문제될 것이 없었다. 특별히 부활 후 주님께서 자신의 제자들과 함께한 식사의 자리가 한 주의 첫 날에 이뤄진 것으로 보이기에, 이들이 일요일을 주일로 지키는 것이다. 그리스도인들의 모임의 중심에 위치하고 있었던 성찬도, 초기에는 토요일 저녁에서 일요일 저녁으로 옮겼을 것이고, 이후 자연스럽게 일요일 오전으로 자리를 옮겨 왔다. 초대교회는 주일을 예배의 날로 거룩하게 구별하여 지켰는데, 여기에서 ‘주일 성수’라는 용어가 나온다.</p>
 <p>그들이 주일을 지키는 데는 몇 가지 원칙이 있었는데, 마르바 던(Marva J. Dawn)의 통찰에 의하면, 그 첫 번째는 그침의 차원이었다. 이것은 단지 일 자체의 그침만은 아니었다. 마르바 던은 “성취와 생산의 필요에 대한 그침, 현대사회가 요구하는 성공의 기준으로 인한 염려와 긴장에 대한 그침, 소유욕과 문화에 대한 그침, 하나님을 삶의 중심에 두지 않고 살아갈 때 생겨나는 단조로움과 무의미에 대한 그침”까지 포함한다고 했다. 일을 그치는 것(Ceasing Work)은 하나님을 섬기고 예배하기 위함이며, 근심, 걱정, 긴장, 욕심을 멈추는 것을 포함한다는 것이다.</p>
@@ -389,7 +389,7 @@ export const articles = [
             excerpt: "The value of Sunday worship in confirming identity as a community beyond individualism.",
             author: "Rev. Choi Jong-in",
             date: "January 8, 2021",
-            content: `< p > Origin of Sunday Worship</p >
+            content: `<p> Origin of Sunday Worship</p>
 <p>How did Sunday become established as the day of worship for Christians? The early Christian community was very deeply connected to Judaism and its culture. The early church community continued its meetings within the tradition of Judaism, but after the resurrection and ascension of Jesus, it began to prepare a new turning point for the meetings. Christians began to gather to commemorate the Lord's resurrection, and they record that day as the first day of the week. In the New Testament, we can find records of early Christians having meetings on Sunday in three texts. Paul and his group, who gathered in Troas for worship on the first day of the week, preached until late at night even after spending Sunday. The Bible records that they gathered "to break bread" (Acts 20:7-12). 'On the first day of every week' (1 Corinthians 16:2) and 'the Lord's Day' (Revelation 1:10) were all meanings of Sunday recorded in the Bible. Basically, efforts were made to distinguish it from the Sabbath in its concept and practice.</p>
 <p>Early Jewish Christians kept Sunday as the Sabbath according to Jewish tradition, and that Sunday would have been the concept of a Sabbath with a strong eschatological character. However, Gentile Christians under the influence of Paul were free from Jewish law and had no obligation to keep the Sabbath, so there was no problem at all in moving the day for worship from the Sabbath to Sunday. Especially since the meal Jesus had with his disciples after the resurrection seems to have taken place on the first day of the week, they keep Sunday as the Lord's Day. The Eucharist, which was located at the center of Christian meetings, would have moved from Saturday evening to Sunday evening in the early days, and then naturally moved to Sunday morning. The early church kept Sunday holy as a day of worship, and the term 'Sunday Observance' comes from here.</p>
 <p>There were several principles in their keeping of Sunday, and according to the insight of Marva J. Dawn, the first was the dimension of ceasing. This was not just the cessation of work itself. Marva Dawn said it includes "ceasing the need for achievement and production, ceasing the anxiety and tension caused by the standards of success required by modern society, ceasing possessiveness and culture, and ceasing the monotony and meaninglessness that arise when living without placing God at the center of life." Ceasing Work is to serve and worship God, and it includes stopping worry, anxiety, tension, and greed.</p>
@@ -410,7 +410,7 @@ export const articles = [
             excerpt: "변화하는 시대 속에서 주일예배의 본질을 지키며 평일예배를 활성화하는 방안.",
             author: "최종인 목사",
             date: "2021년 1월 29일",
-            content: `< p > 평일에 예배한다.</p >
+            content: `<p> 평일에 예배한다.</p>
 <p>교회와 성도들은 주일에 대한 바른 이해가 있어야 한다. 우리 신앙의 기본이며, 근간이 되기 때문이다. 나는 그동안 한국교회가 침체되는 이유를 매우 관심을 갖고 지켜보며 연구했다. 그 결과 몇 가지 결론을 얻었는데, 사회 인구학적 저하이거나, 포스트모던주의 때문이라든지, 교회의 타락이나 공동체성의 쇠락도 어느 정도는 인정하지만, 나름대로의 결론은 다음과 같다.</p>
 <p>첫째는 주일성수의 개념이 약해진 때문이다. 즉 교회와 성도들이 주일예배를 소홀히 하고, 교회의 사명을 지키지 못하기에 한국교회는 침체된 것이다. 둘째는 구역 소모임의 약화이다. 예전의 성도들은 구역이 나 소모임을 열심히 챙겼다. 사회 구조의 변동이나 성도들의 삶이 복잡해지면서 예전처럼 구역이나 소모임을 모이지 않는 이들이 늘어났다. 이것은 결국 신앙약화로 이어지고 교회침체로 이어졌다. 셋째는 가정예배를 드리는 가정이 거의 없다. 드려도 형식적으로 주말에 한번 드리는 가정도 많다. 예전에는 가정에서 가장이 인도하며, 식구들을 위해 기도하는 전통이 있었는데, 그런 아름다운 전통은 이제 찾기 힘들어졌다. 넷째는 성도들 간의 교제가 약화된 것이다. 예배를 드린 후 곧장 주차장을 통해 빠져나가는 성도들이 많다. 교역자들에게 알리지 않고, 교구의 식구들과 전혀 교제 없이 주일예배만 드리는 성도들이 다수이다 보니 교회가 힘을 잃게 되는 것이다.</p>
 <p>그래서 이런 것을 방지하기 위해 책을 만들어 ‘테이블 운동’을 강조했다. 주일에도 모이고, 주중에도 모여 식탁이나, 일터에서 말씀으로 교제하자는 것이다. 가정예배를 시작했고, 많은 성도들이 호응해서 가정예배를 드리고 있다. 주일에는 설교 전에 그날의 ‘가정예배’ 말씀을 읽고 나눔으로 온 성도들이 한 가족 의식을 갖고 가정예배를 강조했다. 강단 위에 가정예배 말씀 카렌더를 상시 비치해 누구든지 보면서 가정예배를 인식하게 했다. 바로 그것처럼 한국교회 부흥과 재성장을 원한다면 주일예배를 다시 강조해야 한다. 그러나 아쉽게도, 미래의 교회는 평일에 예배하는 교회들이 늘어날 것이다. 지금은 주일과 평일에 두 세 차례 예배하지만, 어느 정도 시간이 흐르면, 아예 평일에만 예배하는 교회도 생겨날 것이다.</p>
@@ -427,7 +427,7 @@ export const articles = [
             excerpt: "Ways to revitalize weekday worship while keeping the essence of Sunday worship in changing times.",
             author: "Rev. Choi Jong-in",
             date: "January 29, 2021",
-            content: `< p > Worshiping on Weekdays</p >
+            content: `<p> Worshiping on Weekdays</p>
 <p>Churches and saints must have a correct understanding of Sunday. Because it is the basis and foundation of our faith. I have been watching and researching the reasons for the stagnation of the Korean church with great interest. As a result, I reached several conclusions. Although I acknowledge demographic decline, postmodernism, church corruption, or the decline of community spirit to some extent, my own conclusions are as follows.</p>
 <p>First, it is because the concept of Sunday observance has weakened. In other words, the Korean church is stagnant because churches and saints neglect Sunday worship and fail to keep the mission of the church. Second is the weakening of district small groups. In the past, saints took good care of districts or small groups. As the social structure changed and the lives of saints became complicated, the number of people who do not gather in districts or small groups like before has increased. This eventually led to weakening of faith and church stagnation. Third, there are almost no families offering family worship. Even if they do, many families offer it formally once on the weekend. In the past, there was a tradition where the head of the household led at home and prayed for the family members, but such a beautiful tradition has become hard to find now. Fourth is the weakening of fellowship among saints. There are many saints who leave through the parking lot immediately after worship. Since there are many saints who just offer Sunday worship without informing the ministers and without any fellowship with the members of the parish, the church loses its strength.</p>
 <p>So, to prevent this, I made a book and emphasized the 'Table Movement'. It is to gather on Sundays and also gather during the week to fellowship with the Word at the table or workplace. We started family worship, and many saints responded and are offering family worship. On Sundays, before the sermon, we read the 'Family Worship' word of the day and shared it, emphasizing family worship so that all saints have a sense of one family. We placed the family worship word calendar on the pulpit at all times so that anyone could see it and recognize family worship. Just like that, if we want revival and re-growth of the Korean church, we must emphasize Sunday worship again. However, unfortunately, the number of churches worshiping on weekdays will increase in the future church. Now we worship two or three times on Sundays and weekdays, but after some time passes, churches that worship only on weekdays will also emerge.</p>
@@ -448,7 +448,7 @@ export const articles = [
             excerpt: "자살 문제에 대한 교회의 신학적 이해와 유가족을 위한 목회적 돌봄.",
             author: "최종인 목사",
             date: "2020년 9월 11일",
-            content: `< p > 올바른 성경적 해석과 예방상담</p >
+            content: `<p> 올바른 성경적 해석과 예방상담</p>
 <p>자살은 곧 또 다른 살인 행위라고 하는 성경적 윤리를 가르쳐야 합니다. 또한 자살을 생각하는 성도들을 대상으로 예방상담을 제공해야 합니다. 위기상담의 대가인 노먼 라이트(H. Norman Wright) 박사는 자살의 위기상담에서 몇 가지를 알아내고 제공해야 한다고 전합니다.</p>
 <p>첫째는 친밀한 관계를 형성하여 많은 정보를 얻어낸다. 둘째, 문제를 확립하고 명확히 한다. 셋째, 자살할 능력이나 치명도를 살펴본다고 제안한 후, 넷째, 내담자에게 도움이 될 수 있도록 계획을 명확히 말하라고 함으로써 예방 교육이 중요함을 역설 하였습니다. 즉 자살의 위기에 있는 사람이 행동으로 옮기려고 하는 것이 어떤 계획인지를 알아내고 그로 하여금 바꾸게 하는 것이 중요하다고 말한 것입니다. 한편 자살을 언급할 때는 주의할 점이 있습니다. 아래 그림을 참고하면 좋을 것입니다.</p>
 <p>상담교육 강화</p>
@@ -466,7 +466,7 @@ export const articles = [
             excerpt: "The church's theological understanding of suicide and pastoral care for the bereaved families.",
             author: "Rev. Choi Jong-in",
             date: "September 11, 2020",
-            content: `< p > Correct Biblical Interpretation and Prevention Counseling</p >
+            content: `<p> Correct Biblical Interpretation and Prevention Counseling</p>
 <p>We must teach the biblical ethic that suicide is another act of murder. We must also provide prevention counseling for saints who are thinking about suicide. Dr. H. Norman Wright, a master of crisis counseling, says that several things must be found out and provided in suicide crisis counseling.</p>
 <p>First, form an intimate relationship to obtain a lot of information. Second, establish and clarify the problem. Third, after suggesting to examine the ability or lethality of suicide, fourth, he emphasized the importance of prevention education by telling the client to clearly state the plan so that it can be helpful. In other words, he said it is important to find out what plan the person in suicide crisis is trying to put into action and make them change it. Meanwhile, there are points to be careful about when mentioning suicide. It would be good to refer to the figure below.</p>
 <p>Strengthening Counseling Education</p>
@@ -490,7 +490,7 @@ export const articles = [
             excerpt: "청소년 사망 원인 1위인 자살의 원인 분석과 예방을 위한 가정, 학교, 사회의 역할.",
             author: "최종인 목사",
             date: "2020년 8월 28일",
-            content: `< p > 청소년 사망 원인 1위가 자살이라는 사실은 우리 사회의 슬픈 자화상입니다.입시 경쟁, 학교 폭력, 가정 불화 등이 아이들을 벼랑 끝으로 내몰고 있습니다.</p >
+            content: `<p> 청소년 사망 원인 1위가 자살이라는 사실은 우리 사회의 슬픈 자화상입니다.입시 경쟁, 학교 폭력, 가정 불화 등이 아이들을 벼랑 끝으로 내몰고 있습니다.</p>
 <h3>1. 학업 스트레스와 성적 비관</h3>
 <p>지나친 경쟁 위주의 교육 환경이 아이들을 숨 막히게 합니다. 성적보다 아이의 존재 자체를 소중히 여기는 부모의 태도가 필요합니다.</p>
 <h3>2. 소통의 부재</h3>
@@ -507,7 +507,7 @@ export const articles = [
             excerpt: "Analysis of the causes of suicide, the #1 cause of death among youth, and the roles of family, school, and society for prevention.",
             author: "Rev. Choi Jong-in",
             date: "August 28, 2020",
-            content: `< p > The fact that suicide is the #1 cause of death among youth is a sad self - portrait of our society.Entrance exam competition, school violence, and family discord are driving children to the edge of a cliff.</p >
+            content: `<p> The fact that suicide is the #1 cause of death among youth is a sad self - portrait of our society.Entrance exam competition, school violence, and family discord are driving children to the edge of a cliff.</p>
 <h3>1. Academic Stress and Pessimism about Grades</h3>
 <p>An educational environment focused on excessive competition suffocates children. Parents need an attitude that values the child's existence itself more than grades.</p>
 <h3>2. Absence of Communication</h3>
@@ -527,7 +527,7 @@ export const articles = [
             excerpt: "가장의 무게와 사회적 압박 속에 위기를 겪는 중년 남성의 자살 문제.",
             author: "최종인 목사",
             date: "2020년 8월 21일",
-            content: `< p > 중년의 자살</p >
+            content: `<p> 중년의 자살</p>
 <p>우리나라를 ‘자살 1위국’으로 만든 결정적 진원지는 바로 ‘40~60대 중년남성’들입니다. 통계청의 사망원인 분석에 따르면, 2015년 연령별 자살현황을 볼 때 40대와 50대가 가장 많았음을 볼 수 있습니다. 특히 분석 결과를 보면 여성보다는 남성들이 거의 3배 이상 자살률이 높음을 봅니다. 특히 이러한 ‘4060’ 남성들의 ‘자살 러시’는 본격적인 노인 사회로 접어들수록 가속화할 것이라는 전망이 우세해 그 심각성을 더하고 있습니다. 그 원인과 대책은 무엇일까요? 무엇보다도 그들을 이해하는 것이 중요합니다.</p>
 <h3>1. 중년의 특성</h3>
 <p>중년의 시기에게 자살이 많은 이유를 알려면 먼저 그들의 특성을 이해해야 합니다. 중년기는 인생의 전환기로서 삶의 의미를 다시 마주하게 되는 시기로, 자신의 실체를 찾으려고 하며 실존에 대한 회의와 정서적 혼란 및 고통이 수반되는 중년의 위기를 맞게 됩니다. 이러한 위기감의 핵심에는 젊음이 사라져 가는 것을 애도하는 심정과 생명의 유한성에 대한 인식, 그리고 ‘내가 누구인가?’, ‘나는 무엇을 위해 살아왔는가?’ 하는 실존에 대한 의문이 포함되어 있습니다. 또한, 개인의 삶에서 방향의식, 목적의식을 상실하면 인생에 대해 무가치감, 무의미감, 권태감, 고독, 불안감을 느끼게 되고 허전하고 텅 빈 느낌의 ‘실존적 공허’를 경험하게 됩니다. 그리고 이러한 실존적 공허를 극복하기 위해서는 삶의 의미 또는 목적을 갖는 것이 중요합니다. 특히 중년남성은 장기적인 경제 불황과 사회구조의 변화로 구조조정, 조기퇴직, 실직 등으로 직․간접적인 심리적 부담감이 그 어느 때보다 크며, 또한 중년 여성은 폐경, 신체적 노화, 역할상실 등으로 우울함에 빠지게 되며, 우울은 곧 삶의 의미를 상실하게 만듭니다. 또한, 중년기는 가정에서 자녀와 부모간의 관계 그리고 부부관계에서의 변화 등 생활에서 많은 변화를 경험하는 시기로 이러한 때에 삶의 의미 또는 목적을 찾지 못하게 된다면 심리적으로 큰 어려움을 겪게 됩니다. 특히 중년 남성들은 이런 과정 속에서 많은 스트레스를 경험하고 있으며, 우울과 같은 정신적 문제가 발생하거나, 알코올 의존이나 흡연 등과 같이 건강을 해치는 행위를 하게 될 수 있고, 극단적인 경우에는 자살로 이어지기도 합니다.</p>
@@ -549,7 +549,7 @@ export const articles = [
             excerpt: "The suicide problem of middle-aged men facing crises amidst the burden of being breadwinners and social pressure.",
             author: "Rev. Choi Jong-in",
             date: "August 21, 2020",
-            content: `< p > Middle - aged Suicide</p >
+            content: `<p> Middle - aged Suicide</p>
 <p>The decisive epicenter that made our country the 'No. 1 Suicide Nation' is the 'middle-aged men in their 40s to 60s'. According to the analysis of causes of death by Statistics Korea, looking at the suicide status by age in 2015, it can be seen that those in their 40s and 50s were the most numerous. In particular, looking at the analysis results, we see that the suicide rate for men is almost three times higher than that for women. Especially, the prospect that the 'suicide rush' of these '4060' men will accelerate as we enter a full-fledged elderly society is dominant, adding to its seriousness. What are the causes and countermeasures? Above all, it is important to understand them.</p>
 <h3>1. Characteristics of Middle Age</h3>
 <p>To know why there are many suicides in the middle-aged period, we must first understand their characteristics. Middle age is a transition period of life, a time to face the meaning of life again, trying to find one's reality, and facing a middle-aged crisis accompanied by skepticism about existence and emotional confusion and pain. At the core of this sense of crisis are feelings of mourning the disappearance of youth, awareness of the finiteness of life, and questions about existence such as 'Who am I?' and 'What have I lived for?'. Also, if one loses the sense of direction and purpose in individual life, one feels worthlessness, meaninglessness, boredom, loneliness, and anxiety about life, and experiences 'existential emptiness', a feeling of emptiness and hollowness. And in order to overcome this existential emptiness, it is important to have a meaning or purpose in life. Especially for middle-aged men, direct and indirect psychological burdens due to restructuring, early retirement, and unemployment caused by long-term economic recession and changes in social structure are greater than ever, and middle-aged women fall into depression due to menopause, physical aging, and loss of roles, and depression soon leads to loss of meaning in life. Also, middle age is a time of experiencing many changes in life such as changes in relationships between children and parents and marital relationships in the family, and if one fails to find the meaning or purpose of life at this time, one will experience great psychological difficulties. Especially middle-aged men are experiencing a lot of stress in this process, and mental problems such as depression may occur, or they may engage in behaviors that harm their health such as alcohol dependence or smoking, and in extreme cases, it may lead to suicide.</p>
@@ -574,7 +574,7 @@ export const articles = [
             excerpt: "OECD 1위인 한국 노인 자살률의 원인 분석과 대책 마련.",
             author: "최종인 목사",
             date: "2020년 9월 20일",
-            content: `< p > 한국에서 자살은 심각한 사회문제가 되고 있습니다.통계청의 사망원인 통계를 살펴보면, 고의적 자해, 즉 자살로 인한 사망건수가 1996년 5, 959건, 2000년 6, 44건, 2004년 1, 492건, 그리고 2008년에는 12, 858 건으로 계속 증가해왔음을 알 수 있습니다.더욱이 2005년부터 한국이 OECD 국가 중 자살률에서 1위를 차지하였습니다.특히 한국에서는 65세 이상 노인의 자살이 더 심각한 수준입니다.</p >
+            content: `<p> 한국에서 자살은 심각한 사회문제가 되고 있습니다.통계청의 사망원인 통계를 살펴보면, 고의적 자해, 즉 자살로 인한 사망건수가 1996년 5, 959건, 2000년 6, 44건, 2004년 1, 492건, 그리고 2008년에는 12, 858 건으로 계속 증가해왔음을 알 수 있습니다.더욱이 2005년부터 한국이 OECD 국가 중 자살률에서 1위를 차지하였습니다.특히 한국에서는 65세 이상 노인의 자살이 더 심각한 수준입니다.</p>
 <p>중앙자살예방센터에 따르면 2015년 국내서 스스로 목숨을 끊은 사망자 중 65세 이상 연령대의 비율은 전체 중 28.4%로 나타났습니다. 이는 미국(10만 명당 16.6명)의 3.5배, 일본(10만 명당 25.8명)의 2.3배에 이르는 높은 수치입니다. 초고령 노인일수록 더욱 심각합니다. 10만 명당 36.9명이었던 60대 자살률은 70대에서 10만 명당 62.5명으로 수직 상승했다가 80대에선 83.7명까지 높아지고 있습니다. 따라서 교회는 한국사회에 유독 많은 노인자살의 문제를 정확히 파악하고 노인자살에 대한 대응책을 마련할 필요가 있습니다. 왜냐하면 오늘날 한국교회 성도들 가운데도 고령자들이 늘어나고 있기 때문입니다. 특히 아래 그림을 보면 특히 경제 위기가 있을 때 노인자살자가 대폭 늘어난 것을 알 수 있습니다.</p>
 <p>그것은 노인자살자들에게 경제문제가 특히 심각하다는 것을 보여줍니다. 오늘날과 같은 경제적 침체기에 교회는 더욱 노인들의 정신건강을 챙겨야 할 것입니다. 2014년 보건복지부 통계에서 ‘노인들이 자살을 시도하는 이유’를 보면 다양한 이유가 등장합니다. 특히 경제문제, 건강문제, 심리적 외로움, 갈등 등이 원인으로 나옵니다. 이 같은 노인자살 문제는 개인적인 생명을 훼손하는 것과 개인의 삶의 질의 문제에도 영향이 있겠지만 노인의 자살의 증가는 그 가족과 공동체의 파괴를 가져오며 더 나아가 사회의 통합을 해치게 됩니다. 증가하는 노인자살에 대하여 개인과 우리사회, 국가적인 차원에서의 다각적인 노력과 대책이 절실히 요청되고 있습니다. 아울러 교회 역시 고령화 추세가 뚜렷한 만큼 교회 안에 노인들이 많이 활동하고 있습니다. 그들 노인들이 정신적으로, 영적으로 건강하게 노후를 보내도록 교회가 관심 갖고 노인 자살문제에도 유의해야 할 것입니다. 아울러 우리사회에서 증가하고 있는 노인자살 문제에 대한 다양한 연구가 더 확장되고 전개되어서 여러 가지 대책과 방안들이 노인자살 예방에 적용되었으면 하는 바람이 큽니다.</p>
 <p>노인자살 문제현대 과학기술의 눈부신 발전에 따라 의료기술 및 의약의 발전은 인간의 질병을 예방함과 동시에 치료와 평균 수명의 연장을 가져와 우리나라 인구 10명중 1명은 65세 이상 노인인 것으로 나타났습니다. 특히 2010년 이후 노인인구의 비율이 빠르게 증가하는 이유는 세계적으로 베이비부머들이 노년기에 진입하기 때문입니다.</p>
@@ -586,7 +586,7 @@ export const articles = [
             excerpt: "Analysis of the causes of Korea's elderly suicide rate, which is #1 in the OECD, and preparation of countermeasures.",
             author: "Rev. Choi Jong-in",
             date: "September 20, 2020",
-            content: `< p > Suicide is becoming a serious social problem in Korea.Looking at the statistics on causes of death by Statistics Korea, the number of deaths due to intentional self - harm, or suicide, has continued to increase from 5, 959 in 1996, 6, 444 in 2000, 11, 492 in 2004, and 12, 858 in 2008. Moreover, since 2005, Korea has ranked first in suicide rate among OECD countries.In particular, suicide among the elderly aged 65 and over is more serious in Korea.</p >
+            content: `<p> Suicide is becoming a serious social problem in Korea.Looking at the statistics on causes of death by Statistics Korea, the number of deaths due to intentional self - harm, or suicide, has continued to increase from 5, 959 in 1996, 6, 444 in 2000, 11, 492 in 2004, and 12, 858 in 2008. Moreover, since 2005, Korea has ranked first in suicide rate among OECD countries.In particular, suicide among the elderly aged 65 and over is more serious in Korea.</p>
 <p>According to the Central Suicide Prevention Center, the proportion of deaths by suicide among those aged 65 and over in 2015 was 28.4% of the total. This is a high figure, reaching 3.5 times that of the United States (16.6 per 100,000) and 2.3 times that of Japan (25.8 per 100,000). It is even more serious for the super-aged elderly. The suicide rate for those in their 60s, which was 36.9 per 100,000, rose vertically to 62.5 per 100,000 for those in their 70s, and is rising to 83.7 for those in their 80s. Therefore, the church needs to accurately grasp the problem of elderly suicide, which is particularly high in Korean society, and prepare countermeasures for elderly suicide. This is because the number of elderly people among the saints of the Korean church is also increasing today. In particular, looking at the figure below, it can be seen that the number of elderly suicides increased significantly especially when there was an economic crisis.</p>
 <p>This shows that economic problems are particularly serious for elderly suicides. In an economic downturn like today, the church should take better care of the mental health of the elderly. Looking at the 'reasons why the elderly attempt suicide' in the 2014 Ministry of Health and Welfare statistics, various reasons appear. In particular, economic problems, health problems, psychological loneliness, and conflict appear as causes. This problem of elderly suicide may affect the damage to individual life and the quality of individual life, but the increase in elderly suicide brings destruction to the family and community, and further harms social integration. Multilateral efforts and countermeasures at the individual, our society, and national levels are urgently requested for the increasing elderly suicide. In addition, as the aging trend is distinct, many elderly people are active in the church. The church should pay attention so that these elderly people can spend their old age healthily mentally and spiritually, and also pay attention to the elderly suicide problem. In addition, I hope that various studies on the increasing elderly suicide problem in our society will be expanded and developed so that various countermeasures and plans can be applied to the prevention of elderly suicide.</p>
 <p>Elderly Suicide Problem With the dazzling development of modern science and technology, the development of medical technology and medicine has brought about the prevention of human diseases as well as treatment and extension of average life expectancy, and it appeared that 1 out of 10 people in Korea is an elderly person aged 65 or older. The reason why the proportion of the elderly population has been increasing rapidly since 2010 is that baby boomers globally are entering old age.</p>
@@ -601,7 +601,7 @@ export const articles = [
             excerpt: "자살 예방을 위한 교회의 4가지 핵심 역할: 공감, 중재, 방어, 어울림.",
             author: "최종인 목사",
             date: "2020년 8월 12일",
-            content: `< p > 자살은 우리나라 전체 사망 원인 중 6.1 % 에 달하고, 암, 심장질환, 뇌혈관질환, 폐렴에 이어 5번째로 흔한 사망 원인입니다.당뇨병, 폐렴, 간질환, 고혈압성 질환에 의한 사망자보다 자살로 사망한 사람이 더 많고, 교통사고로 사망한 사람보다 자살로 사망한 사람이 2.3배 많았다고 합니다.그럼에도 교통사고 예방을 위한 사회구조적 접근이나 다른 질병 치료 연구에 투자하는 비용에 비해 그보다 2배 이상 많은 자살률 감소를 위한 우리사회의 노력은 매우 부족한 실정입니다.우리나라의 중요한 사회문제이자 심리, 의학적 문제인 자살을 감소하기 위한 체계적이고 과학적인 대책이 시급합니다.자살자가 생기고 나서 대책을 세우는 것은 이미 늦을 것입니다.자살 예방을 위해 선제적 노력과 개입이 절대 필요합니다.</p >
+            content: `<p> 자살은 우리나라 전체 사망 원인 중 6.1 % 에 달하고, 암, 심장질환, 뇌혈관질환, 폐렴에 이어 5번째로 흔한 사망 원인입니다.당뇨병, 폐렴, 간질환, 고혈압성 질환에 의한 사망자보다 자살로 사망한 사람이 더 많고, 교통사고로 사망한 사람보다 자살로 사망한 사람이 2.3배 많았다고 합니다.그럼에도 교통사고 예방을 위한 사회구조적 접근이나 다른 질병 치료 연구에 투자하는 비용에 비해 그보다 2배 이상 많은 자살률 감소를 위한 우리사회의 노력은 매우 부족한 실정입니다.우리나라의 중요한 사회문제이자 심리, 의학적 문제인 자살을 감소하기 위한 체계적이고 과학적인 대책이 시급합니다.자살자가 생기고 나서 대책을 세우는 것은 이미 늦을 것입니다.자살 예방을 위해 선제적 노력과 개입이 절대 필요합니다.</p>
 <p>자살은 개인이 속한 사회의 분위기와 태도, 외부환경, 개인적 특성에 많은 영향을 받는다고 합니다. 즉 개인이 사회로부터 격리되어 있거나 사회통합이 부족한 환경에서 자살은 더욱 많아집니다. 또한 수치심이나 열등감, 절망감과 같은 정신적 고통과 신체적 질환이나 정신적 장애, 경제적 문제 역시 주요 원인으로 꼽히고 있습니다. 젊은 층에서는 주로 정신적 문제로 인한 자살이, 노인층에서는 신체적 질환으로 인한 자살이 많다고 합니다.</p>
 <p>이렇듯 우리사회에 많은 자살자가 늘어나고 있음에도 실제로 자살예방에 대한 노력은 미흡합니다. 한국 교회에서도 자살예방에 대한 노력이 거의 전무하다시피 합니다. 우리나라 자살문제를 해결하기에는 자살예방 전문 인력이나 조직체계, 예산이 아직 턱없이 부족합니다. 일본과 우리의 경우 자살예방예산만 비교해 보아도 그 차이를 알 수 있습니다.</p>
 <p>국가에서 전체 국민들을 대상으로 예방, 교육, 구제 등의 노력을 전부 펼칠 수는 없습니다. 교회와 성도들이 자살예방 교육을 받고 일부분이나마 예방을 위해 노력한다면 상당부분 해소될 수 있을 것입니다.</p>
@@ -625,8 +625,8 @@ export const articles = [
             excerpt: "Four key roles of the church for suicide prevention: Empathy, Intervention, Defense, and Harmony.",
             author: "Rev. Choi Jong-in",
             date: "August 12, 2020",
-            content: `< p > Suicide accounts for 6.1 % of all deaths in Korea and is the fifth most common cause of death after cancer, heart disease, cerebrovascular disease, and pneumonia.It is said that more people died from suicide than from diabetes, pneumonia, liver disease, and hypertensive diseases, and 2.3 times more people died from suicide than from traffic accidents.Nevertheless, compared to the cost invested in social structural approaches for traffic accident prevention or research on other disease treatments, our society's efforts to reduce the suicide rate, which is more than twice as high, are very insufficient. Systematic and scientific measures to reduce suicide, which is an important social problem and psychological and medical problem in Korea, are urgent. It will be too late to establish measures after a suicide occurs. Preemptive efforts and intervention are absolutely necessary for suicide prevention.</p>
-    < p > Suicide is said to be greatly influenced by the atmosphere and attitude of the society to which the individual belongs, the external environment, and personal characteristics.In other words, suicide increases more in an environment where individuals are isolated from society or social integration is lacking.Also, mental pain such as shame, inferiority, and despair, physical illness, mental disorder, and economic problems are also cited as major causes.It is said that suicide due to mental problems is common among the young, and suicide due to physical illness is common among the elderly.</p >
+            content: `<p> Suicide accounts for 6.1 % of all deaths in Korea and is the fifth most common cause of death after cancer, heart disease, cerebrovascular disease, and pneumonia.It is said that more people died from suicide than from diabetes, pneumonia, liver disease, and hypertensive diseases, and 2.3 times more people died from suicide than from traffic accidents.Nevertheless, compared to the cost invested in social structural approaches for traffic accident prevention or research on other disease treatments, our society's efforts to reduce the suicide rate, which is more than twice as high, are very insufficient. Systematic and scientific measures to reduce suicide, which is an important social problem and psychological and medical problem in Korea, are urgent. It will be too late to establish measures after a suicide occurs. Preemptive efforts and intervention are absolutely necessary for suicide prevention.</p>
+    <p> Suicide is said to be greatly influenced by the atmosphere and attitude of the society to which the individual belongs, the external environment, and personal characteristics.In other words, suicide increases more in an environment where individuals are isolated from society or social integration is lacking.Also, mental pain such as shame, inferiority, and despair, physical illness, mental disorder, and economic problems are also cited as major causes.It is said that suicide due to mental problems is common among the young, and suicide due to physical illness is common among the elderly.</p>
 <p>Although the number of suicides is increasing in our society like this, efforts for suicide prevention are actually insufficient. Efforts for suicide prevention in the Korean church are also almost non-existent. Suicide prevention professionals, organizational systems, and budgets are still far too insufficient to solve Korea's suicide problem. Comparing only the suicide prevention budget between Japan and us reveals the difference.</p>
 <p>The state cannot carry out all efforts such as prevention, education, and relief for the entire people. If churches and saints receive suicide prevention education and try to prevent it even partially, it can be resolved to a considerable extent.</p>
 <p>1. 'Air Defense' for Suicide Prevention</p>
@@ -652,7 +652,7 @@ export const articles = [
             excerpt: "OECD 1위인 한국 노인 자살률의 원인 분석과 대책 마련.",
             author: "최종인 목사",
             date: "2020년 7월 10일",
-            content: `< p > 한국의 노인 자살률은 OECD 국가 중 압도적인 1위입니다.빈곤, 질병, 고독이라는 '노년의 삼중고'가 어르신들을 죽음으로 내몰고 있습니다.</p >
+            content: `<p> 한국의 노인 자살률은 OECD 국가 중 압도적인 1위입니다.빈곤, 질병, 고독이라는 '노년의 삼중고'가 어르신들을 죽음으로 내몰고 있습니다.</p>
 
 <h3>1. 경제적 빈곤</h3>
 <p>준비되지 않은 노후와 부족한 사회 보장 제도로 인해 많은 노인들이 빈곤에 시달립니다. 기초연금 인상 등 실질적인 경제적 지원이 시급합니다.</p>
@@ -674,7 +674,7 @@ export const articles = [
             excerpt: "Analysis of the causes of Korea's elderly suicide rate, which is #1 in the OECD, and preparation of countermeasures.",
             author: "Rev. Choi Jong-in",
             date: "July 10, 2020",
-            content: `< p > Korea's elderly suicide rate is overwhelmingly number one among OECD countries. The 'triple distress of old age'—poverty, disease, and loneliness—is driving the elderly to death.</p>
+            content: `<p> Korea's elderly suicide rate is overwhelmingly number one among OECD countries. The 'triple distress of old age'—poverty, disease, and loneliness—is driving the elderly to death.</p>
 
     < h3 > 1. Economic Poverty</h3 >
 <p>Many elderly people suffer from poverty due to unprepared old age and insufficient social security systems. Practical economic support like increasing the basic pension is urgent.</p>
@@ -699,7 +699,7 @@ export const articles = [
             excerpt: "한국 사회의 구조적 문제와 문화적 특성이 자살률에 미치는 영향.",
             author: "최종인 목사",
             date: "2020년 6월 12일",
-            content: `< p > 한국은 '자살 공화국'이라는 오명을 쓰고 있습니다.급격한 경제 성장 이면에 감춰진 우리 사회의 어두운 그림자를 직시해야 합니다.</p >
+            content: `<p> 한국은 '자살 공화국'이라는 오명을 쓰고 있습니다.급격한 경제 성장 이면에 감춰진 우리 사회의 어두운 그림자를 직시해야 합니다.</p>
 
 <h3>1. 치열한 경쟁 사회</h3>
 <p>어릴 때부터 시작되는 무한 경쟁은 패배자를 용납하지 않습니다. 1등만 기억하는 사회 분위기가 좌절감과 박탈감을 부추깁니다. '함께'의 가치를 회복해야 합니다.</p>
@@ -721,7 +721,7 @@ export const articles = [
             excerpt: "The impact of structural problems and cultural characteristics of Korean society on the suicide rate.",
             author: "Rev. Choi Jong-in",
             date: "June 12, 2020",
-            content: `< p > Korea bears the stigma of being a 'Republic of Suicide'.We must face the dark shadow of our society hidden behind rapid economic growth.</p >
+            content: `<p> Korea bears the stigma of being a 'Republic of Suicide'.We must face the dark shadow of our society hidden behind rapid economic growth.</p>
 
 <h3>1. Fiercely Competitive Society</h3>
 <p>Infinite competition starting from childhood does not tolerate losers. The social atmosphere that remembers only the first place incites frustration and deprivation. We must restore the value of 'together'.</p>
@@ -747,7 +747,7 @@ export const articles = [
             excerpt: "사도 바울의 마지막 고백을 통해 배우는 성도의 죽음과 하늘의 상급.",
             author: "최종인 목사",
             date: "2022년 10월 21일",
-            content: `< p > 사도 바울은 자신의 죽음이 임박했음을 알고 믿음의 아들 디모데에게 유언과도 같은 말씀을 남겼습니다.이는 우리 모든 성도가 본받아야 할 마지막 모습입니다.</p >
+            content: `<p> 사도 바울은 자신의 죽음이 임박했음을 알고 믿음의 아들 디모데에게 유언과도 같은 말씀을 남겼습니다.이는 우리 모든 성도가 본받아야 할 마지막 모습입니다.</p>
 
 <h3>1. 선한 싸움을 싸우라</h3>
 <p>인생은 싸움의 연속입니다. 그러나 성도는 혈과 육의 싸움이 아니라 믿음의 선한 싸움을 싸워야 합니다. 죄와 싸우고, 유혹과 싸우며, 하나님의 영광을 위해 싸우는 인생이 복됩니다.</p>
@@ -766,7 +766,7 @@ export const articles = [
             excerpt: "The death of a saint and heavenly rewards learned through Apostle Paul's final confession.",
             author: "Rev. Choi Jong-in",
             date: "October 21, 2022",
-            content: `< p > Knowing his death was imminent, Apostle Paul left words like a testament to his son in faith, Timothy.This is the final image that all saints should emulate.</p >
+            content: `<p> Knowing his death was imminent, Apostle Paul left words like a testament to his son in faith, Timothy.This is the final image that all saints should emulate.</p>
 
 <h3>1. Fight the Good Fight</h3>
 <p>Life is a series of battles. However, saints must fight the good fight of faith, not against flesh and blood. A life fighting against sin, temptation, and for God's glory is blessed.</p>
@@ -788,7 +788,7 @@ export const articles = [
             excerpt: "육신의 장막이 무너질 때 우리에게 예비된 하늘의 영원한 처소.",
             author: "최종인 목사",
             date: "2022년 10월 14일",
-            content: `< p > 죽음은 끝이 아니라 새로운 시작입니다.성경은 우리의 육신을 장막(텐트)에 비유하고, 천국을 영원한 집으로 묘사합니다.</p >
+            content: `<p> 죽음은 끝이 아니라 새로운 시작입니다.성경은 우리의 육신을 장막(텐트)에 비유하고, 천국을 영원한 집으로 묘사합니다.</p>
 
 <h3>1. 무너지는 육신의 장막</h3>
 <p>텐트는 임시 거처입니다. 낡고 헤어지면 거두게 됩니다. 우리의 육신도 마찬가지입니다. 세월이 흐르면 늙고 병들어 결국 무너집니다. 이것은 자연스러운 이치입니다.</p>
@@ -807,7 +807,7 @@ export const articles = [
             excerpt: "The eternal heavenly dwelling prepared for us when the earthly tent is destroyed.",
             author: "Rev. Choi Jong-in",
             date: "October 14, 2022",
-            content: `< p > Death is not the end but a new beginning.The Bible compares our body to a tent and describes heaven as an eternal home.</p >
+            content: `<p> Death is not the end but a new beginning.The Bible compares our body to a tent and describes heaven as an eternal home.</p>
 
 <h3>1. The Collapsing Earthly Tent</h3>
 <p>A tent is a temporary shelter. When it gets old and worn, it is taken down. Our body is the same. As time passes, it ages, gets sick, and eventually collapses. This is a natural principle.</p>
@@ -829,7 +829,7 @@ export const articles = [
             excerpt: "나사로의 죽음과 부활을 통해 보여주신 예수님의 능력과 사랑.",
             author: "최종인 목사",
             date: "2022년 10월 7일",
-            content: `< p > 나사로의 죽음은 단순한 슬픔의 사건이 아니었습니다.예수님은 이를 통해 하나님의 영광을 드러내고 제자들의 믿음을 견고케 하셨습니다.</p >
+            content: `<p> 나사로의 죽음은 단순한 슬픔의 사건이 아니었습니다.예수님은 이를 통해 하나님의 영광을 드러내고 제자들의 믿음을 견고케 하셨습니다.</p>
 
 <h3>1. 죽음을 잠이라 하신 예수님</h3>
 <p>예수님은 나사로가 죽었을 때 "우리 친구 나사로가 잠들었다"고 말씀하셨습니다. 성도에게 죽음은 영원한 소멸이 아니라, 부활의 아침을 기다리는 잠시의 휴식입니다.</p>
@@ -848,7 +848,7 @@ export const articles = [
             excerpt: "Jesus' power and love shown through the death and resurrection of Lazarus.",
             author: "Rev. Choi Jong-in",
             date: "October 7, 2022",
-            content: `< p > Lazarus's death was not just a sad event. Through it, Jesus revealed God's glory and strengthened the disciples' faith.</p>
+            content: `<p> Lazarus's death was not just a sad event. Through it, Jesus revealed God's glory and strengthened the disciples' faith.</p>
 
     < h3 > 1. Jesus Who Called Death Sleep</h3 >
 <p>When Lazarus died, Jesus said, "Our friend Lazarus has fallen asleep." For saints, death is not eternal extinction but a temporary rest waiting for the morning of resurrection.</p>
@@ -870,7 +870,7 @@ export const articles = [
             excerpt: "믿음의 조상 요셉이 보여준 아름다운 마무리와 소망.",
             author: "최종인 목사",
             date: "2022년 9월 30일",
-            content: `< p > 파란만장한 삶을 살았던 요셉의 마지막은 평안하고 아름다웠습니다.그는 죽음 앞에서도 하나님을 신뢰하며 미래를 준비했습니다.</p >
+            content: `<p> 파란만장한 삶을 살았던 요셉의 마지막은 평안하고 아름다웠습니다.그는 죽음 앞에서도 하나님을 신뢰하며 미래를 준비했습니다.</p>
 
 <h3>1. 용서와 화해의 삶</h3>
 <p>요셉은 자신을 팔아넘긴 형들을 용서하고 끝까지 돌보았습니다. 과거의 상처에 매이지 않고 악을 선으로 바꾸시는 하나님을 믿었기 때문입니다. 용서는 평안한 죽음을 위한 준비입니다.</p>
@@ -889,7 +889,7 @@ export const articles = [
             excerpt: "The beautiful ending and hope shown by Joseph, a patriarch of faith.",
             author: "Rev. Choi Jong-in",
             date: "September 30, 2022",
-            content: `< p > The end of Joseph, who lived a turbulent life, was peaceful and beautiful.Even in the face of death, he trusted God and prepared for the future.</p >
+            content: `<p> The end of Joseph, who lived a turbulent life, was peaceful and beautiful.Even in the face of death, he trusted God and prepared for the future.</p>
 
 <h3>1. Life of Forgiveness and Reconciliation</h3>
 <p>Joseph forgave and cared for his brothers who sold him until the end. It was because he believed in God who changes evil into good without being bound by past wounds. Forgiveness is preparation for a peaceful death.</p>
@@ -911,7 +911,7 @@ export const articles = [
             excerpt: "모든 인간에게 정해진 죽음의 운명과 그 이후의 심판에 대한 준비.",
             author: "최종인 목사",
             date: "2022년 6월 24일",
-            content: `< p > "한 번 죽는 것은 사람에게 정해진 것이요 그 후에는 심판이 있으리니." 히브리서 기자는 죽음의 엄중한 사실을 우리에게 상기시킵니다.</p >
+            content: `<p> "한 번 죽는 것은 사람에게 정해진 것이요 그 후에는 심판이 있으리니." 히브리서 기자는 죽음의 엄중한 사실을 우리에게 상기시킵니다.</p>
 
 <h3>1. 죽음의 보편성</h3>
 <p>죽음은 남녀노소, 빈부귀천을 막론하고 누구에게나 찾아옵니다. 아무도 피할 수 없는 인생의 종착역입니다. 이 사실을 겸허히 받아들이는 것이 지혜입니다.</p>
@@ -933,7 +933,7 @@ export const articles = [
             excerpt: "The destiny of death appointed for all humans and preparation for the judgment that follows.",
             author: "Rev. Choi Jong-in",
             date: "June 24, 2022",
-            content: `< p > "Just as people are destined to die once, and after that to face judgment." The writer of Hebrews reminds us of the solemn fact of death.</p >
+            content: `<p> "Just as people are destined to die once, and after that to face judgment." The writer of Hebrews reminds us of the solemn fact of death.</p>
 
 <h3>1. Universality of Death</h3>
 <p>Death comes to everyone regardless of age, gender, or status. It is the destination of life that no one can avoid. Accepting this fact humbly is wisdom.</p>
