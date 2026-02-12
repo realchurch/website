@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /website/article.html
 
 Sitemap: https://realchurch.github.io/website/sitemap.xml

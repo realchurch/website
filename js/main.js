@@ -4,28 +4,27 @@ console.log('Translations imported in Main.js');
 import { initArticleLoader } from './article-loader.js?v=6';
 import { articleService } from './article-service.js?v=6';
 
-// Load articles asynchronously
-articleService.loadArticles().then(articles => {
-    registerArticles(articles);
-    initArticleLoader(articles);
-}).catch(error => {
-    console.error('Failed to load articles:', error);
-});
-
 // Main JavaScript file
 document.addEventListener('DOMContentLoaded', () => {
-    // Initialize Article Loader if we are on articles page or article detail page
-    // We can just run it, it checks for elements
-    // initArticleLoader(); // This is now handled by the async article loading flow
-
+    const i18nEnabled = document.body.dataset.i18nEnabled === 'true';
+    const dynamicArticlesEnabled = document.body.dataset.dynamicArticles === 'true';
     const langToggle = document.getElementById('lang-toggle');
-    const currentLang = localStorage.getItem('preferredLang') || 'en';
 
-    // Initialize language
-    setLanguage(currentLang);
+    if (dynamicArticlesEnabled) {
+        articleService.loadArticles().then(articles => {
+            registerArticles(articles);
+            initArticleLoader(articles);
+        }).catch(error => {
+            console.error('Failed to load articles:', error);
+        });
+    }
 
-    // Toggle Event Listener
-    if (langToggle) {
+    if (i18nEnabled) {
+        const currentLang = localStorage.getItem('preferredLang') || document.documentElement.lang || 'en';
+        setLanguage(currentLang);
+    }
+
+    if (i18nEnabled && langToggle) {
         langToggle.addEventListener('click', (e) => {
             e.preventDefault();
             const newLang = document.documentElement.lang === 'en' ? 'ko' : 'en';
@@ -67,4 +66,3 @@ function setLanguage(lang) {
         }
     });
 }
-

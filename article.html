@@ -2,29 +2,26 @@
 <html lang="en">
 
 <head>
-    <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-GXR5DWRT70"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
-
         gtag('config', 'G-GXR5DWRT70');
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Article | Rev. Choi Jong-in</title>
     <meta name="description" content="Article by Rev. Choi Jong-in">
+    <meta name="robots" content="noindex,follow">
     <meta name="author" content="Rev. Choi Jong-in">
 
-    <!-- Favicon -->
+    <link rel="canonical" href="https://realchurch.github.io/website/articles.html">
     <link rel="icon" type="image/png" href="favicon.png">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@400;700&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css">
     <style>
         .article-container {
@@ -91,19 +88,10 @@
         .back-link:hover {
             text-decoration: underline;
         }
-
-        .article-footer-note {
-            margin-top: 3rem;
-            padding-top: 2rem;
-            border-top: 1px solid #eee;
-            font-style: italic;
-            color: #666;
-        }
     </style>
 </head>
 
-<body>
-
+<body data-i18n-enabled="true" data-dynamic-articles="true">
     <header>
         <div class="container">
             <nav>
@@ -114,11 +102,11 @@
                     <span></span>
                 </div>
                 <ul class="nav-links">
-                    <li><a href="index.html" data-i18n="nav.home">Home</a></li>
-                    <li><a href="books.html" data-i18n="nav.books">Books</a></li>
-                    <li><a href="articles.html" class="active" data-i18n="nav.articles">Articles</a></li>
-                    <li><a href="about.html" data-i18n="nav.about">About</a></li>
-                    <li><a href="#" id="lang-toggle">한국어</a></li>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="books.html">Books</a></li>
+                    <li><a href="articles.html" class="active">Articles</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="ko/articles.html" hreflang="ko" lang="ko">한국어</a></li>
                 </ul>
             </nav>
         </div>
@@ -136,7 +124,6 @@
             </header>
 
             <div class="article-content" id="article-content">
-                <!-- Content will be injected here -->
                 <div style="text-align: center; color: #888;">
                     <p>Loading article content...</p>
                 </div>
@@ -146,14 +133,10 @@
 
     <footer>
         <div class="container">
-            <p data-i18n="footer.rights">&copy; 2025 Rev. Choi Jong-in. All rights reserved.</p>
+            <p>&copy; 2026 Rev. Choi Jong-in. All rights reserved.</p>
         </div>
     </footer>
 
-    <script>
-        console.log('Inline script running');
-        document.body.style.border = '10px solid blue';
-    </script>
     <script type="module" src="js/main.js?v=6"></script>
 </body>
 
