@@ -950,6 +950,156 @@ export const articles = [
 <h3>5. Faith Waiting for the Second Coming</h3>
 <p>Christ will appear a second time to those who are waiting for him. We must be awake and sober, hoping for the Lord who will come again.</p>`
         }
+    },
+    {
+        id: "article42",
+        ko: {
+            title: "청지기 교육 가이드",
+            excerpt: "위기의 시대에 교회를 다시 세우기 위한 청지기 교육의 원리와 실천.",
+            author: "최종인 목사",
+            date: "2026년 2월 13일",
+            content: `<p>이 글은 『청지기 교육 가이드』의 핵심 내용을 정리한 글입니다. 교회의 위기 앞에서 왜 청지기 교육이 본질 회복의 해법이 되는지, 그리고 실제로 어떻게 적용할 수 있는지를 다룹니다.</p>
+
+<h3>책 머리에: 위기의 시대, 다시 청지기로</h3>
+<p>저자는 교단 교회와 지방회를 순회하며 공통된 문제를 보았습니다. 성도 수 감소, 세대 갈등, 사회적 신뢰 하락이라는 현실 앞에서 교회는 다시 기초 체력을 회복해야 하며, 그 출발점이 청지기 교육이라는 것입니다. 청지기 교육은 단순 프로그램이 아니라 교회의 생존과 사명 회복을 위한 영적 훈련으로 제시됩니다.</p>
+
+<h3>왜 지금 청지기 교육인가</h3>
+<p>가이드는 청지기 교육의 필요를 세 가지로 요약합니다. 첫째, 모든 소유권이 하나님께 있음을 확인하여 성도를 방관자에서 동역자로 세웁니다. 둘째, 제한된 자원을 비전 중심으로 재배치해 사역 효율을 높입니다. 셋째, 투명성과 신뢰를 회복해 건강한 공동체를 만듭니다.</p>
+
+<h3>청지기 교육 시작 방법</h3>
+<p>처음부터 대형 조직을 만들기보다 소그룹, 상담, 제직 세미나, 멘토링으로 단계적으로 확장하는 방식을 권합니다. 또한 오프라인 예배 시간과 함께 온라인 강좌를 병행해 참여 장벽을 낮추는 전략을 제안합니다.</p>
+
+<h3>도서 구성 요약 (5부)</h3>
+<ul>
+<li>1부. 청지기 교육이 중요하다: 소유권, 제자도, 신실함, 투명성</li>
+<li>2부. 부자 교회 vs 가난한 교회: 재정 체질, 비전, 동기, 운영 원리</li>
+<li>3부. 청지기의 헌금: 헌금의 동기, 십일조, 헌신과 나눔의 영성</li>
+<li>4부. 성경의 청지기들: 성경 인물의 청지기 리더십과 사명</li>
+<li>5부. 청지기를 만드는 교회: 좋은 청지기 조건과 교회 변화 전략</li>
+</ul>
+
+<h3>헌금하는 7가지 이유 (핵심 요약)</h3>
+<p>가이드는 헌금을 의무가 아니라 고백으로 설명합니다. 헌금은 하나님의 절대 주권을 인정하고, 물질 우상에서 자유를 훈련하며, 하나님 나라 확장에 동참하는 행위입니다. 또한 믿음 훈련, 은혜에 대한 감사, 공동체 보존, 소외된 이웃을 향한 사랑 실천이라는 의미를 갖습니다.</p>
+
+<h3>좋은 청지기의 7가지 조건 (핵심 요약)</h3>
+<p>좋은 청지기는 자원의 영적 소유권을 분명히 하고, 재정 투명성을 통해 신뢰를 구축하며, 비전 중심 예산을 집행합니다. 디지털 도구를 활용해 접근성을 높이고, 다음 세대에 관대함을 교육하며, 사역의 열매를 점검하고, 마지막까지 감사의 태도를 유지합니다.</p>
+
+<h3>기대 효과</h3>
+<p>훈련된 청지기가 세워지면 교회는 재정 건강성, 사역 지속 가능성, 봉사자의 기쁨 회복, 리더십 부담 분산, 선교적 동력 강화라는 변화를 경험할 수 있습니다. 결국 청지기 교육은 약한 교회를 다시 세우는 장기적 체질 개선 전략입니다.</p>
+
+<p>이 콘텐츠는 『청지기 교육 가이드』 원문을 바탕으로 웹 아티클 형식에 맞게 재구성했습니다.</p>`
+        },
+        en: {
+            title: "Stewardship Education Guide",
+            excerpt: "Principles and practice of stewardship training to rebuild the church in a time of crisis.",
+            author: "Rev. Choi Jong-in",
+            date: "February 13, 2026",
+            content: `<p>This article summarizes key content from <em>Stewardship Education Guide</em>. It explains why stewardship training is essential for church renewal and how churches can implement it in practice.</p>
+
+<h3>Preface: Returning to Stewardship in a Time of Crisis</h3>
+<p>After visiting many churches, the author observed common challenges: declining attendance, generational tension, and loss of public trust. He argues that stewardship education is not a side program but a core spiritual discipline for restoring the church's mission and health.</p>
+
+<h3>Why Stewardship Education Is Needed Now</h3>
+<p>The guide presents three urgent reasons. First, it restores the confession that all ownership belongs to God, transforming members from spectators into co-workers. Second, it helps churches allocate limited resources according to mission priorities. Third, it rebuilds trust through transparency and mature community culture.</p>
+
+<h3>How to Begin</h3>
+<p>The recommended approach is gradual: start with counseling, small groups, deacon training, and mentoring before scaling. It also encourages combining offline ministry with online learning to lower participation barriers.</p>
+
+<h3>Book Structure (5 Parts)</h3>
+<ul>
+<li>Part 1. Why stewardship education matters: ownership, discipleship, faithfulness, transparency</li>
+<li>Part 2. Rich church vs poor church: financial culture, vision, motivation, management</li>
+<li>Part 3. Giving and offering: motivation, tithing, dedication, generosity</li>
+<li>Part 4. Biblical stewards: stewardship leadership from Scripture</li>
+<li>Part 5. Building a stewardship church: practical strategies for transformation</li>
+</ul>
+
+<h3>Seven Reasons to Give (Core Summary)</h3>
+<p>The guide frames giving as confession, not mere obligation. Offering acknowledges God's sovereignty, breaks the idol of money, partners with kingdom mission, trains faith, responds to grace, sustains the body of Christ, and practices compassion toward the vulnerable.</p>
+
+<h3>Seven Qualities of a Good Steward (Core Summary)</h3>
+<p>A good steward recognizes spiritual ownership of all resources, builds trust through transparency, uses purpose-driven budgeting, applies digital tools wisely, teaches generosity across generations, evaluates ministry impact, and maintains gratitude as a spiritual posture.</p>
+
+<h3>Expected Impact</h3>
+<p>When trained stewards are raised up, churches can experience healthier finances, sustainable ministry, renewed volunteer joy, shared leadership burdens, and stronger missional momentum. Stewardship education becomes a long-term framework for church revitalization.</p>
+
+<p>This web article is reconstructed from the original Korean guide for article-page readability.</p>`
+        }
+    },
+    {
+        id: "article43",
+        ko: {
+            title: "웰다잉 가이드",
+            excerpt: "건강한 노화부터 임종 준비까지, 삶의 마지막을 존엄하게 완성하는 실천 안내.",
+            author: "최종인 목사",
+            date: "2026년 2월 13일",
+            content: `<p>이 글은 『웰다잉 가이드』의 주요 내용을 웹 아티클 형식으로 재구성한 글입니다. 웰빙의 완성으로서 웰다잉을 다루며, 노년의 삶과 죽음을 준비하는 실제 지침을 폭넓게 제시합니다.</p>
+
+<h3>가이드 전체 개요</h3>
+<p>원문은 총 30개 주제로 구성되어 있으며, 건강한 노화, 은퇴 이후의 심리, 웰다잉 교육, 요양원 선택, 사전연명의료의향서, 임종 돌봄, 사별 가족 회복까지 생애 말기 전 과정을 다룹니다.</p>
+
+<h3>건강하게 노화하는 7가지 비결</h3>
+<p>가이드는 노화를 상실이 아니라 성숙의 과정으로 해석합니다. 회복탄력성, 관계 유지, 지속적 학습, 규칙적 운동, 식습관, 수면 관리, 두뇌 자극을 핵심 축으로 제시하며, 노년기에도 삶의 활력과 의미를 확장할 수 있다고 강조합니다.</p>
+
+<h3>은퇴 후 긍정적 사고의 유익</h3>
+<p>긍정적 사고는 단순한 낙관이 아니라 인지 건강, 정서 회복력, 정체성 재정립, 사회적 연결, 목적의식, 신체 건강, 일상 감사의 습관을 강화하는 실천적 전략으로 설명됩니다. 저자는 은퇴를 종결이 아닌 제3의 인생 시작점으로 해석합니다.</p>
+
+<h3>웰다잉이 필요한 7가지 이유</h3>
+<p>웰다잉은 개인 선택을 넘어 사회적 과제로 제시됩니다. 연명의료의 역설, 1인 가구 증가, 초고령 사회의 의료비 부담, 죽음 불안, 상속 갈등, 장기기증 문화, 장례 문화 개선 등 현실 문제를 근거로 자기결정권 기반의 준비가 필요하다고 설명합니다.</p>
+
+<h3>웰다잉 교육이 주는 유익</h3>
+<p>웰다잉 교육은 죽음 불안 완화, 사전돌봄계획 수립, 가족 소통 개선, 삶의 의미 재발견, 인지 기능 자극, 사회적 지지망 형성, 존엄한 임종 준비에 도움을 준다고 정리합니다. 핵심은 잘 죽기 이전에 잘 살도록 돕는 교육이라는 점입니다.</p>
+
+<h3>좋은 요양원의 7가지 조건</h3>
+<p>저자는 시설 선택 시 인권과 존엄을 최우선으로 둘 것을 강조합니다. 화학적·신체적 구속 최소화, 재활 중심 운영, 프라이버시 보호, 전문 인력과 투명 소통, 위생과 욕창 예방, 지역사회 연계, 비용 투명성이 핵심 점검 요소로 제시됩니다.</p>
+
+<h3>죽기 전에 해야 할 7가지 준비</h3>
+<p>실천 항목으로는 유언장과 디지털 유산 정리, 사전연명의료의향서 작성, 의료진 및 가족 대화, 임종 장소 결정, 정서적 이별 준비, 중요 문서 보관, 장례 계획 수립이 제시됩니다. 저자는 이것이 죽음을 부르는 행위가 아니라 가족을 위한 책임 있는 배려라고 말합니다.</p>
+
+<h3>사전연명의료의향서의 의미</h3>
+<p>사전연명의료의향서는 환자의 가치관을 임종 치료에 반영하는 핵심 문서로 설명됩니다. 이는 무의미한 과잉 치료를 줄이고, 가족의 의사결정 부담을 낮추며, 의료진의 윤리적 갈등을 완화하고, 환자가 원하는 장소에서 존엄하게 삶을 마무리하도록 돕습니다.</p>
+
+<h3>결론</h3>
+<p>가이드는 웰다잉을 죽음 교육이 아니라 삶 교육으로 규정합니다. 죽음을 준비하는 사람은 현재를 더 성실하게 살고, 관계를 더 깊게 회복하며, 마지막을 더 평화롭게 맞이할 수 있다는 메시지로 마무리합니다.</p>
+
+<p>이 콘텐츠는 『웰다잉 가이드』 원문을 바탕으로 웹 아티클 형식에 맞게 재구성했습니다.</p>`
+        },
+        en: {
+            title: "Well-Dying Guide",
+            excerpt: "A practical guide to dignified end-of-life preparation, from healthy aging to final-care decisions.",
+            author: "Rev. Choi Jong-in",
+            date: "February 13, 2026",
+            content: `<p>This article reconstructs key content from <em>Well-Dying Guide</em> for web format. It presents well-dying as the completion of well-being and offers practical direction for aging, final-care planning, and family support.</p>
+
+<h3>Overall Structure</h3>
+<p>The original guide includes 30 topics covering the full later-life journey: healthy aging, retirement mindset, well-dying education, care-home selection, advance directives, end-of-life caregiving, and bereavement recovery.</p>
+
+<h3>Seven Keys to Healthy Aging</h3>
+<p>The guide treats aging not as decline alone but as a stage of maturity. It emphasizes resilience, relationships, lifelong learning, regular movement, nutrition, sleep quality, and cognitive stimulation as the core framework for active later life.</p>
+
+<h3>Benefits of Positive Thinking After Retirement</h3>
+<p>Positive thinking is explained as a practical strategy, not shallow optimism. It strengthens cognitive vitality, emotional recovery, identity renewal, social bonding, purpose, physical well-being, and daily gratitude. Retirement is reframed as a new life stage, not an ending.</p>
+
+<h3>Why Well-Dying Matters: Seven Reasons</h3>
+<p>The guide positions well-dying as both personal and social work. It addresses major realities: the paradox of life-prolonging treatment, growth of single-person households, medical-cost pressure in super-aged society, death anxiety, inheritance conflict, organ donation culture, and funeral reform.</p>
+
+<h3>What Well-Dying Education Changes</h3>
+<p>Well-dying education is described as beneficial for reducing death anxiety, establishing advance care planning, improving family communication, rediscovering meaning, stimulating cognition, building support networks, and preparing dignified end-of-life choices. Its main goal is helping people live better now.</p>
+
+<h3>Seven Conditions of a Good Care Home</h3>
+<p>The guide prioritizes dignity and human rights in facility selection: minimal chemical or physical restraint, rehabilitation-centered operation, privacy protection, professional staffing, transparent communication, hygiene and pressure-sore prevention, community linkage, and clear cost guidance.</p>
+
+<h3>Seven Preparations Before Death</h3>
+<p>Practical preparation includes drafting a will and digital-asset plan, completing an advance directive, discussing wishes with clinicians and family, choosing place of care, preparing emotional farewells, organizing key documents, and planning funeral preferences in advance.</p>
+
+<h3>Meaning of an Advance Directive</h3>
+<p>The advance directive is presented as a core tool to protect patient values when communication is no longer possible. It can reduce unwanted intensive treatment, lower family burden, support clinical decision clarity, and increase the chance of a dignified death in a preferred setting.</p>
+
+<h3>Conclusion</h3>
+<p>The guide defines well-dying as life education, not only death education. Those who prepare for death tend to live more intentionally, repair relationships more deeply, and face their final season with greater peace.</p>
+
+<p>This web article is reconstructed from the original Korean guide for article-page readability.</p>`
+        }
     }
 ];
 console.log('Articles.js finished');

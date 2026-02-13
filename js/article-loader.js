@@ -77,7 +77,9 @@ function loadArticleList(articles) {
     "article38": "article-38.html",
     "article39": "article-39.html",
     "article40": "article-40.html",
-    "article41": "article-41.html"
+    "article41": "article-41.html",
+    "article42": "article-42.html",
+    "article43": "article-43.html"
 };
 
     sortedArticles.forEach(article => {
