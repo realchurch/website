@@ -4,6 +4,8 @@ import { articles } from '../js/data/articles.js';
 
 const root = '/Users/peter/Documents/GitHub/realchurch';
 const koRoot = path.join(root, 'ko');
+const SITE_URL = 'https://jonginchoi.com';
+const OG_IMAGE = `${SITE_URL}/images/profile.png`;
 
 if (!fs.existsSync(koRoot)) fs.mkdirSync(koRoot, { recursive: true });
 
@@ -42,8 +44,8 @@ function descFrom(article, lang) {
 
 function absolute(lang, file) {
   return lang === 'ko'
-    ? `https://realchurch.github.io/website/ko/${file}`
-    : `https://realchurch.github.io/website/${file}`;
+    ? `${SITE_URL}/ko/${file}`
+    : `${SITE_URL}/${file}`;
 }
 
 function articleHtml(article, lang, file) {
@@ -97,7 +99,7 @@ function articleHtml(article, lang, file) {
 
     <meta property="og:title" content="${escapeHtml(title)}">
     <meta property="og:description" content="${description}">
-    <meta property="og:image" content="https://realchurch.github.io/website/images/profile.png">
+    <meta property="og:image" content="${OG_IMAGE}">
     <meta property="og:url" content="${selfUrl}">
     <meta property="og:type" content="article">
     <meta property="og:locale" content="${ogLocale}">
@@ -106,7 +108,7 @@ function articleHtml(article, lang, file) {
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="${escapeHtml(title)}">
     <meta name="twitter:description" content="${description}">
-    <meta name="twitter:image" content="https://realchurch.github.io/website/images/profile.png">
+    <meta name="twitter:image" content="${OG_IMAGE}">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -212,7 +214,7 @@ function listPage(lang) {
 
   const listSchema = sorted.map((a, i) => {
     const f = pageNameFor(a.id);
-    return `        {"@type":"ListItem","position":${i + 1},"url":"https://realchurch.github.io/website/${filePrefix}${f}","name":${JSON.stringify((a[lang].title || a.id))}}`;
+    return `        {"@type":"ListItem","position":${i + 1},"url":"${SITE_URL}/${filePrefix}${f}","name":${JSON.stringify((a[lang].title || a.id))}}`;
   }).join(',\n');
 
   return `<!DOCTYPE html>
@@ -241,14 +243,14 @@ function listPage(lang) {
 
     <meta property="og:title" content="${isKo ? '최종인 목사 칼럼' : 'Articles by Rev. Choi Jong-in'}">
     <meta property="og:description" content="${isKo ? '신앙과 목회에 관한 칼럼과 묵상.' : 'Theology and ministry articles by Rev. Choi Jong-in.'}">
-    <meta property="og:image" content="https://realchurch.github.io/website/images/profile.png">
+    <meta property="og:image" content="${OG_IMAGE}">
     <meta property="og:url" content="${selfUrl}">
     <meta property="og:type" content="website">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="${isKo ? '최종인 목사 칼럼' : 'Articles by Rev. Choi Jong-in'}">
     <meta name="twitter:description" content="${isKo ? '신앙과 목회에 관한 칼럼과 묵상.' : 'Theology and ministry articles by Rev. Choi Jong-in.'}">
-    <meta name="twitter:image" content="https://realchurch.github.io/website/images/profile.png">
+    <meta name="twitter:image" content="${OG_IMAGE}">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -335,18 +337,18 @@ const staticPages = [
 
 const urlEntries = [];
 for (const p of staticPages) {
-  urlEntries.push(`  <url>\n    <loc>https://realchurch.github.io/website/${p}</loc>\n    <lastmod>2026-02-12</lastmod>\n    <changefreq>${p === 'articles.html' ? 'weekly' : 'monthly'}</changefreq>\n    <priority>${p === 'index.html' ? '1.0' : p === 'about.html' ? '0.8' : '0.9'}</priority>\n  </url>`);
+  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/${p}</loc>\n    <lastmod>2026-02-12</lastmod>\n    <changefreq>${p === 'articles.html' ? 'weekly' : 'monthly'}</changefreq>\n    <priority>${p === 'index.html' ? '1.0' : p === 'about.html' ? '0.8' : '0.9'}</priority>\n  </url>`);
 }
 for (const a of sorted) {
   const f = pageNameFor(a.id);
-  urlEntries.push(`  <url>\n    <loc>https://realchurch.github.io/website/${f}</loc>\n    <lastmod>2026-02-12</lastmod>\n    <changefreq>yearly</changefreq>\n    <priority>0.7</priority>\n  </url>`);
+  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/${f}</loc>\n    <lastmod>2026-02-12</lastmod>\n    <changefreq>yearly</changefreq>\n    <priority>0.7</priority>\n  </url>`);
 }
 for (const p of staticPages) {
-  urlEntries.push(`  <url>\n    <loc>https://realchurch.github.io/website/ko/${p}</loc>\n    <lastmod>2026-02-12</lastmod>\n    <changefreq>${p === 'articles.html' ? 'weekly' : 'monthly'}</changefreq>\n    <priority>${p === 'index.html' ? '1.0' : p === 'about.html' ? '0.8' : '0.9'}</priority>\n  </url>`);
+  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/ko/${p}</loc>\n    <lastmod>2026-02-12</lastmod>\n    <changefreq>${p === 'articles.html' ? 'weekly' : 'monthly'}</changefreq>\n    <priority>${p === 'index.html' ? '1.0' : p === 'about.html' ? '0.8' : '0.9'}</priority>\n  </url>`);
 }
 for (const a of sorted) {
   const f = pageNameFor(a.id);
-  urlEntries.push(`  <url>\n    <loc>https://realchurch.github.io/website/ko/${f}</loc>\n    <lastmod>2026-02-12</lastmod>\n    <changefreq>yearly</changefreq>\n    <priority>0.7</priority>\n  </url>`);
+  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/ko/${f}</loc>\n    <lastmod>2026-02-12</lastmod>\n    <changefreq>yearly</changefreq>\n    <priority>0.7</priority>\n  </url>`);
 }
 
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urlEntries.join('\n')}\n</urlset>\n`;

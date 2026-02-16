@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /website/article.html
+Disallow: /article.html
 
-Sitemap: https://realchurch.github.io/website/sitemap.xml
+Sitemap: https://jonginchoi.com/sitemap.xml
