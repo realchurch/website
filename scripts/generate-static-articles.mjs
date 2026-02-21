@@ -6,6 +6,35 @@ const root = '/Users/peter/Documents/GitHub/realchurch';
 const koRoot = path.join(root, 'ko');
 const SITE_URL = 'https://jonginchoi.com';
 const OG_IMAGE = `${SITE_URL}/images/profile.png`;
+const BUILD_DATE = new Date().toISOString().slice(0, 10);
+const KEYWORDS_EN = [
+  'Rev. Choi Jong-in',
+  'Christian pastor',
+  'pastor emeritus',
+  'theologian',
+  'pastoral care',
+  'Christian books',
+  'theology',
+  'worship',
+  'faith',
+  'suicide prevention',
+  'caregiving',
+  'caregiver guidance',
+  'Korean Christianity',
+];
+const KEYWORDS_KO = [
+  '최종인 목사',
+  '기독교',
+  '신학',
+  '목회',
+  '돌봄',
+  '자살 예방',
+  '암환자 돌봄',
+  '노년 커뮤니케이션',
+  '천국',
+  '예배',
+  '평화성결교회',
+];
 
 if (!fs.existsSync(koRoot)) fs.mkdirSync(koRoot, { recursive: true });
 
@@ -72,6 +101,9 @@ function articleHtml(article, lang, file) {
   const ogAltLocale = isKo ? 'en_US' : 'ko_KR';
   const languageName = isKo ? 'English' : '한국어';
   const backText = isKo ? '← 칼럼 목록으로' : '← Back to Articles';
+  const keywordContent = isKo
+    ? `${KEYWORDS_KO.join(', ')}, ${title}`
+    : `${KEYWORDS_EN.join(', ')}, ${title}`;
 
   return `<!DOCTYPE html>
 <html lang="${isKo ? 'ko' : 'en'}">
@@ -104,6 +136,7 @@ function articleHtml(article, lang, file) {
     <meta property="og:type" content="article">
     <meta property="og:locale" content="${ogLocale}">
     <meta property="og:locale:alternate" content="${ogAltLocale}">
+    <meta name="keywords" content="${escapeHtml(keywordContent)}">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="${escapeHtml(title)}">
@@ -121,7 +154,8 @@ function articleHtml(article, lang, file) {
       "@type": "BlogPosting",
       "headline": ${JSON.stringify(title)},
       "description": ${JSON.stringify(stripHtml(descFrom(article, lang)))},
-      "author": {"@type": "Person", "name": ${JSON.stringify(isKo ? '최종인' : 'Choi Jong-in')}},
+      "keywords": ${JSON.stringify(escapeHtml(keywordContent))},
+      "author": {"@type": "Person", "name": ${JSON.stringify(isKo ? '최종인 목사' : 'Rev. Choi Jong-in')}},
       "inLanguage": ${JSON.stringify(isKo ? 'ko' : 'en')},
       "mainEntityOfPage": ${JSON.stringify(selfUrl)}
     }
@@ -200,6 +234,9 @@ function listPage(lang) {
   const selfUrl = absolute(lang, 'articles.html');
   const enUrl = absolute('en', 'articles.html');
   const koUrl = absolute('ko', 'articles.html');
+  const listKeywordContent = isKo
+    ? `${KEYWORDS_KO.join(', ')}, 신앙 칼럼, 목회 칼럼`
+    : `${KEYWORDS_EN.join(', ')}, Christian reflections, ministry articles`;
   const css = isKo ? '../css/styles.css' : 'css/styles.css';
   const js = isKo ? '../js/main.js' : 'js/main.js';
   const icon = isKo ? '../favicon.png' : 'favicon.png';
@@ -246,6 +283,7 @@ function listPage(lang) {
     <meta property="og:image" content="${OG_IMAGE}">
     <meta property="og:url" content="${selfUrl}">
     <meta property="og:type" content="website">
+    <meta name="keywords" content="${escapeHtml(listKeywordContent)}">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="${isKo ? '최종인 목사 칼럼' : 'Articles by Rev. Choi Jong-in'}">
@@ -337,18 +375,18 @@ const staticPages = [
 
 const urlEntries = [];
 for (const p of staticPages) {
-  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/${p}</loc>\n    <lastmod>2026-02-12</lastmod>\n    <changefreq>${p === 'articles.html' ? 'weekly' : 'monthly'}</changefreq>\n    <priority>${p === 'index.html' ? '1.0' : p === 'about.html' ? '0.8' : '0.9'}</priority>\n  </url>`);
+  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/${p}</loc>\n    <lastmod>${BUILD_DATE}</lastmod>\n    <changefreq>${p === 'articles.html' ? 'weekly' : 'monthly'}</changefreq>\n    <priority>${p === 'index.html' ? '1.0' : p === 'about.html' ? '0.8' : '0.9'}</priority>\n  </url>`);
 }
 for (const a of sorted) {
   const f = pageNameFor(a.id);
-  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/${f}</loc>\n    <lastmod>2026-02-12</lastmod>\n    <changefreq>yearly</changefreq>\n    <priority>0.7</priority>\n  </url>`);
+  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/${f}</loc>\n    <lastmod>${BUILD_DATE}</lastmod>\n    <changefreq>yearly</changefreq>\n    <priority>0.7</priority>\n  </url>`);
 }
 for (const p of staticPages) {
-  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/ko/${p}</loc>\n    <lastmod>2026-02-12</lastmod>\n    <changefreq>${p === 'articles.html' ? 'weekly' : 'monthly'}</changefreq>\n    <priority>${p === 'index.html' ? '1.0' : p === 'about.html' ? '0.8' : '0.9'}</priority>\n  </url>`);
+  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/ko/${p}</loc>\n    <lastmod>${BUILD_DATE}</lastmod>\n    <changefreq>${p === 'articles.html' ? 'weekly' : 'monthly'}</changefreq>\n    <priority>${p === 'index.html' ? '1.0' : p === 'about.html' ? '0.8' : '0.9'}</priority>\n  </url>`);
 }
 for (const a of sorted) {
   const f = pageNameFor(a.id);
-  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/ko/${f}</loc>\n    <lastmod>2026-02-12</lastmod>\n    <changefreq>yearly</changefreq>\n    <priority>0.7</priority>\n  </url>`);
+  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/ko/${f}</loc>\n    <lastmod>${BUILD_DATE}</lastmod>\n    <changefreq>yearly</changefreq>\n    <priority>0.7</priority>\n  </url>`);
 }
 
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urlEntries.join('\n')}\n</urlset>\n`;
