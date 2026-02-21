@@ -20,7 +20,11 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     if (i18nEnabled) {
-        const currentLang = localStorage.getItem('preferredLang') || document.documentElement.lang || 'en';
+        const currentLang =
+            localStorage.getItem('preferredLang') ||
+            localStorage.getItem('siteLang') ||
+            document.documentElement.lang ||
+            'en';
         setLanguage(currentLang);
     }
 
@@ -49,6 +53,7 @@ function setLanguage(lang) {
     document.documentElement.lang = lang;
 
     // Save preference
+    localStorage.setItem('siteLang', lang);
     localStorage.setItem('preferredLang', lang);
 
     // Update Toggle Button Text

@@ -6,23 +6,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Redirecting to Korean</title>
     <meta name="robots" content="index,follow">
-    <meta http-equiv="refresh" content="0;url=/ko/index.html">
-    <link rel="canonical" href="https://jonginchoi.com/ko/index.html">
+    <link rel="canonical" href="https://jonginchoi.com/">
     <script>
         (function () {
+            const setLanguage = (lang) => {
+                localStorage.setItem('siteLang', lang);
+                localStorage.setItem('preferredLang', lang);
+            };
+
             const params = new URLSearchParams(window.location.search);
             const force = params.get('lang');
             if (force === 'en') {
-                localStorage.setItem('siteLang', 'en');
+                setLanguage('en');
                 window.location.replace('/en/index.html');
                 return;
             }
 
             if (force === 'ko') {
-                localStorage.setItem('siteLang', 'ko');
+                setLanguage('ko');
+                window.location.replace('/ko/index.html');
+                return;
             }
 
-            const preferredLang = localStorage.getItem('siteLang');
+            const preferredLang =
+                localStorage.getItem('preferredLang') ||
+                localStorage.getItem('siteLang');
             if (preferredLang === 'en') {
                 window.location.replace('/en/index.html');
                 return;
