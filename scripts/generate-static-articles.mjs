@@ -74,7 +74,7 @@ function descFrom(article, lang) {
 function absolute(lang, file) {
   return lang === 'ko'
     ? `${SITE_URL}/ko/${file}`
-    : `${SITE_URL}/${file}`;
+    : `${SITE_URL}/en/${file}`;
 }
 
 function articleHtml(article, lang, file) {
@@ -85,7 +85,7 @@ function articleHtml(article, lang, file) {
   const enUrl = absolute('en', otherFile);
   const koUrl = absolute('ko', otherFile);
   const canonical = isKo ? koUrl : enUrl;
-  const otherUrl = isKo ? `../${otherFile}` : `ko/${otherFile}`;
+  const otherUrl = isKo ? `/en/${otherFile}` : `/ko/${otherFile}`;
   const backUrl = isKo ? 'articles.html' : 'articles.html';
   const css = isKo ? '../css/styles.css' : 'css/styles.css';
   const js = isKo ? '../js/main.js' : 'js/main.js';
@@ -230,7 +230,7 @@ for (const a of sorted) {
 
 function listPage(lang) {
   const isKo = lang === 'ko';
-  const filePrefix = isKo ? 'ko/' : '';
+  const filePrefix = isKo ? 'ko/' : 'en/';
   const selfUrl = absolute(lang, 'articles.html');
   const enUrl = absolute('en', 'articles.html');
   const koUrl = absolute('ko', 'articles.html');
@@ -240,7 +240,7 @@ function listPage(lang) {
   const css = isKo ? '../css/styles.css' : 'css/styles.css';
   const js = isKo ? '../js/main.js' : 'js/main.js';
   const icon = isKo ? '../favicon.png' : 'favicon.png';
-  const langLink = isKo ? '../articles.html' : 'ko/articles.html';
+  const langLink = isKo ? '/en/articles.html' : '/ko/articles.html';
   const langLabel = isKo ? 'English' : '한국어';
 
   const items = sorted.map((a) => {
@@ -375,11 +375,11 @@ const staticPages = [
 
 const urlEntries = [];
 for (const p of staticPages) {
-  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/${p}</loc>\n    <lastmod>${BUILD_DATE}</lastmod>\n    <changefreq>${p === 'articles.html' ? 'weekly' : 'monthly'}</changefreq>\n    <priority>${p === 'index.html' ? '1.0' : p === 'about.html' ? '0.8' : '0.9'}</priority>\n  </url>`);
+  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/en/${p}</loc>\n    <lastmod>${BUILD_DATE}</lastmod>\n    <changefreq>${p === 'articles.html' ? 'weekly' : 'monthly'}</changefreq>\n    <priority>${p === 'index.html' ? '1.0' : p === 'about.html' ? '0.8' : '0.9'}</priority>\n  </url>`);
 }
 for (const a of sorted) {
   const f = pageNameFor(a.id);
-  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/${f}</loc>\n    <lastmod>${BUILD_DATE}</lastmod>\n    <changefreq>yearly</changefreq>\n    <priority>0.7</priority>\n  </url>`);
+  urlEntries.push(`  <url>\n    <loc>${SITE_URL}/en/${f}</loc>\n    <lastmod>${BUILD_DATE}</lastmod>\n    <changefreq>yearly</changefreq>\n    <priority>0.7</priority>\n  </url>`);
 }
 for (const p of staticPages) {
   urlEntries.push(`  <url>\n    <loc>${SITE_URL}/ko/${p}</loc>\n    <lastmod>${BUILD_DATE}</lastmod>\n    <changefreq>${p === 'articles.html' ? 'weekly' : 'monthly'}</changefreq>\n    <priority>${p === 'index.html' ? '1.0' : p === 'about.html' ? '0.8' : '0.9'}</priority>\n  </url>`);
