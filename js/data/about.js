@@ -6,8 +6,8 @@ export const about = {
             en: "Rev. Choi Jong-in holds a Master's degree in Journalism from Chung-Ang University, a Master of Divinity and a Doctor of Theology from Seoul Theological University, and a Doctor of Missiology from United Theological Seminary in the USA."
         },
         p2: {
-            ko: "공군 군목, 오하이오 한인학생선교회 대표, 성결대학교·서울신학대학교 외래교수를 역임했으며, 현재 평화성결교회 담임목사로 섬기고 있다.",
-            en: "He has served as an Air Force chaplain, representative of the Ohio Korean Student Mission, and adjunct professor at Sungkyul University and Seoul Theological University. He is currently the senior pastor of Peace Church (평화성결교회)."
+            ko: "공군 군목, 오하이오 한인학생선교회 대표, 성결대학교·서울신학대학교 외래교수를 역임했으며, 현재 평화성결교회 원로목사로 섬기고 있다.",
+            en: "He has served as an Air Force chaplain, representative of the Ohio Korean Student Mission, and adjunct professor at Sungkyul University and Seoul Theological University. He is currently the pastor emeritus of Peace Church (평화성결교회)."
         },
         p3: {
             ko: "저서로는 <em>회색 코뿔소 앞에 선 다윗</em>, <em>천국 큐레이팅</em>, <em>암환자 돌봄사역</em>, <em>장애 친화적 교회</em>, <em>하나님이 막으시는 자살</em>, <em>노년 커뮤니케이션</em>, <em>The Table-성경의 테이블</em>, <em>죽음예비학</em> 등이 있다.",
