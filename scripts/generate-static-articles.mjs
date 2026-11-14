@@ -373,6 +373,17 @@ const staticPages = [
   'about.html'
 ];
 
+const bookPages = [
+  'book-hospice-guide',
+  'book-luke-end-of-life',
+  'book-christian-spirituality',
+  'book-dementia-worship',
+  'book-cancer-church',
+  'book-welldying-coaching',
+  'book-daniel-confidence',
+  'book-elder-care-ethics'
+];
+
 const urlEntries = [];
 for (const p of staticPages) {
   urlEntries.push(`  <url>\n    <loc>${SITE_URL}/en/${p}</loc>\n    <lastmod>${BUILD_DATE}</lastmod>\n    <changefreq>${p === 'articles.html' ? 'weekly' : 'monthly'}</changefreq>\n    <priority>${p === 'index.html' ? '1.0' : p === 'about.html' ? '0.8' : '0.9'}</priority>\n  </url>`);
@@ -391,6 +402,12 @@ for (const a of sorted) {
 
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urlEntries.join('\n')}\n</urlset>\n`;
 fs.writeFileSync(path.join(root, 'sitemap.xml'), sitemap);
+
+for (const p of bookPages) {
+  for (const lang of ['en', 'ko']) {
+    urlEntries.push(`  <url>\n    <loc>${SITE_URL}/${lang}/${p}.html</loc>\n    <lastmod>${BUILD_DATE}</lastmod>\n    <changefreq>yearly</changefreq>\n    <priority>0.7</priority>\n  </url>`);
+  }
+}
 
 const mapEntries = Object.fromEntries(articles.map((a) => [a.id, pageNameFor(a.id)]));
 const loaderPath = path.join(root, 'js', 'article-loader.js');
