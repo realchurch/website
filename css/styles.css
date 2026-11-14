@@ -390,20 +390,19 @@ footer p {
     }
 }
 /* Book Detail Page */
-.book-hero {
-    padding: 3rem 0 3rem;
-    border-bottom: 1px solid rgba(74, 59, 50, 0.1);
-}
-
-.book-detail {
+.book-layout {
     display: grid;
-    grid-template-columns: 300px 1fr;
+    grid-template-columns: 300px minmax(0, 1fr);
     gap: 3.5rem;
-    align-items: center;
-    margin-top: 1rem;
+    align-items: start;
 }
 
-.book-detail-cover img {
+.book-cover-col {
+    position: sticky;
+    top: 2rem;
+}
+
+.book-cover-col img {
     width: 100%;
     max-width: 300px;
     height: auto;
@@ -413,6 +412,12 @@ footer p {
     box-shadow: 0 12px 28px rgba(74, 59, 50, 0.2);
 }
 
+.book-main .book-head {
+    padding-bottom: 2rem;
+    margin-bottom: 2.5rem;
+    border-bottom: 1px solid rgba(74, 59, 50, 0.1);
+}
+
 .book-kicker {
     display: inline-block;
     font-family: var(--font-heading);
@@ -420,13 +425,13 @@ footer p {
     letter-spacing: 2px;
     text-transform: uppercase;
     color: var(--accent-color);
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.6rem;
 }
 
 .book-detail-title {
     font-size: 2.6rem;
     line-height: 1.2;
-    margin-bottom: 0.6rem;
+    margin-bottom: 0.7rem;
 }
 
 .book-detail-subtitle {
@@ -435,14 +440,14 @@ footer p {
     font-size: 1.25rem;
     line-height: 1.5;
     color: rgba(74, 59, 50, 0.78);
-    margin-bottom: 0.6rem;
+    margin-bottom: 0.5rem;
 }
 
 .book-detail-alt-title {
     font-size: 1rem;
     letter-spacing: 0.5px;
     color: rgba(74, 59, 50, 0.55);
-    margin-bottom: 1.25rem;
+    margin-bottom: 1.1rem;
 }
 
 .book-detail-meta {
@@ -450,20 +455,14 @@ footer p {
     color: #8a7a6c;
 }
 
-.book-body {
-    max-width: 820px;
-    margin: 0 auto;
-    padding: 3.5rem 0 4rem;
-}
-
-.book-body h2 {
+.book-main h2 {
     font-size: 1.85rem;
     margin-bottom: 1.5rem;
     position: relative;
     padding-bottom: 0.75rem;
 }
 
-.book-body h2::after {
+.book-main h2::after {
     content: '';
     position: absolute;
     left: 0;
@@ -473,7 +472,7 @@ footer p {
     background-color: var(--accent-color);
 }
 
-.book-body > section + section {
+.book-main > section + section {
     margin-top: 3.5rem;
 }
 
@@ -533,18 +532,14 @@ footer p {
     margin-bottom: 0;
 }
 
-@media (max-width: 768px) {
-    .book-hero {
-        padding: 2rem 0;
-    }
-
-    .book-detail {
+@media (max-width: 900px) {
+    .book-layout {
         grid-template-columns: 1fr;
         gap: 2rem;
-        text-align: center;
     }
 
-    .book-detail-cover {
+    .book-cover-col {
+        position: static;
         max-width: 260px;
         margin: 0 auto;
     }
@@ -553,8 +548,9 @@ footer p {
         font-size: 2rem;
     }
 
-    .book-body h2::after {
-        left: 0;
+    .book-main .book-head {
+        padding-bottom: 1.5rem;
+        margin-bottom: 2rem;
     }
 }
 
